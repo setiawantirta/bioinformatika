@@ -1,0 +1,1440 @@
+LOCUS       OK482671                7182 bp    mRNA    linear   INV 10-JAN-2022
+DEFINITION  Propylea japonica serine/threonine-protein kinase mTOR (mTOR) mRNA,
+            complete cds.
+ACCESSION   OK482671
+VERSION     OK482671.1
+KEYWORDS    .
+SOURCE      Propylea japonica
+  ORGANISM  Propylea japonica
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Coleoptera; Polyphaga;
+            Cucujiformia; Coccinelloidea; Coccinellidae; Coccinellinae;
+            Coccinellini; Propylea.
+REFERENCE   1  (bases 1 to 7182)
+  AUTHORS   Chen,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-OCT-2021) Plant Protection Department, Institute of
+            Cotton Research, Chinese Academy of Agricultural Sciences, No. 38,
+            Huanghe Road, Anyang, Henan 455000, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: Trinity v. v.v2.3.2
+            Sequencing Technology :: Illumina
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..7182
+                     /organism="Propylea japonica"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:158624"
+     gene            1..7182
+                     /gene="mTOR"
+     CDS             1..7182
+                     /gene="mTOR"
+                     /codon_start=1
+                     /product="serine/threonine-protein kinase mTOR"
+                     /protein_id="UIB01653.1"
+                     /translation="MSSAAMEIFIAGLKSKSADTRNKTANDLSQYLKTELREATPDEI
+                     NNFCDDFNHHIFKMVSSPDVNEKMGGLLAIVCLTGADFGNMTTRISRFANYLRNLIPS
+                     NDVGVMELAAKTMGRLALVFSGSKASEYVEFEVKRAFEWLGRERFESRRHAAVLILKE
+                     LAITVPTYFYQQVSPFFDSIFYAVQDPKTSIREDAVEALRAALVVTAQRETARQNQKP
+                     QWYKQCYDEFAKLLSIDKGERVKDERIHGGLLIMNELLRCSNATWERKYKNLVEITDP
+                     RTKSKDNIIYIDKKLPKLRSYSVFGNAEANIPIVESLVCQQLLKEKFEFVCTDILNQR
+                     ASRSAYVQQTILTLLPRLAAFDRKFFVKDFLNTSMTHLFTMIGKGREKDRGICFVTLG
+                     LMALAVENDIEPYLDKIMEAVRNALPKADNLSRKRAYVDSSIFKCITYLAHALEKHNR
+                     MDISNLLDQMLASGLTPSLTICLRELAKKIPPEKEKISVGLLKMLSTILLTKTLVHPG
+                     MPGQLILQYASIGNVPETNDSQMLVLALNTLGTFDFKNQNLVQFIQRCSNYYTTNDSQ
+                     DVRLEAVKTTCRLLKKTLQSQNEDPNKTMVDAIAKVLERLLVVGVTDTDPSVRFGVLT
+                     SLDPIFDSVLSQADVLTYLFIAMQDEVFEIREVALFIYGRLSTKNPAYIIPSLRKILI
+                     QFLTELEHSGLTRNREQAAKMLDRLVVSSPQLIRPYVEPVLKSLVPKLKNCDSLSPGV
+                     TISMLYAVGDLAEVTGDGAELQNWMSDLMSILLEMLGDASDPDKRGASLKTLGQLVGA
+                     TGHIIQPYSRYPNLLDVLINFLKTEQQRSIRRETLRVLGLLGALDPYRHKINRGEIDC
+                     QRETPALIAMADKTEDVTDLTSSEMLVNMSQNTLEEYYLAIAIATLMKILKDPTLFQH
+                     HTMVVQAVTFIFKSLGIKCVPYIPKVMPSLLTAAKNPDVAFREFLFQQLAQLIVIVKQ
+                     HIRNYLDDICKLIDEYWTPESTIQPTLILLVEHLAMALGTEFKVYLPSLMPQILRVLH
+                     HDNSRDRLYTMKLLLMLPSFGSNLTDYLHLILPPIVKLFDSKDCTTAVSKQALQTVQE
+                     MAEILDLSDFASRIIHPIIRTIDNCPELRQQAMETTCAVMLRIGKKFNMFIPLIQNTL
+                     HKHKLTHQKFDILVSKLQSKTTMAEDIDFPTTTHKTRMRINDVAVTSDATINKSLKVS
+                     ESELQKAWTPQRRVSKEDWLEWLRRLSIELLIQSPIPALRSCLSLAQSYSQLPRDLFN
+                     AAFVSCWNELSESMQSELIACLQKALTVPDVPEITQTILNLAEFMDHCDKGPLPLDQH
+                     LLGEHAMRSRAYAKALHYKEEEFLKNPNSTVVEALISINNKLQQKEAAEGLLQTVVQK
+                     CGETEVQIRWHEKLHNWTHALDLYKEKLEKEPFEQEACLGTMRCLEALGEWKDLHDTV
+                     ETKFELLTEDNKNKACRLAASASFGLLNFRSMERYASMIPKDSQEGSFYRAILAIHKN
+                     QYEVAQNYIDKTRDLLDTELTAMAGESYQRAYGAMVQVQILAELEEVMQYRLVPERRP
+                     TLKSMWWQRLQSGQRLPDDWQKILLVQSLVLSPQENIHAWLKYASLCQDPEMNPNFLI
+                     PHEQPYLVYAYTKHLWTAEKQGKAYQLLGNFVRDFVRGNNMMNNIHILDKHNLLARCY
+                     LKLGNWQEALEGVNQNSIAPILKCYQQATDYDPGWYKAWHAWAYMNFESVLFYKNKPE
+                     ATTERSEINYAVDAVQGFFKSIKLSRGSSLQDTLRLLTLWFDYGHSSEIYDAMVDGIR
+                     LVEKNTWLQVIPQLIARIDTPRLLVSRLIHHLLIDIGKTHPQALVYPLTVATKSNSAQ
+                     RRNAANKILKSMSEHSPVLVSQAKTASEELIRVAILWHEMWHEGLEEASRLYFGERNA
+                     KAMLRILEPLHAILDRGPQTLKETSFTQAYARDLNEAANWCQKYKSSSNTRDLNQAWD
+                     LYYHVFRRISRQLPQLTSLELQYVSPNLQDFKNLELAVPGSYSPGQPIIRIQYIHRSL
+                     EVITSKQRPRKLRIRGSDGKDYMFLLKGHEDLRQDERVMQLFGLVNTLLLKDPDTFRR
+                     NLTIQRYAVIPLNTNSGLIGWVPHCDTLHTLIRDYRDKKKILLNIEHRIMLRMAPDYD
+                     HLTVIQKVEVFEHALEHTHGDDLAKLLWLKSPSSEVWFDRRTNYTRSLAVMSMVGYIL
+                     GLGDRHPSNLMLDRLSGKILHIDFGDCFEVAMTRDKFPEKIPFRLTRMLVNAMEVTHI
+                     EGTYRRTCESVMNVLRRNKDSLMAVLEAFVYDPLLNWRLLDSNTRFRSTEMETASTSS
+                     IQDAELLDTVDIRRSEPSSEFAPGSVQPEALNRKAVVITNRVKDKLTGKDFGPDEVLT
+                     VQKQVDLLIRQATSNENLCQCYIGWCPFW"
+ORIGIN      
+        1 atgtcttccg ctgcaatgga aatattcatc gctggattga aatccaaaag cgccgatact
+       61 agaaacaaaa cagcaaacga tctatcccaa tacctcaaga cagaacttcg tgaagctaca
+      121 ccagacgaaa tcaacaattt ttgcgatgat tttaaccatc atatcttcaa aatggtctca
+      181 agcccagacg tcaatgaaaa aatgggtgga ttactggcta ttgtgtgcct tactggggcc
+      241 gactttggta acatgacaac gaggatatct cgatttgcca actacctgcg aaaccttata
+      301 ccttcaaacg atgttggcgt tatggaactg gcagctaaaa ccatgggaag acttgcctta
+      361 gttttctcag gttccaaagc ctctgaatat gttgagtttg aagttaaacg agcttttgaa
+      421 tggctgggaa gggaacgttt cgagagccga aggcatgctg ctgtattgat actgaaagag
+      481 ttagcaataa cagttcccac ttatttttat cagcaagtgt caccgttttt cgattcgatt
+      541 ttttacgctg ttcaagaccc aaaaactagt ataagagagg atgctgttga agctttgaga
+      601 gctgcgttag ttgtaaccgc acaaagagaa actgcgaggc aaaatcaaaa accacaatgg
+      661 tacaaacaat gctacgacga attcgccaaa ctcctaagca tagacaaagg agaaagagtc
+      721 aaggacgaaa gaatccacgg tggtcttctc atcatgaacg agctcctgcg ctgctccaac
+      781 gccacctggg agcgcaagta caagaaccta gtcgaaatta ccgacccacg caccaaatcc
+      841 aaggacaaca taatctacat cgacaagaaa ctgcccaaac ttcgaagtta cagcgttttc
+      901 ggcaacgcag aggccaacat ccctatcgta gaatctttgg tctgtcaaca gctcctcaaa
+      961 gagaaatttg agtttgtctg tacggacatt ttgaatcaga gggcttctag aagtgcttac
+     1021 gtacaacaga cgatcctcac acttttacca cgacttgctg cgttcgaccg aaagtttttt
+     1081 gttaaggatt tcttgaacac ttccatgacc caccttttta ccatgattgg aaaaggcaga
+     1141 gagaaagatc gaggtatctg ttttgtcacc ttggggttaa tggctttagc agtggaaaac
+     1201 gacatagaac catatttgga taaaataatg gaagcggtga ggaacgctct accaaaagca
+     1261 gacaatctat cgagaaaaag agcatacgta gactcctcca tctttaaatg cataacctat
+     1321 ttagcccacg cactcgaaaa gcacaacagg atggacatct cgaatctcct ggaccaaatg
+     1381 ctagccagcg ggttgactcc atctttgacc atctgtctca gagaactagc caagaaaata
+     1441 ccaccagaga aagaaaagat aagcgtgggg ctgctcaaaa tgctgtcgac catcctgttg
+     1501 accaagacgt tggtacatcc gggcatgccg ggtcagctca tactgcagta tgcgagcatt
+     1561 ggtaacgtgc cggagaccaa cgattcacag atgctggtgt tggcgttgaa cacgcttggt
+     1621 acgttcgatt ttaagaatca gaacttggtg cagtttatac agaggtgttc caactattat
+     1681 acgacgaatg attcacagga cgttcgctta gaagcagtaa aaaccacctg ccgcctactc
+     1741 aaaaaaaccc tccagtcgca aaacgaagac cccaacaaaa cgatggtgga cgccatcgcc
+     1801 aaggtgctgg agcgcctcct ggtggtcggc gtgaccgaca cggaccccag cgtccgcttc
+     1861 ggcgtcctaa cctctctaga tcccatcttc gactcggtct tgagccaggc ggacgtcctc
+     1921 acgtacctct tcatagcgat gcaggacgag gtgttcgaga taagggaggt ggccctcttc
+     1981 atctacggca ggctgagcac caagaacccg gcgtacatta taccgtcctt gaggaagatc
+     2041 ttgatccagt tcttgacgga gctggagcat tctgggctga ccagaaacag ggaacaggct
+     2101 gcgaagatgt tggaccggtt ggtggtcagc agtcctcagt tgatcagacc ttacgtggag
+     2161 ccggtgctca agtcactagt gccaaaactg aagaactgcg actccttatc accaggagta
+     2221 acgatatcca tgttgtacgc tgtgggcgat ctagcagaag taacaggaga tggtgccgaa
+     2281 ctccaaaact ggatgtccga tctcatgtcc atcctcctag aaatgctagg agatgcttcc
+     2341 gacccagaca aaagaggagc atcgttaaaa accctaggtc agttggtcgg agccactggt
+     2401 cacataatac aaccatactc gagataccct aacttactcg atgtattgat caatttccta
+     2461 aagactgaac aacaaagatc tatccgaaga gagacactta gagttctagg tttactcgga
+     2521 gctcttgacc cttacaggca caaaattaat agaggagaaa tcgactgtca acgagaaacc
+     2581 ccagcattga tagctatggc agataaaaca gaggatgtaa ccgatttgac atccagtgaa
+     2641 atgttggtta acatgtccca aaacaccctg gaagaatatt acttggcgat tgccatagcc
+     2701 acgttgatga aaatcttgaa agatccaacc ctattccagc accacaccat ggtagtccaa
+     2761 gcggtaacct tcatttttaa aagtttgggc atcaaatgcg tgccctacat accaaaagtt
+     2821 atgccaagtt tgcttacagc cgctaaaaac ccagacgtgg cgtttaggga attcctgttc
+     2881 caacagttgg cacaactgat cgttatagtc aagcagcaca tcaggaacta tcttgatgac
+     2941 atatgcaaac tgatcgatga atattggaca cctgaaagta caattcaacc aactttgata
+     3001 ctattggttg agcatttagc catggctttg ggaaccgagt tcaaagtgta ccttccaagc
+     3061 ctgatgcctc aaattttgag ggtcttgcac cacgataact cgagagacag actgtacacc
+     3121 atgaaacttc tgttgatgtt acccagtttc ggtagcaacc ttaccgacta tcttcattta
+     3181 atccttcctc ctatagtgaa acttttcgat tcgaaggact gcacgacagc tgtgtccaaa
+     3241 caagcattac agaccgttca ggagatggct gagatcttgg atttgtcaga tttcgcctct
+     3301 cggataattc atcccatcat aagaaccata gacaactgtc cggagctgag acagcaagct
+     3361 atggaaacca cctgcgcagt gatgctcagg atagggaaga agtttaacat gttcattccc
+     3421 ttaatccaga atacattgca taagcacaag ctcacacacc agaagtttga catattggtg
+     3481 tccaagctgc aatctaaaac aacaatggcg gaagatatag acttcccgac tacgacccat
+     3541 aaaacaagaa tgagaatcaa cgacgtggct gtcaccagcg acgcaaccat aaacaagagt
+     3601 cttaaagtat ccgagtccga gctccaaaaa gcgtggacgc ctcaaagacg cgtgtccaaa
+     3661 gaagactggc tggaatggct caggaggctc agcatagagc tgctgatcca gtccccgata
+     3721 ccggccttga ggtcgtgcct gtctcttgct cagagctatt cccagctacc cagggatctg
+     3781 ttcaacgcgg ccttcgtgag ttgctggaac gaattgagcg aaagtatgca gtcggagctc
+     3841 atcgcctgcc tgcagaaggc tctgaccgtg cccgacgtgc ctgagatcac tcagaccata
+     3901 ctgaatctgg ccgagttcat ggaccattgc gataagggac ctctgcccct ggatcagcat
+     3961 ctgttgggag agcacgcgat gagatcgaga gcgtacgcca aagccctcca ctacaaagag
+     4021 gaggaattct tgaagaaccc caacagcacc gtggtcgaag ccttgatctc catcaacaac
+     4081 aagctgcagc aaaaggaagc ggccgagggg ctcctgcaaa ccgtcgtgca gaaatgcggg
+     4141 gagacagagg tgcagataag atggcacgag aaactgcaca actggaccca cgccctggac
+     4201 ctttacaagg agaaactgga gaaggagccg ttcgagcaag aggcttgcct gggtaccatg
+     4261 aggtgtctgg aagcgctagg agagtggaag gacttgcacg ataccgtaga gacgaaattc
+     4321 gagcttttga cagaagacaa taagaataag gcttgtagac ttgccgcttc agcttcgttc
+     4381 gggttgctca actttaggtc gatggaaaga tacgcctcaa tgataccgaa agacagccaa
+     4441 gaaggttcgt tctacagggc catactggcc atccacaaga atcaatacga ggtggcgcaa
+     4501 aattacatag acaaaaccag ggatctgctg gacaccgaac tgacggccat ggccggagaa
+     4561 tcgtaccaga gggcgtacgg cgccatggtc caggtgcaga tcctggccga actcgaggag
+     4621 gtcatgcagt accggctggt accggaaagg aggcccacct tgaaatccat gtggtggcag
+     4681 aggctacaat caggtcaaag gttgcctgac gactggcaga agattttact ggtgcaaagt
+     4741 ttggtgttat caccgcaaga aaacattcac gcttggttga agtacgcttc tttatgccaa
+     4801 gatccggaaa tgaacccgaa tttcttgata cctcacgagc agccttattt ggtatacgcc
+     4861 tacaccaaac atctttggac cgccgagaaa cagggcaaag cctatcagct tctcggaaat
+     4921 ttcgtcagag atttcgtcag gggcaacaac atgatgaaca acatacacat tttggacaaa
+     4981 cataatttgt tggccagatg ctacttaaaa ctgggcaact ggcaggaagc tttagagggc
+     5041 gtgaaccaaa attccatagc gcccatactg aaatgctacc agcaggccac cgactatgat
+     5101 cctgggtggt acaaagcttg gcacgcttgg gcctacatga acttcgaatc cgttctattc
+     5161 tacaagaaca aacctgaagc caccaccgaa cgatctgaga tcaactatgc ggtcgacgcc
+     5221 gttcaaggat tcttcaagtc catcaaacta tccaggggca gctccctaca ggacaccctg
+     5281 agactgctaa cgctctggtt cgattacggg cattcgtctg agatttacga cgctatggta
+     5341 gacggaatac gcttggtaga aaagaacacc tggctgcagg tgatacctca gctgatagcc
+     5401 aggatcgaca ctccaaggct cttggtctct cgtttgatcc atcacttgct catagacatc
+     5461 ggtaaaactc acccgcaggc cttggtctac cctctgaccg tggccaccaa gagtaactcc
+     5521 gcccaacgga ggaacgcggc caataagatc ctgaagagca tgagcgaaca ctcacccgtt
+     5581 ctagtcagtc aagctaagac cgcctctgag gaactcatca gagtggctat cctatggcat
+     5641 gagatgtggc acgaaggctt agaagaggct tccaggttgt actttggaga aaggaacgct
+     5701 aaggctatgt taaggatact cgaacctcta cacgccatct tagacagagg accgcaaacg
+     5761 ttaaaagaaa ccagcttcac ccaagcttac gccagagatc taaacgaggc ggccaactgg
+     5821 tgccaaaagt acaaatcctc aagcaatacc cgcgatctga accaagcgtg ggatctttat
+     5881 taccacgtat tcagaaggat cagcaggcag ctaccccagt taacatcctt ggagctccag
+     5941 tacgtctccc ccaaccttca agatttcaag aacttagaat tagctgtgcc cggtagctat
+     6001 tctccagggc aaccgattat caggatccaa tacatccaca ggtctttgga ggttatcacc
+     6061 tcgaaacaga gacccaggaa attgaggatc agaggatcgg acggcaaaga ctacatgttc
+     6121 ttgttgaagg gtcacgagga tttaagacag gacgagaggg tgatgcaact gtttggtctc
+     6181 gttaatacgt tgttattgaa agatcctgat acgttccgaa ggaaccttac catacaaaga
+     6241 tacgctgtga tacctttgaa caccaattct ggcctgatcg gttgggtacc tcattgcgat
+     6301 actttacaca ctttgatcag ggactacagg gataagaaga agatcctgtt gaatatagag
+     6361 cataggataa tgttgcggat ggctccagac tatgatcact tgacggttat ccagaaggta
+     6421 gaagtgtttg aacacgcttt ggaacacact cacggagacg atttagccaa attactatgg
+     6481 ttgaagagtc cgagttccga agtctggttt gatcgaagaa caaactacac aagatccctg
+     6541 gctgtgatgt cgatggtcgg ttacatccta ggtctaggag acagacaccc ttccaactta
+     6601 atgttagaca gactaagcgg aaagattctt cacatagatt tcggagactg tttcgaagta
+     6661 gccatgacta gagacaaatt ccccgaaaaa atccccttca gattaaccag aatgttagta
+     6721 aacgcaatgg aagttaccca catcgaaggc acctacagaa gaacctgcga atccgtaatg
+     6781 aatgtactga gacgaaataa ggacagtttg atggccgtac tagaagcttt cgtctacgac
+     6841 ccactgctta actggaggct cctggattca aacacaagat tcaggtctac tgagatggaa
+     6901 actgcatcca cgagctctat tcaagacgca gaattgctag acactgtcga tataagaaga
+     6961 agtgaaccct cgagtgaatt cgctccaggt tccgtacaac ccgaagcgtt gaacaggaaa
+     7021 gcggtagtga ttacgaacag agtgaaagac aagttaacgg ggaaagattt cggtcctgat
+     7081 gaagtgttga cagtgcagaa acaagtggat cttttgatca gacaagcgac gagtaacgag
+     7141 aacttgtgtc agtgttacat cggatggtgt ccgttctggt ga
+//
+
+LOCUS       MF135246                1334 bp    mRNA    linear   VRT 18-APR-2018
+DEFINITION  Schizothorax richardsonii mTOR (mTOR) mRNA, partial cds.
+ACCESSION   MF135246
+VERSION     MF135246.1
+KEYWORDS    .
+SOURCE      Schizothorax richardsonii (snow trout)
+  ORGANISM  Schizothorax richardsonii
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Actinopterygii; Neopterygii; Teleostei; Ostariophysi;
+            Cypriniformes; Cyprinidae; Schizothoracinae; Schizothorax.
+REFERENCE   1  (bases 1 to 1334)
+  AUTHORS   Rajesh,M., Akhtar,M.S., Ciji,A., Kamalam,B.S., Giri,A.K. and
+            Singh,A.K.
+  TITLE     Molecular charcaterisation and expression profile of mTOR in
+            Schizothorax richardsonii
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1334)
+  AUTHORS   Rajesh,M., Akhtar,M.S., Ciji,A., Kamalam,B.S., Giri,A.K. and
+            Singh,A.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-MAY-2017) Aquaculture & Fish Nutrition, ICAR -
+            Directorate of Coldwater Fisheries Research, Vikas Bhavan,
+            Industrial Area, Bhimtal, Nainital, Uttarakhand 263136, India
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: BioEdit v. 7.5.0.2
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1334
+                     /organism="Schizothorax richardsonii"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:183910"
+                     /tissue_type="liver"
+                     /altitude="1420 m"
+                     /collected_by="Akthar M S"
+     gene            <1..>1334
+                     /gene="mTOR"
+     CDS             <1..>1334
+                     /gene="mTOR"
+                     /codon_start=1
+                     /product="mTOR"
+                     /protein_id="AVY53421.1"
+                     /translation="RAKAAKDLQHYVTTELRELSQDEATTFYDELNHHIFELVSSSDV
+                     NEKKGGILAIVSLIGVEGGNATRISRFANYLRNLLPSSDSVVMEMASKAMGHLSMAGD
+                     TFTAEYVEFEVKRALEWLGADRNEGRRHAAVLVLRELAVSAPTFFFQQVQPFFDNIFY
+                     AVWDSKQAIREGAVAALRACLILTTQRETKEMQKPQWYKQTFEEAEKGFDETLAKEKG
+                     MNKDDRVHGALLILNELVRISSMEGERMREEMEEITQQQLVHDKYCKELMGFSTKPRH
+                     ITPFTSFQSVQPQQSNALLGLLGYSTPQGFLGFGAVPVPSKNTLVESRYCRELMEEHF
+                     DQVCRWVLKYRTSKNPLIQMTILSLLPRLAAFQPHTFTDQYLQDTMGHLLGCLKKEKE
+                     RTAAFQALGLLVVAVRAEIQPYLIKILEIIKAALPPKDFAHKRQKTMQVDATV"
+ORIGIN      
+        1 cgtgccaaag ctgccaaaga cctccagcat tatgttacca cagaactaag agagctgagc
+       61 caagatgaag ccactacttt ctatgatgag ctgaaccacc acatattcga gttggtttcc
+      121 agctcagatg tgaatgagaa aaaaggcggt atccttgcca tagtgagctt gattggtgtg
+      181 gaagggggaa atgccacccg tatcagccgt tttgccaact acctgcgcaa cctgcttccc
+      241 tccagtgact cagtggtcat ggagatggcc tctaaggcca tgggtcatct gtccatggct
+      301 ggagacacct tcactgcaga gtatgtggag tttgaggtga agagagctct tgaatggctg
+      361 ggagcagaca ggaatgaggg cagacggcat gcagcggtgc tggttttgcg agagctcgct
+      421 gttagcgcac ccacattctt cttccagcag gtgcagccgt tttttgataa cattttctat
+      481 gctgtgtggg actccaaaca ggcgatccgt gagggtgcag tagctgcact cagagcctgt
+      541 ctgatcctca ccacccagag agagaccaaa gagatgcaga aaccacagtg gtacaagcaa
+      601 acatttgagg aagccgagaa gggttttgat gaaactctgg ctaaagagaa aggcatgaat
+      661 aaggatgacc gtgtccatgg agctctactg attctcaatg aactggtgcg aataagcagt
+      721 atggagggag agcgtatgag agaggaaatg gaggagatta cacagcagca gttggttcat
+      781 gataagtatt gtaaggagtt gatgggtttc agcactaaac ctcgccacat cacgcccttc
+      841 accagctttc agtcagtgca gccgcagcag tccaatgctc tgctggggct gctgggatac
+      901 agcacaccac agggcttcct aggtttcgga gctgtacctg ttccctccaa aaacacgctg
+      961 gtggaaagcc ggtactgcag agaactgatg gaggagcatt ttgaccaggt gtgccgttgg
+     1021 gtgctgaaat acaggaccag taagaatcca ctcattcaga tgactatcct aagcctactg
+     1081 ccccgacttg ctgccttcca gcctcacact ttcactgatc agtatttaca ggacactatg
+     1141 gggcacctgc tgggctgcct gaaaaaagag aaggagagaa cggcagcatt tcaagcgttg
+     1201 gggttgctgg tggtggctgt gagggctgaa attcagccct acctcatcaa gatcctggag
+     1261 atcatcaaag ctgcactgcc acctaaagac tttgcacaca agaggcagaa gaccatgcag
+     1321 gtggatgcta ctgt
+//
+
+LOCUS       NM_001273498            7987 bp    mRNA    linear   INV 26-DEC-2023
+DEFINITION  Drosophila melanogaster mechanistic target of rapamycin, transcript
+            variant B (mTor), mRNA.
+ACCESSION   NM_001273498
+VERSION     NM_001273498.1
+DBLINK      BioProject: PRJNA164
+            BioSample: SAMN02803731
+KEYWORDS    RefSeq.
+SOURCE      Drosophila melanogaster (fruit fly)
+  ORGANISM  Drosophila melanogaster
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Diptera; Brachycera;
+            Muscomorpha; Ephydroidea; Drosophilidae; Drosophila; Sophophora.
+REFERENCE   1  (bases 1 to 7987)
+  AUTHORS   Matthews,B.B., Dos Santos,G., Crosby,M.A., Emmert,D.B., St
+            Pierre,S.E., Gramates,L.S., Zhou,P., Schroeder,A.J., Falls,K.,
+            Strelets,V., Russo,S.M. and Gelbart,W.M.
+  CONSRTM   FlyBase Consortium
+  TITLE     Gene Model Annotations for Drosophila melanogaster: Impact of
+            High-Throughput Data
+  JOURNAL   G3 (Bethesda) 5 (8), 1721-1736 (2015)
+   PUBMED   26109357
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 7987)
+  AUTHORS   Crosby,M.A., Gramates,L.S., Dos Santos,G., Matthews,B.B., St
+            Pierre,S.E., Zhou,P., Schroeder,A.J., Falls,K., Emmert,D.B.,
+            Russo,S.M. and Gelbart,W.M.
+  CONSRTM   FlyBase Consortium
+  TITLE     Gene Model Annotations for Drosophila melanogaster: The
+            Rule-Benders
+  JOURNAL   G3 (Bethesda) 5 (8), 1737-1749 (2015)
+   PUBMED   26109356
+  REMARK    Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 7987)
+  AUTHORS   Hoskins,R.A., Carlson,J.W., Wan,K.H., Park,S., Mendez,I.,
+            Galle,S.E., Booth,B.W., Pfeiffer,B.D., George,R.A., Svirskas,R.,
+            Krzywinski,M., Schein,J., Accardo,M.C., Damia,E., Messina,G.,
+            Mendez-Lago,M., de Pablos,B., Demakova,O.V., Andreyeva,E.N.,
+            Boldyreva,L.V., Marra,M., Carvalho,A.B., Dimitri,P., Villasante,A.,
+            Zhimulev,I.F., Rubin,G.M., Karpen,G.H. and Celniker,S.E.
+  TITLE     The Release 6 reference sequence of the Drosophila melanogaster
+            genome
+  JOURNAL   Genome Res 25 (3), 445-458 (2015)
+   PUBMED   25589440
+REFERENCE   4  (bases 1 to 7987)
+  AUTHORS   Hoskins,R.A., Carlson,J.W., Kennedy,C., Acevedo,D., Evans-Holm,M.,
+            Frise,E., Wan,K.H., Park,S., Mendez-Lago,M., Rossi,F.,
+            Villasante,A., Dimitri,P., Karpen,G.H. and Celniker,S.E.
+  TITLE     Sequence finishing and mapping of Drosophila melanogaster
+            heterochromatin
+  JOURNAL   Science 316 (5831), 1625-1628 (2007)
+   PUBMED   17569867
+REFERENCE   5  (bases 1 to 7987)
+  AUTHORS   Smith,C.D., Shu,S., Mungall,C.J. and Karpen,G.H.
+  TITLE     The Release 5.1 annotation of Drosophila melanogaster
+            heterochromatin
+  JOURNAL   Science 316 (5831), 1586-1591 (2007)
+   PUBMED   17569856
+  REMARK    Erratum:[Science. 2007 Sep 7;317(5843):1325]
+REFERENCE   6  (bases 1 to 7987)
+  AUTHORS   Quesneville,H., Bergman,C.M., Andrieu,O., Autard,D., Nouaud,D.,
+            Ashburner,M. and Anxolabehere,D.
+  TITLE     Combined evidence annotation of transposable elements in genome
+            sequences
+  JOURNAL   PLoS Comput Biol 1 (2), 166-175 (2005)
+   PUBMED   16110336
+REFERENCE   7  (bases 1 to 7987)
+  AUTHORS   Hoskins,R.A., Smith,C.D., Carlson,J.W., Carvalho,A.B., Halpern,A.,
+            Kaminker,J.S., Kennedy,C., Mungall,C.J., Sullivan,B.A.,
+            Sutton,G.G., Yasuhara,J.C., Wakimoto,B.T., Myers,E.W.,
+            Celniker,S.E., Rubin,G.M. and Karpen,G.H.
+  TITLE     Heterochromatic sequences in a Drosophila whole-genome shotgun
+            assembly
+  JOURNAL   Genome Biol 3 (12), RESEARCH0085 (2002)
+   PUBMED   12537574
+REFERENCE   8  (bases 1 to 7987)
+  AUTHORS   Kaminker,J.S., Bergman,C.M., Kronmiller,B., Carlson,J.,
+            Svirskas,R., Patel,S., Frise,E., Wheeler,D.A., Lewis,S.E.,
+            Rubin,G.M., Ashburner,M. and Celniker,S.E.
+  TITLE     The transposable elements of the Drosophila melanogaster
+            euchromatin: a genomics perspective
+  JOURNAL   Genome Biol 3 (12), RESEARCH0084 (2002)
+   PUBMED   12537573
+REFERENCE   9  (bases 1 to 7987)
+  AUTHORS   Misra,S., Crosby,M.A., Mungall,C.J., Matthews,B.B., Campbell,K.S.,
+            Hradecky,P., Huang,Y., Kaminker,J.S., Millburn,G.H., Prochnik,S.E.,
+            Smith,C.D., Tupy,J.L., Whitfied,E.J., Bayraktaroglu,L.,
+            Berman,B.P., Bettencourt,B.R., Celniker,S.E., de Grey,A.D.,
+            Drysdale,R.A., Harris,N.L., Richter,J., Russo,S., Schroeder,A.J.,
+            Shu,S.Q., Stapleton,M., Yamada,C., Ashburner,M., Gelbart,W.M.,
+            Rubin,G.M. and Lewis,S.E.
+  TITLE     Annotation of the Drosophila melanogaster euchromatic genome: a
+            systematic review
+  JOURNAL   Genome Biol 3 (12), RESEARCH0083 (2002)
+   PUBMED   12537572
+REFERENCE   10 (bases 1 to 7987)
+  AUTHORS   Celniker,S.E., Wheeler,D.A., Kronmiller,B., Carlson,J.W.,
+            Halpern,A., Patel,S., Adams,M., Champe,M., Dugan,S.P., Frise,E.,
+            Hodgson,A., George,R.A., Hoskins,R.A., Laverty,T., Muzny,D.M.,
+            Nelson,C.R., Pacleb,J.M., Park,S., Pfeiffer,B.D., Richards,S.,
+            Sodergren,E.J., Svirskas,R., Tabor,P.E., Wan,K., Stapleton,M.,
+            Sutton,G.G., Venter,C., Weinstock,G., Scherer,S.E., Myers,E.W.,
+            Gibbs,R.A. and Rubin,G.M.
+  TITLE     Finishing a whole-genome shotgun: release 3 of the Drosophila
+            melanogaster euchromatic genome sequence
+  JOURNAL   Genome Biol 3 (12), RESEARCH0079 (2002)
+   PUBMED   12537568
+REFERENCE   11 (bases 1 to 7987)
+  AUTHORS   Adams,M.D., Celniker,S.E., Holt,R.A., Evans,C.A., Gocayne,J.D.,
+            Amanatides,P.G., Scherer,S.E., Li,P.W., Hoskins,R.A., Galle,R.F.,
+            George,R.A., Lewis,S.E., Richards,S., Ashburner,M., Henderson,S.N.,
+            Sutton,G.G., Wortman,J.R., Yandell,M.D., Zhang,Q., Chen,L.X.,
+            Brandon,R.C., Rogers,Y.H., Blazej,R.G., Champe,M., Pfeiffer,B.D.,
+            Wan,K.H., Doyle,C., Baxter,E.G., Helt,G., Nelson,C.R., Gabor,G.L.,
+            Abril,J.F., Agbayani,A., An,H.J., Andrews-Pfannkoch,C., Baldwin,D.,
+            Ballew,R.M., Basu,A., Baxendale,J., Bayraktaroglu,L., Beasley,E.M.,
+            Beeson,K.Y., Benos,P.V., Berman,B.P., Bhandari,D., Bolshakov,S.,
+            Borkova,D., Botchan,M.R., Bouck,J., Brokstein,P., Brottier,P.,
+            Burtis,K.C., Busam,D.A., Butler,H., Cadieu,E., Center,A.,
+            Chandra,I., Cherry,J.M., Cawley,S., Dahlke,C., Davenport,L.B.,
+            Davies,P., de Pablos,B., Delcher,A., Deng,Z., Mays,A.D., Dew,I.,
+            Dietz,S.M., Dodson,K., Doup,L.E., Downes,M., Dugan-Rocha,S.,
+            Dunkov,B.C., Dunn,P., Durbin,K.J., Evangelista,C.C., Ferraz,C.,
+            Ferriera,S., Fleischmann,W., Fosler,C., Gabrielian,A.E., Garg,N.S.,
+            Gelbart,W.M., Glasser,K., Glodek,A., Gong,F., Gorrell,J.H., Gu,Z.,
+            Guan,P., Harris,M., Harris,N.L., Harvey,D., Heiman,T.J.,
+            Hernandez,J.R., Houck,J., Hostin,D., Houston,K.A., Howland,T.J.,
+            Wei,M.H., Ibegwam,C., Jalali,M., Kalush,F., Karpen,G.H., Ke,Z.,
+            Kennison,J.A., Ketchum,K.A., Kimmel,B.E., Kodira,C.D., Kraft,C.,
+            Kravitz,S., Kulp,D., Lai,Z., Lasko,P., Lei,Y., Levitsky,A.A.,
+            Li,J., Li,Z., Liang,Y., Lin,X., Liu,X., Mattei,B., McIntosh,T.C.,
+            McLeod,M.P., McPherson,D., Merkulov,G., Milshina,N.V., Mobarry,C.,
+            Morris,J., Moshrefi,A., Mount,S.M., Moy,M., Murphy,B., Murphy,L.,
+            Muzny,D.M., Nelson,D.L., Nelson,D.R., Nelson,K.A., Nixon,K.,
+            Nusskern,D.R., Pacleb,J.M., Palazzolo,M., Pittman,G.S., Pan,S.,
+            Pollard,J., Puri,V., Reese,M.G., Reinert,K., Remington,K.,
+            Saunders,R.D., Scheeler,F., Shen,H., Shue,B.C., Siden-Kiamos,I.,
+            Simpson,M., Skupski,M.P., Smith,T., Spier,E., Spradling,A.C.,
+            Stapleton,M., Strong,R., Sun,E., Svirskas,R., Tector,C., Turner,R.,
+            Venter,E., Wang,A.H., Wang,X., Wang,Z.Y., Wassarman,D.A.,
+            Weinstock,G.M., Weissenbach,J., Williams,S.M., WoodageT,
+            Worley,K.C., Wu,D., Yang,S., Yao,Q.A., Ye,J., Yeh,R.F.,
+            Zaveri,J.S., Zhan,M., Zhang,G., Zhao,Q., Zheng,L., Zheng,X.H.,
+            Zhong,F.N., Zhong,W., Zhou,X., Zhu,S., Zhu,X., Smith,H.O.,
+            Gibbs,R.A., Myers,E.W., Rubin,G.M. and Venter,J.C.
+  TITLE     The genome sequence of Drosophila melanogaster
+  JOURNAL   Science 287 (5461), 2185-2195 (2000)
+   PUBMED   10731132
+REFERENCE   12 (bases 1 to 7987)
+  AUTHORS   Celniker,S., Carlson,J., Wan,K., Pfeiffer,B., Frise,E., George,R.,
+            Hoskins,R., Stapleton,M., Pacleb,J., Park,S., Svirskas,R.,
+            Smith,E., Yu,C. and Rubin,G.
+  CONSRTM   Berkeley Drosophila Genome Project
+  TITLE     Drosophila melanogaster release 4 sequence
+  JOURNAL   Unpublished
+REFERENCE   13 (bases 1 to 7987)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2023) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   14 (bases 1 to 7987)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-DEC-2023) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   15 (bases 1 to 7987)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-NOV-2022) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   16 (bases 1 to 7987)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-OCT-2022) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   17 (bases 1 to 7987)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2020) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   18 (bases 1 to 7987)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-APR-2019) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   19 (bases 1 to 7987)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-MAY-2018) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   20 (bases 1 to 7987)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2016) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   21 (bases 1 to 7987)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-OCT-2015) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   22 (bases 1 to 7987)
+  AUTHORS   Celniker,S., Carlson,J., Kennedy,C., Wan,K., Frise,E., Hoskins,R.,
+            Park,S., Svirskas,R. and Karpen,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-AUG-2006) Berkeley Drosophila Genome Project,
+            Lawrence Berkeley National Laboratory, One #Cyclotron RoadOne
+            Cyclotron Road, MS 64-121, Berkeley, CA 94720, USA
+  REMARK    Direct Submission
+REFERENCE   23 (bases 1 to 7987)
+  AUTHORS   Celniker,S., Carlson,J., Wan,K., Frise,E., Hoskins,R., Park,S.,
+            Svirskas,R. and Rubin,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-AUG-2006) Berkeley Drosophila Genome Project,
+            Lawrence Berkeley National Laboratory, One Cyclotron Road, MS
+            64-121, Berkeley, CA 94720, USA
+  REMARK    Direct Submission
+REFERENCE   24 (bases 1 to 7987)
+  AUTHORS   Smith,C.D., Shu,S., Mungall,C.J. and Karpen,G.H.
+  CONSRTM   Drosophila Heterochromatin Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-AUG-2006) Drosophila Heterochromatin Genome Project,
+            Ernest Orlando Lawrence Berkeley National Laboratory, 1 Cyclotron
+            Road, Mailstop 64-121, Berkeley, CA 94720, USA
+REFERENCE   25 (bases 1 to 7987)
+  AUTHORS   Adams,M.D., Celniker,S.E., Gibbs,R.A., Rubin,G.M. and Venter,C.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2000) Celera Genomics, 45 West Gude Drive,
+            Rockville, MD 20850, USA
+COMMENT     REVIEWED REFSEQ: This record has been curated by FlyBase. This
+            record is derived from an annotated genomic sequence (NT_033779).
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider :: FlyBase
+            Annotation Status   :: Full annotation
+            Annotation Version  :: Release 6.54
+            URL                 :: http://flybase.org
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..7987
+                     /organism="Drosophila melanogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:7227"
+                     /chromosome="2L"
+                     /genotype="y[1]; Gr22b[1] Gr22d[1] cn[1] CG33964[R4.2]
+                     bw[1] sp[1]; LysC[1] MstProx[1] GstD5[1] Rh6[1]"
+     gene            1..7987
+                     /gene="mTor"
+                     /locus_tag="Dmel_CG5092"
+                     /gene_synonym="5092; CG5092; CT16317; CT24745; CT24817;
+                     Dmel\CG5092; DmTOR; dtor; dTor; dTOR; dTORC1; FRAP/TOR;
+                     l(2)k17004; mtor; mTOR; Mtor; MTOR; tor; Tor; TOR; Tor-C1;
+                     TOR-C1; Torc1; TORC1"
+                     /note="mechanistic Target of rapamycin"
+                     /map="34A4-34A4"
+                     /db_xref="FLYBASE:FBgn0021796"
+                     /db_xref="GeneID:47396"
+     CDS             307..7722
+                     /gene="mTor"
+                     /locus_tag="Dmel_CG5092"
+                     /gene_synonym="5092; CG5092; CT16317; CT24745; CT24817;
+                     Dmel\CG5092; DmTOR; dtor; dTor; dTOR; dTORC1; FRAP/TOR;
+                     l(2)k17004; mtor; mTOR; Mtor; MTOR; tor; Tor; TOR; Tor-C1;
+                     TOR-C1; Torc1; TORC1"
+                     /EC_number="2.7.11.1"
+                     /note="CG5092 gene product from transcript CG5092-RB;
+                     CG5092-PB; mTor-PB; target of rapamycin complex 1; mTOR;
+                     target of rapamycin kinase; Target-of-rapamycin"
+                     /codon_start=1
+                     /product="mechanistic target of rapamycin, isoform B"
+                     /protein_id="NP_001260427.1"
+                     /db_xref="FLYBASE:FBpp0307598"
+                     /db_xref="GeneID:47396"
+                     /db_xref="FLYBASE:FBgn0021796"
+                     /translation="MSTTSVVQQFVNGLKSRNRNVQNKATQDLLFYVKTELREMSQEE
+                     LAQFFDEFDHHIFTMVNATDINEKKGGALAMKCLINCEGSLTARKGISPYLNRLRDLL
+                     LINDVSVMEIAARSLVKLANMPTSKGADSFDFDIKKAFEVLRGERQEYRRHSAVFILR
+                     ELAIALPTYFYQHILTFFEVIFNAIFDPKPAIRESAGEALRAALIVTAQRESTKQSSE
+                     PQWYRICYDEANGSFNADLGSSKDQKGVTRDDRIHGGLVVFNELFRCANATWERRYTS
+                     LKTLFPKTQHNKFLEASSSSSMGSQLNTLVPRLKVPFIDKLGSTQTHLGEGEHHKGVA
+                     KFASQHNVLESAYAQEILQEHYTSICDNVLEQRTSKSPYVQQALLQILPRLAAFNRAV
+                     FVEKYLQTCVSHLMQILRGKEKDRTVAYITIGYMAVAVQSAIEVHLSSIMTSVKVALP
+                     SKDLTSKRKVPVDPAVFACITLLAHAVKSEIADDVKDILEQMFYTGLSPALTVCLREL
+                     SENVPQLKSAITEGLIGILSQVLMNKAAILPYTALPTIAIDGSLMQNGDGATTVLALK
+                     TLGTFNFEEQNMLDFVQRCADYFIVHEQQEIRLEAVQTCTRLLKLAVQSSESMENSKT
+                     LSDTVSHVIERLLMVAITDMDCNVRIRILRSLDETFDGKLAQPESLNSLFITLHDEIF
+                     EIRELAMVTIGRLSSINPAYVMPKLRTTMIELITDLKYSGMSRNKEQSAKMLDHLVIS
+                     TPRLISSYMNPILKALVPKLHEPESNPGVILNVLRTIGDLAEVNGGSDEMELWADDLL
+                     SILLEMLGDAGSPDKRGVALWTLGQLISATGRVVTPYHKYPVLIDILINFLKTEQRRS
+                     IRRETIRVLGLLGAMDPYKHKMNKGLIDSQKDNVLIAYSDGKVDESQDISTAELLVNM
+                     GNALDEYYPAVAIAALMRILRDPTLSTRHTSVVQAVTFIFQSLGIKCVPYLAQVLPNL
+                     LDNVRTADNNLREFLFQQLAILVAFVKLHIISYMGDIFKLIKEFWTINTPLQNTLINL
+                     IEQIAVALGCEFRDYLAELIPQILRVLQHDNSKDRMVTRRLLQALQKFGSTLGYYLPL
+                     ILPPIVKLFDSPYVPQQVSMVALETINNLACQLDFTDFSSRIIHPLVRVLDAEPELRD
+                     QAMTTLRSLAKQLGKKYLVFVPMVQRTLNKHRIVDPEYEELLSKIKSCSTLADSYGAG
+                     ESELRPSRFKNNEPFVTDRNSNNKNLQVTTNELRTAWQVTRRVSKDDWVEWLKRLSIG
+                     LLKESPSHALRACRSLAQEYDTLLRDLFNAAFISCWTELSPDLKNELTQSLIQALQVT
+                     DMPEITQTILNLAEFMEHCDRDPIPIETKLLGTRAMACRAYAKALRYKEEEFLLREDS
+                     QVFESLILINNKLQQREAAEGLLTRYRNAANELNVQGRWYEKLHNWDEALEHYERNLK
+                     TDSSDLEARLGHMRCLEALGDWSELSNVTKHEWENFGTEAKSRAGPLAAVAAWGLQDW
+                     EAMREYVRCIPEDTQDGSYYRAVLAVHHDDFETAQRLIDETRDLLDTELTSMAGESYE
+                     RAYGAMVCVQMLAELEEVIQYKLIPERREPLKTMWWKRLQGGQRLVEDWRRIIQVHSL
+                     VVKPHEDIHTWLKYASLCRKSGSLHLSHKTLVMLLGTDPKLNPNQPLPCNQPQVTYAY
+                     TKYMAANNQLQEAYEQLTHFVSTYSQELSCLPPEALKQQDQRLMARCYLRMATWQNKL
+                     QDSIRPDAIQGALECFEKATSYDPNWYKAWHLWAYMNFKVVQAQKSALDKQQPPGASM
+                     GMTMGSGLDSDLMIIQRYAVPAVQGFFRSISLIKGNSLQDTLRLLTLWFDYGNHAEVY
+                     EALLSGMKLIEINTWLQVIPQLIARIDTHRQLVGQLIHQLLMDIGKNHPQALVYPLTV
+                     ASKSASLARRNAAFKILDSMRKHSPTLVEQAVMCSEELIRVAILWHEQWHEGLEEASR
+                     LYFGDRNVKGMFEILEPLHAMLERGPQTLKETSFSQAYGRELTEAYEWSQRYKTSAVV
+                     MDLDRAWDIYYHVFQKISRQLPQLTSLELPYVSPKLMTCKDLELAVPGSYNPGQELIR
+                     ISIIKTNLQVITSKQRPRKLCIRGSNGKDYMYLLKGHEDLRQDERVMQLFSLVNTLLL
+                     DDPDTFRRNLAIQRYAVIPLSTNSGLIGWVPHCDTLHTLIRDYRDKKKVPLNQEHRTM
+                     LNFAPDYDHLTLMQKVEVFEHALGQTQGDDLAKLLWLKSPSSELWFERRNNYTRSLAV
+                     MSMVGYILGLGDRHPSNLMLDRMSGKILHIDFGDCFEVAMTREKFPEKIPFRLTRMLI
+                     KAMEVTGIEGTYRRTCESVMLVLRRNKDSLMAVLEAFVYDPLLNWRLLDVDKKGNDAV
+                     AGAGAPGGRGGSGMQDSLSNSVEDSLPMAKSKPYDPTLQQGGLHNNVADETNSKASQV
+                     IKRVKCKLTGTDFQTEKSVNEQSQVELLIQQATNNENLCQCYIGWCPFW"
+ORIGIN      
+        1 taaattgatc gaattctgtt ttacatcact aatcggcagc ggctgcaata aatttccgta
+       61 aaaaccgaag taatccgcaa ttaaagaaag caaaggacct gcatccgtgt gagatcgttc
+      121 ggcaccggtg ccggcacatg aaatcctatc gagtgaccag tggaacagtg cgtacagcgc
+      181 cccggggcaa ctgaaaagat aacctccaaa gtccgtagac agcaggcaga tgcacctgct
+      241 ccaccctttc ccctcccaaa tgcaagtgaa aatcgcgttt aaatagtgaa taaaccctgc
+      301 ccagccatgt cgacgacgtc ggtggtgcag cagttcgtca acgggcttaa gtcccgcaac
+      361 cggaatgtac agaacaaggc aacccaggat ctgctcttct atgtgaagac cgagctacgc
+      421 gaaatgtccc aggaggagct ggcccaattt ttcgacgagt tcgaccatca cattttcacg
+      481 atggtgaatg cgacagatat caacgagaaa aaaggcggtg ccctggccat gaagtgcctg
+      541 attaactgcg agggcagtct tactgccagg aagggcattt cgccctatct caaccgcctg
+      601 cgcgatcttc tgctaatcaa cgatgtgtcc gtcatggaga ttgccgcccg ctccctggtc
+      661 aaattggcca acatgcccac ctccaagggc gccgattcct tcgactttga tattaagaag
+      721 gcttttgagg tgctcagagg cgagagacaa gagtaccgcc gccattcagc cgtctttatc
+      781 ctccgtgagc tggctatcgc cttgcccaca tacttctacc agcacatcct gaccttcttc
+      841 gaggttatct ttaacgccat cttcgatccc aaacctgcta tacgagagtc agctggcgag
+      901 gctttgaggg cggctttgat tgtcaccgct cagcgagaga gcaccaagca gtccagtgaa
+      961 ccacagtggt acagaatctg ctatgacgag gcgaatggaa gcttcaatgc agacttgggc
+     1021 tctagcaagg atcagaaagg cgtgacccga gacgatcgca ttcacggtgg cctcgtcgtc
+     1081 ttcaacgagc tctttcgctg tgccaatgcc acctgggagc ggcgctacac gtctctgaag
+     1141 acgctgttcc ccaagaccca acacaataag ttcctggagg ccagcagttc gtcgagtatg
+     1201 ggttcccagc tgaatactct agtgccgcgg ctaaaggtgc ccttcattga caagctcggc
+     1261 agcacccaaa cgcatttggg tgagggagag catcacaaag gagttgccaa gttcgcgagc
+     1321 cagcacaacg tactggagtc cgcatatgct caggagatcc ttcaggagca ctacacctcc
+     1381 atttgcgaca atgttttgga gcagcgaact tcgaagtctc cgtatgtaca gcaggcactc
+     1441 cttcaaatac ttcctcgatt ggctgccttt aaccgcgcgg tgtttgtgga aaaatacctg
+     1501 cagacatgcg tgtcgcattt aatgcagatc ctgcgaggca aggagaagga tcgcacggtg
+     1561 gcgtacataa ccattggtta catggctgta gcggtgcaga gtgcgatcga agttcattta
+     1621 tccagtataa tgactagcgt gaaggtcgcc ttgccgtcaa aggatttgac cagcaaacga
+     1681 aaggtaccag tggatcctgc ggtctttgcc tgcataacgc ttcttgctca tgccgttaag
+     1741 tcggagatcg ccgacgatgt taaggatatc cttgagcaga tgttctacac gggtctctcg
+     1801 ccagctctga ctgtttgcct gagggaactc tccgagaatg tgccgcagct taagtcggcc
+     1861 attacagaag gattgatcgg aatcctatcc caggtgctga tgaacaaggc ggcaatttta
+     1921 ccatacactg ctttgccaac gatcgccatc gatggctcgc taatgcagaa tggtgacgga
+     1981 gcaaccacag tgctggcact caaaacgctg ggtaccttca actttgagga gcaaaacatg
+     2041 ctggactttg tgcaacgatg tgctgactac ttcatcgttc acgagcagca ggagattcgt
+     2101 ctggaggcag tgcaaacatg cacacgactc cttaaactgg cagtgcaatc ctctgaaagt
+     2161 atggagaact ccaagaccct cagcgacacc gtttcccacg tgattgagcg cctgcttatg
+     2221 gtagccatta ctgatatgga ctgtaatgtg cgaatacgaa ttctacgttc gctggacgag
+     2281 acctttgatg ggaagcttgc tcagccagag tctctaaatt cgctatttat tacgctgcac
+     2341 gatgaaatct ttgagatccg ggagctggca atggttacca ttggaagatt gtcgtccata
+     2401 aacccggctt atgtgatgcc caagctaaga accaccatga tcgaattgat cacggatcta
+     2461 aagtactcgg gaatgagtcg aaacaaggag cagagcgcaa agatgcttga ccatttggtg
+     2521 ataagcacgc ccaggctaat atcctcttac atgaatccga tcctcaaagc cttagtgccc
+     2581 aagttgcatg agccggaatc gaatccagga gttattttaa atgtgcttcg cacaattggt
+     2641 gatttagcag aggttaatgg aggctccgat gaaatggaat tgtgggcaga tgaccttctg
+     2701 tccattttac tcgaaatgct gggcgacgct ggcagtccgg ataagcgagg agtggctctg
+     2761 tggacgttgg gacagttaat cagtgcaaca ggcagggtgg ttaccccata tcacaagtac
+     2821 cccgtgctca tagatatttt gattaatttc cttaaaacgg aacaacgtcg atccattcga
+     2881 agggaaacga tacgagtgct gggcttgttg ggagccatgg atccttacaa gcacaagatg
+     2941 aacaagggct tgattgatag ccaaaaggat aatgttttaa tagcatactc cgatggcaaa
+     3001 gtcgatgaaa gtcaggacat ctccaccgct gagttgctag ttaacatggg taacgcattg
+     3061 gatgagtatt atcccgctgt ggccatagct gcattgatga ggattctacg ggatcccacg
+     3121 ttaagtacac gtcacaccag cgtggtgcag gcggttactt ttatcttcca gagcctgggc
+     3181 atcaaatgtg tgccgtactt ggcccaagtg cttcccaatt tgctggacaa tgtacgcact
+     3241 gcagataata atctaaggga gtttctcttc cagcagctcg ccattctggt ggcttttgtc
+     3301 aagctgcata tcatcagcta catgggagat atttttaagc tgatcaaaga attttggacc
+     3361 attaatacgc ctctgcaaaa cactctaatc aatttgattg aacagatcgc cgtggctttg
+     3421 ggatgcgagt ttagggatta tttggcggag ctgatcccac aaattctgcg agtgttgcag
+     3481 cacgataact ccaaggatag aatggtcacg agaaggttgc tccaagctct tcaaaagttt
+     3541 ggcagcactt tgggttacta tctgccgctg attttgcctc cgatcgtgaa actcttcgat
+     3601 tctccgtacg taccacaaca ggtgtcaatg gtagccctgg aaacgatcaa caatctagcc
+     3661 tgtcagctgg acttcaccga cttctcctcg cgcatcatac atccgttggt tcgagtgctg
+     3721 gacgctgagc cagagcttcg ggaccaagct atgacaaccc ttcgctcact ggcaaagcaa
+     3781 ctgggcaaga agtacctcgt gttcgtgcct atggtccagc gcactctcaa caaacatcgc
+     3841 attgtggatc ccgagtacga ggagctactg agtaagatta agtcctgcag cacactggcg
+     3901 gattcctatg gggccgggga gtcagaactg cggccgtcca ggttcaaaaa caacgagcca
+     3961 tttgtgaccg acagaaatag caataataaa aatctgcagg tcaccacaaa cgaactacga
+     4021 acggcgtggc aggtgacgcg gcgggtgtcc aaggacgact gggtggagtg gctaaagcgg
+     4081 ttgtccattg gcctgctgaa ggaatcgcct tcgcacgcac tgagagcctg tcgttcgttg
+     4141 gcccaagagt acgatacgct gttgagagat ctttttaacg ccgcatttat ctcctgttgg
+     4201 acggaactat cgccggattt gaaaaacgag ctaacacagt cactgattca agccctgcaa
+     4261 gttaccgaca tgccggaaat cactcagaca atcctcaact tggccgagtt tatggagcat
+     4321 tgcgatcgcg atccaatacc aatagaaact aagctattgg gtactcgagc gatggcttgc
+     4381 agagcgtatg ccaaggcatt gcgctacaag gaggaggagt tccttctgcg agaagattcc
+     4441 caagtttttg agtccttgat tctaatcaac aacaagctgc agcaaagaga agcagcggaa
+     4501 ggtctgctca caaggtatcg taatgcagcc aacgaactaa atgttcaagg aagatggtat
+     4561 gaaaaacttc acaattggga tgaggcgctg gaacactatg aaaggaatct aaagacggat
+     4621 tcctcggact tggaggcgcg actcggtcac atgcgctgct tggaggccct cggagattgg
+     4681 tcggagctga gcaacgtgac caagcacgag tgggaaaact tcggtacaga ggccaaatca
+     4741 agagcaggac ccttggccgc agtggccgcc tggggtctcc aggattggga ggcgatgcgg
+     4801 gagtacgtaa ggtgtatacc agaggatacc caagatggaa gctactatcg tgctgtcctc
+     4861 gccgtgcatc atgacgactt tgagaccgca cagcgcctta ttgacgaaac aagggacctc
+     4921 ctcgacacgg agctcacatc aatggcgggc gagtcctatg aaagagccta cggagccatg
+     4981 gtatgtgtac aaatgctggc ggagctggag gaggtcatcc aatacaagct cattcccgag
+     5041 aggcgagagc cgttaaagac catgtggtgg aagcgtcttc aaggaggcca gcgactagta
+     5101 gaagactggc gaaggatcat ccaggtgcac tcgctggtgg taaaaccgca cgaggacata
+     5161 catacctggc tgaagtacgc tagtctgtgc aggaagagcg gctccctgca cttgtcccat
+     5221 aaaactctgg tgatgctgct aggcaccgat cccaagctta atccgaacca gccactgcct
+     5281 tgtaatcaac cacaggtgac ctatgcgtac accaagtaca tggctgccaa taatcagctg
+     5341 caggaagcct acgagcagtt gacgcacttc gtcagcacct atagtcagga gctaagctgt
+     5401 ttacctccgg aagcactaaa gcaacaagat cagcgactca tggcccgctg ctatctgcgc
+     5461 atggccacct ggcagaacaa gctgcaggac agcatcagac cggatgccat tcaaggcgca
+     5521 ctcgaatgct ttgaaaaggc caccagctat gatcccaact ggtacaaggc ctggcacctg
+     5581 tgggcgtaca tgaactttaa ggtggtgcag gcccaaaaat cggcgctgga caaacaacag
+     5641 cctccgggag ccagcatggg aatgacaatg ggctctggcc tcgacagtga tctaatgatc
+     5701 atacagcgat acgccgttcc ggcagttcag ggattcttcc gttcaatcag ccttataaaa
+     5761 gggaattcgc tgcaggatac gctacgtttg ttaactcttt ggtttgacta tggcaaccat
+     5821 gcagaggtgt acgaggcgct gctctctgga atgaagctga tcgagatcaa cacctggctt
+     5881 caggttatcc cgcagcttat tgcccgcatc gatacccacc gtcagttggt gggtcaatta
+     5941 atccaccaac tcctaatgga cataggaaag aatcacccgc aggctctggt ctatcctcta
+     6001 acagtcgctt ccaagtcagc atcattggcg cgcaggaacg ccgcctttaa gatcctcgac
+     6061 tcgatgagga aacactcgcc caccttggta gagcaggcgg tcatgtgtag tgaggagctc
+     6121 atccgtgtgg cgattctgtg gcacgaacag tggcacgaag gtttggagga agcctcgcgt
+     6181 ctttactttg gagatcgcaa cgtaaagggc atgtttgaga tcttggagcc actgcatgct
+     6241 atgctggaga ggggaccaca aacactcaag gagacatcct tctcgcaggc ctatggacgc
+     6301 gagctgacag aggcgtacga gtggtcgcaa cggtacaaga catcggcggt ggtgatggat
+     6361 ctggatcgag cgtgggacat ttactatcac gtcttccaaa agatctcgcg ccagctgcca
+     6421 caacttacct cgctggagct gccgtatgtc tcgcccaaac tgatgacgtg caaagatctc
+     6481 gaactggcag tgcccgggtc ctacaatcct ggccaggagc tcatccggat tagtatcatt
+     6541 aaaaccaacc ttcaggtgat tacttccaag cagcggccgc gaaaactgtg catacgcggc
+     6601 tccaatggca aggactatat gtaccttcta aagggacacg aggaccttcg tcaggacgaa
+     6661 cgcgtgatgc agctattctc cctggtgaac acattgctgt tggatgaccc cgacactttc
+     6721 cgtcgtaact tggccatcca gcggtatgcg gttatcccgc tcagtaccaa ctcgggtctt
+     6781 attggttggg tgccacattg tgacaccctt catacgctaa tccgggacta ccgcgacaag
+     6841 aagaaggtgc cactgaatca ggagcatcgc accatgctca attttgcgcc agactatgat
+     6901 cacctcacgc tgatgcagaa ggtggaagtg ttcgagcatg cgttgggtca gacgcaaggc
+     6961 gacgacttgg ccaagttgct gtggctcaag tctccgtcct ctgaattgtg gtttgaacgg
+     7021 agaaacaact atacccgctc actggcagtc atgtcaatgg ttggatatat cctaggtctg
+     7081 ggcgatcgtc atccatcgaa ccttatgctg gatcgtatga gcggcaagat actgcacata
+     7141 gactttggcg actgcttcga ggtggccatg acccgcgaaa agtttcccga aaagataccc
+     7201 ttccgtctca cccggatgct aataaaggca atggaggtca ctggcatcga gggcacctac
+     7261 agacgcacct gcgaaagcgt gatgctggtg cttcgccgca acaaggattc cctgatggcg
+     7321 gtgctggagg cctttgtcta tgatccgctg ctcaactgga gactgttgga tgtggacaag
+     7381 aagggtaacg atgcggtggc tggggcgggt gctccaggtg gacgtggcgg ttccggaatg
+     7441 caggatagcc tcagtaactc cgtagaggac tccctgccca tggccaagtc gaagccctac
+     7501 gatccgacgc tacagcaagg cggcctgcac aacaacgtgg ccgacgagac gaacagcaaa
+     7561 gccagccagg taatcaagcg ggtcaagtgc aagctaacag gcaccgactt ccagacggaa
+     7621 aagagcgtaa acgagcagtc gcaggtggag ctgctcatcc agcaggcgac caataacgag
+     7681 aacctctgcc agtgctacat tggctggtgt ccgttttggt aggtcaaccg atccggcata
+     7741 gatcccgtgc gacaaccggc aattgactga gcgagattac gaacttacga ttactactac
+     7801 taattgaatt gggtgcatgc atctctggag aggattccga ggtgactgca aactaggcat
+     7861 taagtataaa atatttttat aatttatgtt agagatacgc ttaattatct attatttgta
+     7921 aatcagattg gaaactagat tccaactttg tataaaccat taaaacccgt gaaacaatca
+     7981 acgttct
+//
+
+LOCUS       NM_080152               7984 bp    mRNA    linear   INV 26-DEC-2023
+DEFINITION  Drosophila melanogaster mechanistic target of rapamycin, transcript
+            variant A (mTor), mRNA.
+ACCESSION   NM_080152
+VERSION     NM_080152.3
+DBLINK      BioProject: PRJNA164
+            BioSample: SAMN02803731
+KEYWORDS    RefSeq.
+SOURCE      Drosophila melanogaster (fruit fly)
+  ORGANISM  Drosophila melanogaster
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Diptera; Brachycera;
+            Muscomorpha; Ephydroidea; Drosophilidae; Drosophila; Sophophora.
+REFERENCE   1  (bases 1 to 7984)
+  AUTHORS   Matthews,B.B., Dos Santos,G., Crosby,M.A., Emmert,D.B., St
+            Pierre,S.E., Gramates,L.S., Zhou,P., Schroeder,A.J., Falls,K.,
+            Strelets,V., Russo,S.M. and Gelbart,W.M.
+  CONSRTM   FlyBase Consortium
+  TITLE     Gene Model Annotations for Drosophila melanogaster: Impact of
+            High-Throughput Data
+  JOURNAL   G3 (Bethesda) 5 (8), 1721-1736 (2015)
+   PUBMED   26109357
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 7984)
+  AUTHORS   Crosby,M.A., Gramates,L.S., Dos Santos,G., Matthews,B.B., St
+            Pierre,S.E., Zhou,P., Schroeder,A.J., Falls,K., Emmert,D.B.,
+            Russo,S.M. and Gelbart,W.M.
+  CONSRTM   FlyBase Consortium
+  TITLE     Gene Model Annotations for Drosophila melanogaster: The
+            Rule-Benders
+  JOURNAL   G3 (Bethesda) 5 (8), 1737-1749 (2015)
+   PUBMED   26109356
+  REMARK    Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 7984)
+  AUTHORS   Hoskins,R.A., Carlson,J.W., Wan,K.H., Park,S., Mendez,I.,
+            Galle,S.E., Booth,B.W., Pfeiffer,B.D., George,R.A., Svirskas,R.,
+            Krzywinski,M., Schein,J., Accardo,M.C., Damia,E., Messina,G.,
+            Mendez-Lago,M., de Pablos,B., Demakova,O.V., Andreyeva,E.N.,
+            Boldyreva,L.V., Marra,M., Carvalho,A.B., Dimitri,P., Villasante,A.,
+            Zhimulev,I.F., Rubin,G.M., Karpen,G.H. and Celniker,S.E.
+  TITLE     The Release 6 reference sequence of the Drosophila melanogaster
+            genome
+  JOURNAL   Genome Res 25 (3), 445-458 (2015)
+   PUBMED   25589440
+REFERENCE   4  (bases 1 to 7984)
+  AUTHORS   Hoskins,R.A., Carlson,J.W., Kennedy,C., Acevedo,D., Evans-Holm,M.,
+            Frise,E., Wan,K.H., Park,S., Mendez-Lago,M., Rossi,F.,
+            Villasante,A., Dimitri,P., Karpen,G.H. and Celniker,S.E.
+  TITLE     Sequence finishing and mapping of Drosophila melanogaster
+            heterochromatin
+  JOURNAL   Science 316 (5831), 1625-1628 (2007)
+   PUBMED   17569867
+REFERENCE   5  (bases 1 to 7984)
+  AUTHORS   Smith,C.D., Shu,S., Mungall,C.J. and Karpen,G.H.
+  TITLE     The Release 5.1 annotation of Drosophila melanogaster
+            heterochromatin
+  JOURNAL   Science 316 (5831), 1586-1591 (2007)
+   PUBMED   17569856
+  REMARK    Erratum:[Science. 2007 Sep 7;317(5843):1325]
+REFERENCE   6  (bases 1 to 7984)
+  AUTHORS   Quesneville,H., Bergman,C.M., Andrieu,O., Autard,D., Nouaud,D.,
+            Ashburner,M. and Anxolabehere,D.
+  TITLE     Combined evidence annotation of transposable elements in genome
+            sequences
+  JOURNAL   PLoS Comput Biol 1 (2), 166-175 (2005)
+   PUBMED   16110336
+REFERENCE   7  (bases 1 to 7984)
+  AUTHORS   Hoskins,R.A., Smith,C.D., Carlson,J.W., Carvalho,A.B., Halpern,A.,
+            Kaminker,J.S., Kennedy,C., Mungall,C.J., Sullivan,B.A.,
+            Sutton,G.G., Yasuhara,J.C., Wakimoto,B.T., Myers,E.W.,
+            Celniker,S.E., Rubin,G.M. and Karpen,G.H.
+  TITLE     Heterochromatic sequences in a Drosophila whole-genome shotgun
+            assembly
+  JOURNAL   Genome Biol 3 (12), RESEARCH0085 (2002)
+   PUBMED   12537574
+REFERENCE   8  (bases 1 to 7984)
+  AUTHORS   Kaminker,J.S., Bergman,C.M., Kronmiller,B., Carlson,J.,
+            Svirskas,R., Patel,S., Frise,E., Wheeler,D.A., Lewis,S.E.,
+            Rubin,G.M., Ashburner,M. and Celniker,S.E.
+  TITLE     The transposable elements of the Drosophila melanogaster
+            euchromatin: a genomics perspective
+  JOURNAL   Genome Biol 3 (12), RESEARCH0084 (2002)
+   PUBMED   12537573
+REFERENCE   9  (bases 1 to 7984)
+  AUTHORS   Misra,S., Crosby,M.A., Mungall,C.J., Matthews,B.B., Campbell,K.S.,
+            Hradecky,P., Huang,Y., Kaminker,J.S., Millburn,G.H., Prochnik,S.E.,
+            Smith,C.D., Tupy,J.L., Whitfied,E.J., Bayraktaroglu,L.,
+            Berman,B.P., Bettencourt,B.R., Celniker,S.E., de Grey,A.D.,
+            Drysdale,R.A., Harris,N.L., Richter,J., Russo,S., Schroeder,A.J.,
+            Shu,S.Q., Stapleton,M., Yamada,C., Ashburner,M., Gelbart,W.M.,
+            Rubin,G.M. and Lewis,S.E.
+  TITLE     Annotation of the Drosophila melanogaster euchromatic genome: a
+            systematic review
+  JOURNAL   Genome Biol 3 (12), RESEARCH0083 (2002)
+   PUBMED   12537572
+REFERENCE   10 (bases 1 to 7984)
+  AUTHORS   Celniker,S.E., Wheeler,D.A., Kronmiller,B., Carlson,J.W.,
+            Halpern,A., Patel,S., Adams,M., Champe,M., Dugan,S.P., Frise,E.,
+            Hodgson,A., George,R.A., Hoskins,R.A., Laverty,T., Muzny,D.M.,
+            Nelson,C.R., Pacleb,J.M., Park,S., Pfeiffer,B.D., Richards,S.,
+            Sodergren,E.J., Svirskas,R., Tabor,P.E., Wan,K., Stapleton,M.,
+            Sutton,G.G., Venter,C., Weinstock,G., Scherer,S.E., Myers,E.W.,
+            Gibbs,R.A. and Rubin,G.M.
+  TITLE     Finishing a whole-genome shotgun: release 3 of the Drosophila
+            melanogaster euchromatic genome sequence
+  JOURNAL   Genome Biol 3 (12), RESEARCH0079 (2002)
+   PUBMED   12537568
+REFERENCE   11 (bases 1 to 7984)
+  AUTHORS   Adams,M.D., Celniker,S.E., Holt,R.A., Evans,C.A., Gocayne,J.D.,
+            Amanatides,P.G., Scherer,S.E., Li,P.W., Hoskins,R.A., Galle,R.F.,
+            George,R.A., Lewis,S.E., Richards,S., Ashburner,M., Henderson,S.N.,
+            Sutton,G.G., Wortman,J.R., Yandell,M.D., Zhang,Q., Chen,L.X.,
+            Brandon,R.C., Rogers,Y.H., Blazej,R.G., Champe,M., Pfeiffer,B.D.,
+            Wan,K.H., Doyle,C., Baxter,E.G., Helt,G., Nelson,C.R., Gabor,G.L.,
+            Abril,J.F., Agbayani,A., An,H.J., Andrews-Pfannkoch,C., Baldwin,D.,
+            Ballew,R.M., Basu,A., Baxendale,J., Bayraktaroglu,L., Beasley,E.M.,
+            Beeson,K.Y., Benos,P.V., Berman,B.P., Bhandari,D., Bolshakov,S.,
+            Borkova,D., Botchan,M.R., Bouck,J., Brokstein,P., Brottier,P.,
+            Burtis,K.C., Busam,D.A., Butler,H., Cadieu,E., Center,A.,
+            Chandra,I., Cherry,J.M., Cawley,S., Dahlke,C., Davenport,L.B.,
+            Davies,P., de Pablos,B., Delcher,A., Deng,Z., Mays,A.D., Dew,I.,
+            Dietz,S.M., Dodson,K., Doup,L.E., Downes,M., Dugan-Rocha,S.,
+            Dunkov,B.C., Dunn,P., Durbin,K.J., Evangelista,C.C., Ferraz,C.,
+            Ferriera,S., Fleischmann,W., Fosler,C., Gabrielian,A.E., Garg,N.S.,
+            Gelbart,W.M., Glasser,K., Glodek,A., Gong,F., Gorrell,J.H., Gu,Z.,
+            Guan,P., Harris,M., Harris,N.L., Harvey,D., Heiman,T.J.,
+            Hernandez,J.R., Houck,J., Hostin,D., Houston,K.A., Howland,T.J.,
+            Wei,M.H., Ibegwam,C., Jalali,M., Kalush,F., Karpen,G.H., Ke,Z.,
+            Kennison,J.A., Ketchum,K.A., Kimmel,B.E., Kodira,C.D., Kraft,C.,
+            Kravitz,S., Kulp,D., Lai,Z., Lasko,P., Lei,Y., Levitsky,A.A.,
+            Li,J., Li,Z., Liang,Y., Lin,X., Liu,X., Mattei,B., McIntosh,T.C.,
+            McLeod,M.P., McPherson,D., Merkulov,G., Milshina,N.V., Mobarry,C.,
+            Morris,J., Moshrefi,A., Mount,S.M., Moy,M., Murphy,B., Murphy,L.,
+            Muzny,D.M., Nelson,D.L., Nelson,D.R., Nelson,K.A., Nixon,K.,
+            Nusskern,D.R., Pacleb,J.M., Palazzolo,M., Pittman,G.S., Pan,S.,
+            Pollard,J., Puri,V., Reese,M.G., Reinert,K., Remington,K.,
+            Saunders,R.D., Scheeler,F., Shen,H., Shue,B.C., Siden-Kiamos,I.,
+            Simpson,M., Skupski,M.P., Smith,T., Spier,E., Spradling,A.C.,
+            Stapleton,M., Strong,R., Sun,E., Svirskas,R., Tector,C., Turner,R.,
+            Venter,E., Wang,A.H., Wang,X., Wang,Z.Y., Wassarman,D.A.,
+            Weinstock,G.M., Weissenbach,J., Williams,S.M., WoodageT,
+            Worley,K.C., Wu,D., Yang,S., Yao,Q.A., Ye,J., Yeh,R.F.,
+            Zaveri,J.S., Zhan,M., Zhang,G., Zhao,Q., Zheng,L., Zheng,X.H.,
+            Zhong,F.N., Zhong,W., Zhou,X., Zhu,S., Zhu,X., Smith,H.O.,
+            Gibbs,R.A., Myers,E.W., Rubin,G.M. and Venter,J.C.
+  TITLE     The genome sequence of Drosophila melanogaster
+  JOURNAL   Science 287 (5461), 2185-2195 (2000)
+   PUBMED   10731132
+REFERENCE   12 (bases 1 to 7984)
+  AUTHORS   Celniker,S., Carlson,J., Wan,K., Pfeiffer,B., Frise,E., George,R.,
+            Hoskins,R., Stapleton,M., Pacleb,J., Park,S., Svirskas,R.,
+            Smith,E., Yu,C. and Rubin,G.
+  CONSRTM   Berkeley Drosophila Genome Project
+  TITLE     Drosophila melanogaster release 4 sequence
+  JOURNAL   Unpublished
+REFERENCE   13 (bases 1 to 7984)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2023) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   14 (bases 1 to 7984)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-DEC-2023) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   15 (bases 1 to 7984)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-NOV-2022) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   16 (bases 1 to 7984)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-OCT-2022) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   17 (bases 1 to 7984)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2020) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   18 (bases 1 to 7984)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-APR-2019) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   19 (bases 1 to 7984)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-MAY-2018) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   20 (bases 1 to 7984)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2016) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   21 (bases 1 to 7984)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-OCT-2015) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   22 (bases 1 to 7984)
+  AUTHORS   Celniker,S., Carlson,J., Kennedy,C., Wan,K., Frise,E., Hoskins,R.,
+            Park,S., Svirskas,R. and Karpen,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-AUG-2006) Berkeley Drosophila Genome Project,
+            Lawrence Berkeley National Laboratory, One #Cyclotron RoadOne
+            Cyclotron Road, MS 64-121, Berkeley, CA 94720, USA
+  REMARK    Direct Submission
+REFERENCE   23 (bases 1 to 7984)
+  AUTHORS   Celniker,S., Carlson,J., Wan,K., Frise,E., Hoskins,R., Park,S.,
+            Svirskas,R. and Rubin,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-AUG-2006) Berkeley Drosophila Genome Project,
+            Lawrence Berkeley National Laboratory, One Cyclotron Road, MS
+            64-121, Berkeley, CA 94720, USA
+  REMARK    Direct Submission
+REFERENCE   24 (bases 1 to 7984)
+  AUTHORS   Smith,C.D., Shu,S., Mungall,C.J. and Karpen,G.H.
+  CONSRTM   Drosophila Heterochromatin Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-AUG-2006) Drosophila Heterochromatin Genome Project,
+            Ernest Orlando Lawrence Berkeley National Laboratory, 1 Cyclotron
+            Road, Mailstop 64-121, Berkeley, CA 94720, USA
+REFERENCE   25 (bases 1 to 7984)
+  AUTHORS   Adams,M.D., Celniker,S.E., Gibbs,R.A., Rubin,G.M. and Venter,C.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2000) Celera Genomics, 45 West Gude Drive,
+            Rockville, MD 20850, USA
+COMMENT     REVIEWED REFSEQ: This record has been curated by FlyBase. This
+            record is derived from an annotated genomic sequence (NT_033779).
+            
+            On Jan 16, 2013 this sequence version replaced NM_080152.2.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider :: FlyBase
+            Annotation Status   :: Full annotation
+            Annotation Version  :: Release 6.54
+            URL                 :: http://flybase.org
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..7984
+                     /organism="Drosophila melanogaster"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:7227"
+                     /chromosome="2L"
+                     /genotype="y[1]; Gr22b[1] Gr22d[1] cn[1] CG33964[R4.2]
+                     bw[1] sp[1]; LysC[1] MstProx[1] GstD5[1] Rh6[1]"
+     gene            1..7984
+                     /gene="mTor"
+                     /locus_tag="Dmel_CG5092"
+                     /gene_synonym="5092; CG5092; CT16317; CT24745; CT24817;
+                     Dmel\CG5092; DmTOR; dtor; dTor; dTOR; dTORC1; FRAP/TOR;
+                     l(2)k17004; mtor; mTOR; Mtor; MTOR; tor; Tor; TOR; Tor-C1;
+                     TOR-C1; Torc1; TORC1"
+                     /note="mechanistic Target of rapamycin"
+                     /map="34A4-34A4"
+                     /db_xref="FLYBASE:FBgn0021796"
+                     /db_xref="GeneID:47396"
+     CDS             307..7719
+                     /gene="mTor"
+                     /locus_tag="Dmel_CG5092"
+                     /gene_synonym="5092; CG5092; CT16317; CT24745; CT24817;
+                     Dmel\CG5092; DmTOR; dtor; dTor; dTOR; dTORC1; FRAP/TOR;
+                     l(2)k17004; mtor; mTOR; Mtor; MTOR; tor; Tor; TOR; Tor-C1;
+                     TOR-C1; Torc1; TORC1"
+                     /EC_number="2.7.11.1"
+                     /note="CG5092 gene product from transcript CG5092-RA;
+                     CG5092-PA; mTor-PA; target of rapamycin complex 1; mTOR;
+                     target of rapamycin kinase; Target-of-rapamycin"
+                     /codon_start=1
+                     /product="mechanistic target of rapamycin, isoform A"
+                     /protein_id="NP_524891.1"
+                     /db_xref="FLYBASE:FBpp0080003"
+                     /db_xref="GeneID:47396"
+                     /db_xref="FLYBASE:FBgn0021796"
+                     /translation="MSTTSVVQQFVNGLKSRNRNVQNKATQDLLFYVKTELREMSQEE
+                     LAQFFDEFDHHIFTMVNATDINEKKGGALAMKCLINCEGSLTARKGISPYLNRLRDLL
+                     LINDVSVMEIAARSLVKLANMPTSKGADSFDFDIKKAFEVLRGERQEYRRHSAVFILR
+                     ELAIALPTYFYQHILTFFEVIFNAIFDPKPAIRESAGEALRAALIVTAQRESTKQSSE
+                     PQWYRICYDEANGSFNADLGSSKDQKGVTRDDRIHGGLVVFNELFRCANATWERRYTS
+                     LKTLFPKTQHNKFLEASSSSSMGSQLNTLVPRLKVPFIDKLGSTQTHLGEGEHHKGVA
+                     KFASHNVLESAYAQEILQEHYTSICDNVLEQRTSKSPYVQQALLQILPRLAAFNRAVF
+                     VEKYLQTCVSHLMQILRGKEKDRTVAYITIGYMAVAVQSAIEVHLSSIMTSVKVALPS
+                     KDLTSKRKVPVDPAVFACITLLAHAVKSEIADDVKDILEQMFYTGLSPALTVCLRELS
+                     ENVPQLKSAITEGLIGILSQVLMNKAAILPYTALPTIAIDGSLMQNGDGATTVLALKT
+                     LGTFNFEEQNMLDFVQRCADYFIVHEQQEIRLEAVQTCTRLLKLAVQSSESMENSKTL
+                     SDTVSHVIERLLMVAITDMDCNVRIRILRSLDETFDGKLAQPESLNSLFITLHDEIFE
+                     IRELAMVTIGRLSSINPAYVMPKLRTTMIELITDLKYSGMSRNKEQSAKMLDHLVIST
+                     PRLISSYMNPILKALVPKLHEPESNPGVILNVLRTIGDLAEVNGGSDEMELWADDLLS
+                     ILLEMLGDAGSPDKRGVALWTLGQLISATGRVVTPYHKYPVLIDILINFLKTEQRRSI
+                     RRETIRVLGLLGAMDPYKHKMNKGLIDSQKDNVLIAYSDGKVDESQDISTAELLVNMG
+                     NALDEYYPAVAIAALMRILRDPTLSTRHTSVVQAVTFIFQSLGIKCVPYLAQVLPNLL
+                     DNVRTADNNLREFLFQQLAILVAFVKLHIISYMGDIFKLIKEFWTINTPLQNTLINLI
+                     EQIAVALGCEFRDYLAELIPQILRVLQHDNSKDRMVTRRLLQALQKFGSTLGYYLPLI
+                     LPPIVKLFDSPYVPQQVSMVALETINNLACQLDFTDFSSRIIHPLVRVLDAEPELRDQ
+                     AMTTLRSLAKQLGKKYLVFVPMVQRTLNKHRIVDPEYEELLSKIKSCSTLADSYGAGE
+                     SELRPSRFKNNEPFVTDRNSNNKNLQVTTNELRTAWQVTRRVSKDDWVEWLKRLSIGL
+                     LKESPSHALRACRSLAQEYDTLLRDLFNAAFISCWTELSPDLKNELTQSLIQALQVTD
+                     MPEITQTILNLAEFMEHCDRDPIPIETKLLGTRAMACRAYAKALRYKEEEFLLREDSQ
+                     VFESLILINNKLQQREAAEGLLTRYRNAANELNVQGRWYEKLHNWDEALEHYERNLKT
+                     DSSDLEARLGHMRCLEALGDWSELSNVTKHEWENFGTEAKSRAGPLAAVAAWGLQDWE
+                     AMREYVRCIPEDTQDGSYYRAVLAVHHDDFETAQRLIDETRDLLDTELTSMAGESYER
+                     AYGAMVCVQMLAELEEVIQYKLIPERREPLKTMWWKRLQGGQRLVEDWRRIIQVHSLV
+                     VKPHEDIHTWLKYASLCRKSGSLHLSHKTLVMLLGTDPKLNPNQPLPCNQPQVTYAYT
+                     KYMAANNQLQEAYEQLTHFVSTYSQELSCLPPEALKQQDQRLMARCYLRMATWQNKLQ
+                     DSIRPDAIQGALECFEKATSYDPNWYKAWHLWAYMNFKVVQAQKSALDKQQPPGASMG
+                     MTMGSGLDSDLMIIQRYAVPAVQGFFRSISLIKGNSLQDTLRLLTLWFDYGNHAEVYE
+                     ALLSGMKLIEINTWLQVIPQLIARIDTHRQLVGQLIHQLLMDIGKNHPQALVYPLTVA
+                     SKSASLARRNAAFKILDSMRKHSPTLVEQAVMCSEELIRVAILWHEQWHEGLEEASRL
+                     YFGDRNVKGMFEILEPLHAMLERGPQTLKETSFSQAYGRELTEAYEWSQRYKTSAVVM
+                     DLDRAWDIYYHVFQKISRQLPQLTSLELPYVSPKLMTCKDLELAVPGSYNPGQELIRI
+                     SIIKTNLQVITSKQRPRKLCIRGSNGKDYMYLLKGHEDLRQDERVMQLFSLVNTLLLD
+                     DPDTFRRNLAIQRYAVIPLSTNSGLIGWVPHCDTLHTLIRDYRDKKKVPLNQEHRTML
+                     NFAPDYDHLTLMQKVEVFEHALGQTQGDDLAKLLWLKSPSSELWFERRNNYTRSLAVM
+                     SMVGYILGLGDRHPSNLMLDRMSGKILHIDFGDCFEVAMTREKFPEKIPFRLTRMLIK
+                     AMEVTGIEGTYRRTCESVMLVLRRNKDSLMAVLEAFVYDPLLNWRLLDVDKKGNDAVA
+                     GAGAPGGRGGSGMQDSLSNSVEDSLPMAKSKPYDPTLQQGGLHNNVADETNSKASQVI
+                     KRVKCKLTGTDFQTEKSVNEQSQVELLIQQATNNENLCQCYIGWCPFW"
+ORIGIN      
+        1 taaattgatc gaattctgtt ttacatcact aatcggcagc ggctgcaata aatttccgta
+       61 aaaaccgaag taatccgcaa ttaaagaaag caaaggacct gcatccgtgt gagatcgttc
+      121 ggcaccggtg ccggcacatg aaatcctatc gagtgaccag tggaacagtg cgtacagcgc
+      181 cccggggcaa ctgaaaagat aacctccaaa gtccgtagac agcaggcaga tgcacctgct
+      241 ccaccctttc ccctcccaaa tgcaagtgaa aatcgcgttt aaatagtgaa taaaccctgc
+      301 ccagccatgt cgacgacgtc ggtggtgcag cagttcgtca acgggcttaa gtcccgcaac
+      361 cggaatgtac agaacaaggc aacccaggat ctgctcttct atgtgaagac cgagctacgc
+      421 gaaatgtccc aggaggagct ggcccaattt ttcgacgagt tcgaccatca cattttcacg
+      481 atggtgaatg cgacagatat caacgagaaa aaaggcggtg ccctggccat gaagtgcctg
+      541 attaactgcg agggcagtct tactgccagg aagggcattt cgccctatct caaccgcctg
+      601 cgcgatcttc tgctaatcaa cgatgtgtcc gtcatggaga ttgccgcccg ctccctggtc
+      661 aaattggcca acatgcccac ctccaagggc gccgattcct tcgactttga tattaagaag
+      721 gcttttgagg tgctcagagg cgagagacaa gagtaccgcc gccattcagc cgtctttatc
+      781 ctccgtgagc tggctatcgc cttgcccaca tacttctacc agcacatcct gaccttcttc
+      841 gaggttatct ttaacgccat cttcgatccc aaacctgcta tacgagagtc agctggcgag
+      901 gctttgaggg cggctttgat tgtcaccgct cagcgagaga gcaccaagca gtccagtgaa
+      961 ccacagtggt acagaatctg ctatgacgag gcgaatggaa gcttcaatgc agacttgggc
+     1021 tctagcaagg atcagaaagg cgtgacccga gacgatcgca ttcacggtgg cctcgtcgtc
+     1081 ttcaacgagc tctttcgctg tgccaatgcc acctgggagc ggcgctacac gtctctgaag
+     1141 acgctgttcc ccaagaccca acacaataag ttcctggagg ccagcagttc gtcgagtatg
+     1201 ggttcccagc tgaatactct agtgccgcgg ctaaaggtgc ccttcattga caagctcggc
+     1261 agcacccaaa cgcatttggg tgagggagag catcacaaag gagttgccaa gttcgcgagc
+     1321 cacaacgtac tggagtccgc atatgctcag gagatccttc aggagcacta cacctccatt
+     1381 tgcgacaatg ttttggagca gcgaacttcg aagtctccgt atgtacagca ggcactcctt
+     1441 caaatacttc ctcgattggc tgcctttaac cgcgcggtgt ttgtggaaaa atacctgcag
+     1501 acatgcgtgt cgcatttaat gcagatcctg cgaggcaagg agaaggatcg cacggtggcg
+     1561 tacataacca ttggttacat ggctgtagcg gtgcagagtg cgatcgaagt tcatttatcc
+     1621 agtataatga ctagcgtgaa ggtcgccttg ccgtcaaagg atttgaccag caaacgaaag
+     1681 gtaccagtgg atcctgcggt ctttgcctgc ataacgcttc ttgctcatgc cgttaagtcg
+     1741 gagatcgccg acgatgttaa ggatatcctt gagcagatgt tctacacggg tctctcgcca
+     1801 gctctgactg tttgcctgag ggaactctcc gagaatgtgc cgcagcttaa gtcggccatt
+     1861 acagaaggat tgatcggaat cctatcccag gtgctgatga acaaggcggc aattttacca
+     1921 tacactgctt tgccaacgat cgccatcgat ggctcgctaa tgcagaatgg tgacggagca
+     1981 accacagtgc tggcactcaa aacgctgggt accttcaact ttgaggagca aaacatgctg
+     2041 gactttgtgc aacgatgtgc tgactacttc atcgttcacg agcagcagga gattcgtctg
+     2101 gaggcagtgc aaacatgcac acgactcctt aaactggcag tgcaatcctc tgaaagtatg
+     2161 gagaactcca agaccctcag cgacaccgtt tcccacgtga ttgagcgcct gcttatggta
+     2221 gccattactg atatggactg taatgtgcga atacgaattc tacgttcgct ggacgagacc
+     2281 tttgatggga agcttgctca gccagagtct ctaaattcgc tatttattac gctgcacgat
+     2341 gaaatctttg agatccggga gctggcaatg gttaccattg gaagattgtc gtccataaac
+     2401 ccggcttatg tgatgcccaa gctaagaacc accatgatcg aattgatcac ggatctaaag
+     2461 tactcgggaa tgagtcgaaa caaggagcag agcgcaaaga tgcttgacca tttggtgata
+     2521 agcacgccca ggctaatatc ctcttacatg aatccgatcc tcaaagcctt agtgcccaag
+     2581 ttgcatgagc cggaatcgaa tccaggagtt attttaaatg tgcttcgcac aattggtgat
+     2641 ttagcagagg ttaatggagg ctccgatgaa atggaattgt gggcagatga ccttctgtcc
+     2701 attttactcg aaatgctggg cgacgctggc agtccggata agcgaggagt ggctctgtgg
+     2761 acgttgggac agttaatcag tgcaacaggc agggtggtta ccccatatca caagtacccc
+     2821 gtgctcatag atattttgat taatttcctt aaaacggaac aacgtcgatc cattcgaagg
+     2881 gaaacgatac gagtgctggg cttgttggga gccatggatc cttacaagca caagatgaac
+     2941 aagggcttga ttgatagcca aaaggataat gttttaatag catactccga tggcaaagtc
+     3001 gatgaaagtc aggacatctc caccgctgag ttgctagtta acatgggtaa cgcattggat
+     3061 gagtattatc ccgctgtggc catagctgca ttgatgagga ttctacggga tcccacgtta
+     3121 agtacacgtc acaccagcgt ggtgcaggcg gttactttta tcttccagag cctgggcatc
+     3181 aaatgtgtgc cgtacttggc ccaagtgctt cccaatttgc tggacaatgt acgcactgca
+     3241 gataataatc taagggagtt tctcttccag cagctcgcca ttctggtggc ttttgtcaag
+     3301 ctgcatatca tcagctacat gggagatatt tttaagctga tcaaagaatt ttggaccatt
+     3361 aatacgcctc tgcaaaacac tctaatcaat ttgattgaac agatcgccgt ggctttggga
+     3421 tgcgagttta gggattattt ggcggagctg atcccacaaa ttctgcgagt gttgcagcac
+     3481 gataactcca aggatagaat ggtcacgaga aggttgctcc aagctcttca aaagtttggc
+     3541 agcactttgg gttactatct gccgctgatt ttgcctccga tcgtgaaact cttcgattct
+     3601 ccgtacgtac cacaacaggt gtcaatggta gccctggaaa cgatcaacaa tctagcctgt
+     3661 cagctggact tcaccgactt ctcctcgcgc atcatacatc cgttggttcg agtgctggac
+     3721 gctgagccag agcttcggga ccaagctatg acaacccttc gctcactggc aaagcaactg
+     3781 ggcaagaagt acctcgtgtt cgtgcctatg gtccagcgca ctctcaacaa acatcgcatt
+     3841 gtggatcccg agtacgagga gctactgagt aagattaagt cctgcagcac actggcggat
+     3901 tcctatgggg ccggggagtc agaactgcgg ccgtccaggt tcaaaaacaa cgagccattt
+     3961 gtgaccgaca gaaatagcaa taataaaaat ctgcaggtca ccacaaacga actacgaacg
+     4021 gcgtggcagg tgacgcggcg ggtgtccaag gacgactggg tggagtggct aaagcggttg
+     4081 tccattggcc tgctgaagga atcgccttcg cacgcactga gagcctgtcg ttcgttggcc
+     4141 caagagtacg atacgctgtt gagagatctt tttaacgccg catttatctc ctgttggacg
+     4201 gaactatcgc cggatttgaa aaacgagcta acacagtcac tgattcaagc cctgcaagtt
+     4261 accgacatgc cggaaatcac tcagacaatc ctcaacttgg ccgagtttat ggagcattgc
+     4321 gatcgcgatc caataccaat agaaactaag ctattgggta ctcgagcgat ggcttgcaga
+     4381 gcgtatgcca aggcattgcg ctacaaggag gaggagttcc ttctgcgaga agattcccaa
+     4441 gtttttgagt ccttgattct aatcaacaac aagctgcagc aaagagaagc agcggaaggt
+     4501 ctgctcacaa ggtatcgtaa tgcagccaac gaactaaatg ttcaaggaag atggtatgaa
+     4561 aaacttcaca attgggatga ggcgctggaa cactatgaaa ggaatctaaa gacggattcc
+     4621 tcggacttgg aggcgcgact cggtcacatg cgctgcttgg aggccctcgg agattggtcg
+     4681 gagctgagca acgtgaccaa gcacgagtgg gaaaacttcg gtacagaggc caaatcaaga
+     4741 gcaggaccct tggccgcagt ggccgcctgg ggtctccagg attgggaggc gatgcgggag
+     4801 tacgtaaggt gtataccaga ggatacccaa gatggaagct actatcgtgc tgtcctcgcc
+     4861 gtgcatcatg acgactttga gaccgcacag cgccttattg acgaaacaag ggacctcctc
+     4921 gacacggagc tcacatcaat ggcgggcgag tcctatgaaa gagcctacgg agccatggta
+     4981 tgtgtacaaa tgctggcgga gctggaggag gtcatccaat acaagctcat tcccgagagg
+     5041 cgagagccgt taaagaccat gtggtggaag cgtcttcaag gaggccagcg actagtagaa
+     5101 gactggcgaa ggatcatcca ggtgcactcg ctggtggtaa aaccgcacga ggacatacat
+     5161 acctggctga agtacgctag tctgtgcagg aagagcggct ccctgcactt gtcccataaa
+     5221 actctggtga tgctgctagg caccgatccc aagcttaatc cgaaccagcc actgccttgt
+     5281 aatcaaccac aggtgaccta tgcgtacacc aagtacatgg ctgccaataa tcagctgcag
+     5341 gaagcctacg agcagttgac gcacttcgtc agcacctata gtcaggagct aagctgttta
+     5401 cctccggaag cactaaagca acaagatcag cgactcatgg cccgctgcta tctgcgcatg
+     5461 gccacctggc agaacaagct gcaggacagc atcagaccgg atgccattca aggcgcactc
+     5521 gaatgctttg aaaaggccac cagctatgat cccaactggt acaaggcctg gcacctgtgg
+     5581 gcgtacatga actttaaggt ggtgcaggcc caaaaatcgg cgctggacaa acaacagcct
+     5641 ccgggagcca gcatgggaat gacaatgggc tctggcctcg acagtgatct aatgatcata
+     5701 cagcgatacg ccgttccggc agttcaggga ttcttccgtt caatcagcct tataaaaggg
+     5761 aattcgctgc aggatacgct acgtttgtta actctttggt ttgactatgg caaccatgca
+     5821 gaggtgtacg aggcgctgct ctctggaatg aagctgatcg agatcaacac ctggcttcag
+     5881 gttatcccgc agcttattgc ccgcatcgat acccaccgtc agttggtggg tcaattaatc
+     5941 caccaactcc taatggacat aggaaagaat cacccgcagg ctctggtcta tcctctaaca
+     6001 gtcgcttcca agtcagcatc attggcgcgc aggaacgccg cctttaagat cctcgactcg
+     6061 atgaggaaac actcgcccac cttggtagag caggcggtca tgtgtagtga ggagctcatc
+     6121 cgtgtggcga ttctgtggca cgaacagtgg cacgaaggtt tggaggaagc ctcgcgtctt
+     6181 tactttggag atcgcaacgt aaagggcatg tttgagatct tggagccact gcatgctatg
+     6241 ctggagaggg gaccacaaac actcaaggag acatccttct cgcaggccta tggacgcgag
+     6301 ctgacagagg cgtacgagtg gtcgcaacgg tacaagacat cggcggtggt gatggatctg
+     6361 gatcgagcgt gggacattta ctatcacgtc ttccaaaaga tctcgcgcca gctgccacaa
+     6421 cttacctcgc tggagctgcc gtatgtctcg cccaaactga tgacgtgcaa agatctcgaa
+     6481 ctggcagtgc ccgggtccta caatcctggc caggagctca tccggattag tatcattaaa
+     6541 accaaccttc aggtgattac ttccaagcag cggccgcgaa aactgtgcat acgcggctcc
+     6601 aatggcaagg actatatgta ccttctaaag ggacacgagg accttcgtca ggacgaacgc
+     6661 gtgatgcagc tattctccct ggtgaacaca ttgctgttgg atgaccccga cactttccgt
+     6721 cgtaacttgg ccatccagcg gtatgcggtt atcccgctca gtaccaactc gggtcttatt
+     6781 ggttgggtgc cacattgtga cacccttcat acgctaatcc gggactaccg cgacaagaag
+     6841 aaggtgccac tgaatcagga gcatcgcacc atgctcaatt ttgcgccaga ctatgatcac
+     6901 ctcacgctga tgcagaaggt ggaagtgttc gagcatgcgt tgggtcagac gcaaggcgac
+     6961 gacttggcca agttgctgtg gctcaagtct ccgtcctctg aattgtggtt tgaacggaga
+     7021 aacaactata cccgctcact ggcagtcatg tcaatggttg gatatatcct aggtctgggc
+     7081 gatcgtcatc catcgaacct tatgctggat cgtatgagcg gcaagatact gcacatagac
+     7141 tttggcgact gcttcgaggt ggccatgacc cgcgaaaagt ttcccgaaaa gatacccttc
+     7201 cgtctcaccc ggatgctaat aaaggcaatg gaggtcactg gcatcgaggg cacctacaga
+     7261 cgcacctgcg aaagcgtgat gctggtgctt cgccgcaaca aggattccct gatggcggtg
+     7321 ctggaggcct ttgtctatga tccgctgctc aactggagac tgttggatgt ggacaagaag
+     7381 ggtaacgatg cggtggctgg ggcgggtgct ccaggtggac gtggcggttc cggaatgcag
+     7441 gatagcctca gtaactccgt agaggactcc ctgcccatgg ccaagtcgaa gccctacgat
+     7501 ccgacgctac agcaaggcgg cctgcacaac aacgtggccg acgagacgaa cagcaaagcc
+     7561 agccaggtaa tcaagcgggt caagtgcaag ctaacaggca ccgacttcca gacggaaaag
+     7621 agcgtaaacg agcagtcgca ggtggagctg ctcatccagc aggcgaccaa taacgagaac
+     7681 ctctgccagt gctacattgg ctggtgtccg ttttggtagg tcaaccgatc cggcatagat
+     7741 cccgtgcgac aaccggcaat tgactgagcg agattacgaa cttacgatta ctactactaa
+     7801 ttgaattggg tgcatgcatc tctggagagg attccgaggt gactgcaaac taggcattaa
+     7861 gtataaaata tttttataat ttatgttaga gatacgctta attatctatt atttgtaaat
+     7921 cagattggaa actagattcc aactttgtat aaaccattaa aacccgtgaa acaatcaacg
+     7981 ttct
+//
+
+LOCUS       NT_033779           23513712 bp    DNA     linear   CON 26-DEC-2023
+DEFINITION  Drosophila melanogaster chromosome 2L.
+ACCESSION   NT_033779 NW_001848855
+VERSION     NT_033779.5
+DBLINK      BioProject: PRJNA164
+            BioSample: SAMN02803731
+            Assembly: GCF_000001215.4
+KEYWORDS    RefSeq.
+SOURCE      Drosophila melanogaster (fruit fly)
+  ORGANISM  Drosophila melanogaster
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Diptera; Brachycera;
+            Muscomorpha; Ephydroidea; Drosophilidae; Drosophila; Sophophora.
+REFERENCE   1  (bases 1 to 23513712)
+  AUTHORS   Matthews,B.B., Dos Santos,G., Crosby,M.A., Emmert,D.B., St
+            Pierre,S.E., Gramates,L.S., Zhou,P., Schroeder,A.J., Falls,K.,
+            Strelets,V., Russo,S.M. and Gelbart,W.M.
+  CONSRTM   FlyBase Consortium
+  TITLE     Gene Model Annotations for Drosophila melanogaster: Impact of
+            High-Throughput Data
+  JOURNAL   G3 (Bethesda) 5 (8), 1721-1736 (2015)
+   PUBMED   26109357
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 23513712)
+  AUTHORS   Crosby,M.A., Gramates,L.S., Dos Santos,G., Matthews,B.B., St
+            Pierre,S.E., Zhou,P., Schroeder,A.J., Falls,K., Emmert,D.B.,
+            Russo,S.M. and Gelbart,W.M.
+  CONSRTM   FlyBase Consortium
+  TITLE     Gene Model Annotations for Drosophila melanogaster: The
+            Rule-Benders
+  JOURNAL   G3 (Bethesda) 5 (8), 1737-1749 (2015)
+   PUBMED   26109356
+  REMARK    Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 23513712)
+  AUTHORS   Hoskins,R.A., Carlson,J.W., Wan,K.H., Park,S., Mendez,I.,
+            Galle,S.E., Booth,B.W., Pfeiffer,B.D., George,R.A., Svirskas,R.,
+            Krzywinski,M., Schein,J., Accardo,M.C., Damia,E., Messina,G.,
+            Mendez-Lago,M., de Pablos,B., Demakova,O.V., Andreyeva,E.N.,
+            Boldyreva,L.V., Marra,M., Carvalho,A.B., Dimitri,P., Villasante,A.,
+            Zhimulev,I.F., Rubin,G.M., Karpen,G.H. and Celniker,S.E.
+  TITLE     The Release 6 reference sequence of the Drosophila melanogaster
+            genome
+  JOURNAL   Genome Res 25 (3), 445-458 (2015)
+   PUBMED   25589440
+REFERENCE   4  (bases 1 to 23513712)
+  AUTHORS   Hoskins,R.A., Carlson,J.W., Kennedy,C., Acevedo,D., Evans-Holm,M.,
+            Frise,E., Wan,K.H., Park,S., Mendez-Lago,M., Rossi,F.,
+            Villasante,A., Dimitri,P., Karpen,G.H. and Celniker,S.E.
+  TITLE     Sequence finishing and mapping of Drosophila melanogaster
+            heterochromatin
+  JOURNAL   Science 316 (5831), 1625-1628 (2007)
+   PUBMED   17569867
+REFERENCE   5  (bases 1 to 23513712)
+  AUTHORS   Smith,C.D., Shu,S., Mungall,C.J. and Karpen,G.H.
+  TITLE     The Release 5.1 annotation of Drosophila melanogaster
+            heterochromatin
+  JOURNAL   Science 316 (5831), 1586-1591 (2007)
+   PUBMED   17569856
+  REMARK    Erratum:[Science. 2007 Sep 7;317(5843):1325]
+REFERENCE   6  (bases 1 to 23513712)
+  AUTHORS   Quesneville,H., Bergman,C.M., Andrieu,O., Autard,D., Nouaud,D.,
+            Ashburner,M. and Anxolabehere,D.
+  TITLE     Combined evidence annotation of transposable elements in genome
+            sequences
+  JOURNAL   PLoS Comput Biol 1 (2), 166-175 (2005)
+   PUBMED   16110336
+REFERENCE   7  (bases 1 to 23513712)
+  AUTHORS   Hoskins,R.A., Smith,C.D., Carlson,J.W., Carvalho,A.B., Halpern,A.,
+            Kaminker,J.S., Kennedy,C., Mungall,C.J., Sullivan,B.A.,
+            Sutton,G.G., Yasuhara,J.C., Wakimoto,B.T., Myers,E.W.,
+            Celniker,S.E., Rubin,G.M. and Karpen,G.H.
+  TITLE     Heterochromatic sequences in a Drosophila whole-genome shotgun
+            assembly
+  JOURNAL   Genome Biol 3 (12), RESEARCH0085 (2002)
+   PUBMED   12537574
+REFERENCE   8  (bases 1 to 23513712)
+  AUTHORS   Kaminker,J.S., Bergman,C.M., Kronmiller,B., Carlson,J.,
+            Svirskas,R., Patel,S., Frise,E., Wheeler,D.A., Lewis,S.E.,
+            Rubin,G.M., Ashburner,M. and Celniker,S.E.
+  TITLE     The transposable elements of the Drosophila melanogaster
+            euchromatin: a genomics perspective
+  JOURNAL   Genome Biol 3 (12), RESEARCH0084 (2002)
+   PUBMED   12537573
+REFERENCE   9  (bases 1 to 23513712)
+  AUTHORS   Misra,S., Crosby,M.A., Mungall,C.J., Matthews,B.B., Campbell,K.S.,
+            Hradecky,P., Huang,Y., Kaminker,J.S., Millburn,G.H., Prochnik,S.E.,
+            Smith,C.D., Tupy,J.L., Whitfied,E.J., Bayraktaroglu,L.,
+            Berman,B.P., Bettencourt,B.R., Celniker,S.E., de Grey,A.D.,
+            Drysdale,R.A., Harris,N.L., Richter,J., Russo,S., Schroeder,A.J.,
+            Shu,S.Q., Stapleton,M., Yamada,C., Ashburner,M., Gelbart,W.M.,
+            Rubin,G.M. and Lewis,S.E.
+  TITLE     Annotation of the Drosophila melanogaster euchromatic genome: a
+            systematic review
+  JOURNAL   Genome Biol 3 (12), RESEARCH0083 (2002)
+   PUBMED   12537572
+REFERENCE   10 (bases 1 to 23513712)
+  AUTHORS   Celniker,S.E., Wheeler,D.A., Kronmiller,B., Carlson,J.W.,
+            Halpern,A., Patel,S., Adams,M., Champe,M., Dugan,S.P., Frise,E.,
+            Hodgson,A., George,R.A., Hoskins,R.A., Laverty,T., Muzny,D.M.,
+            Nelson,C.R., Pacleb,J.M., Park,S., Pfeiffer,B.D., Richards,S.,
+            Sodergren,E.J., Svirskas,R., Tabor,P.E., Wan,K., Stapleton,M.,
+            Sutton,G.G., Venter,C., Weinstock,G., Scherer,S.E., Myers,E.W.,
+            Gibbs,R.A. and Rubin,G.M.
+  TITLE     Finishing a whole-genome shotgun: release 3 of the Drosophila
+            melanogaster euchromatic genome sequence
+  JOURNAL   Genome Biol 3 (12), RESEARCH0079 (2002)
+   PUBMED   12537568
+REFERENCE   11 (bases 1 to 23513712)
+  AUTHORS   Adams,M.D., Celniker,S.E., Holt,R.A., Evans,C.A., Gocayne,J.D.,
+            Amanatides,P.G., Scherer,S.E., Li,P.W., Hoskins,R.A., Galle,R.F.,
+            George,R.A., Lewis,S.E., Richards,S., Ashburner,M., Henderson,S.N.,
+            Sutton,G.G., Wortman,J.R., Yandell,M.D., Zhang,Q., Chen,L.X.,
+            Brandon,R.C., Rogers,Y.H., Blazej,R.G., Champe,M., Pfeiffer,B.D.,
+            Wan,K.H., Doyle,C., Baxter,E.G., Helt,G., Nelson,C.R., Gabor,G.L.,
+            Abril,J.F., Agbayani,A., An,H.J., Andrews-Pfannkoch,C., Baldwin,D.,
+            Ballew,R.M., Basu,A., Baxendale,J., Bayraktaroglu,L., Beasley,E.M.,
+            Beeson,K.Y., Benos,P.V., Berman,B.P., Bhandari,D., Bolshakov,S.,
+            Borkova,D., Botchan,M.R., Bouck,J., Brokstein,P., Brottier,P.,
+            Burtis,K.C., Busam,D.A., Butler,H., Cadieu,E., Center,A.,
+            Chandra,I., Cherry,J.M., Cawley,S., Dahlke,C., Davenport,L.B.,
+            Davies,P., de Pablos,B., Delcher,A., Deng,Z., Mays,A.D., Dew,I.,
+            Dietz,S.M., Dodson,K., Doup,L.E., Downes,M., Dugan-Rocha,S.,
+            Dunkov,B.C., Dunn,P., Durbin,K.J., Evangelista,C.C., Ferraz,C.,
+            Ferriera,S., Fleischmann,W., Fosler,C., Gabrielian,A.E., Garg,N.S.,
+            Gelbart,W.M., Glasser,K., Glodek,A., Gong,F., Gorrell,J.H., Gu,Z.,
+            Guan,P., Harris,M., Harris,N.L., Harvey,D., Heiman,T.J.,
+            Hernandez,J.R., Houck,J., Hostin,D., Houston,K.A., Howland,T.J.,
+            Wei,M.H., Ibegwam,C., Jalali,M., Kalush,F., Karpen,G.H., Ke,Z.,
+            Kennison,J.A., Ketchum,K.A., Kimmel,B.E., Kodira,C.D., Kraft,C.,
+            Kravitz,S., Kulp,D., Lai,Z., Lasko,P., Lei,Y., Levitsky,A.A.,
+            Li,J., Li,Z., Liang,Y., Lin,X., Liu,X., Mattei,B., McIntosh,T.C.,
+            McLeod,M.P., McPherson,D., Merkulov,G., Milshina,N.V., Mobarry,C.,
+            Morris,J., Moshrefi,A., Mount,S.M., Moy,M., Murphy,B., Murphy,L.,
+            Muzny,D.M., Nelson,D.L., Nelson,D.R., Nelson,K.A., Nixon,K.,
+            Nusskern,D.R., Pacleb,J.M., Palazzolo,M., Pittman,G.S., Pan,S.,
+            Pollard,J., Puri,V., Reese,M.G., Reinert,K., Remington,K.,
+            Saunders,R.D., Scheeler,F., Shen,H., Shue,B.C., Siden-Kiamos,I.,
+            Simpson,M., Skupski,M.P., Smith,T., Spier,E., Spradling,A.C.,
+            Stapleton,M., Strong,R., Sun,E., Svirskas,R., Tector,C., Turner,R.,
+            Venter,E., Wang,A.H., Wang,X., Wang,Z.Y., Wassarman,D.A.,
+            Weinstock,G.M., Weissenbach,J., Williams,S.M., WoodageT,
+            Worley,K.C., Wu,D., Yang,S., Yao,Q.A., Ye,J., Yeh,R.F.,
+            Zaveri,J.S., Zhan,M., Zhang,G., Zhao,Q., Zheng,L., Zheng,X.H.,
+            Zhong,F.N., Zhong,W., Zhou,X., Zhu,S., Zhu,X., Smith,H.O.,
+            Gibbs,R.A., Myers,E.W., Rubin,G.M. and Venter,J.C.
+  TITLE     The genome sequence of Drosophila melanogaster
+  JOURNAL   Science 287 (5461), 2185-2195 (2000)
+   PUBMED   10731132
+REFERENCE   12 (bases 1 to 23513712)
+  AUTHORS   Celniker,S., Carlson,J., Wan,K., Pfeiffer,B., Frise,E., George,R.,
+            Hoskins,R., Stapleton,M., Pacleb,J., Park,S., Svirskas,R.,
+            Smith,E., Yu,C. and Rubin,G.
+  CONSRTM   Berkeley Drosophila Genome Project
+  TITLE     Drosophila melanogaster release 4 sequence
+  JOURNAL   Unpublished
+REFERENCE   13 (bases 1 to 23513712)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-DEC-2023) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   14 (bases 1 to 23513712)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-DEC-2023) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   15 (bases 1 to 23513712)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-NOV-2022) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   16 (bases 1 to 23513712)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-OCT-2022) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   17 (bases 1 to 23513712)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-APR-2020) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   18 (bases 1 to 23513712)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-APR-2019) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   19 (bases 1 to 23513712)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-MAY-2018) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   20 (bases 1 to 23513712)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2016) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   21 (bases 1 to 23513712)
+  CONSRTM   FlyBase
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-OCT-2015) FlyBase, Harvard University, Biological
+            Laboratories, 16 Divinity Ave, Cambridge, MA 02138, USA
+REFERENCE   22 (bases 1 to 23513712)
+  AUTHORS   Celniker,S., Carlson,J., Kennedy,C., Wan,K., Frise,E., Hoskins,R.,
+            Park,S., Svirskas,R. and Karpen,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-AUG-2006) Berkeley Drosophila Genome Project,
+            Lawrence Berkeley National Laboratory, One #Cyclotron RoadOne
+            Cyclotron Road, MS 64-121, Berkeley, CA 94720, USA
+  REMARK    Direct Submission
+REFERENCE   23 (bases 1 to 23513712)
+  AUTHORS   Celniker,S., Carlson,J., Wan,K., Frise,E., Hoskins,R., Park,S.,
+            Svirskas,R. and Rubin,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-AUG-2006) Berkeley Drosophila Genome Project,
+            Lawrence Berkeley National Laboratory, One Cyclotron Road, MS
+            64-121, Berkeley, CA 94720, USA
+  REMARK    Direct Submission
+REFERENCE   24 (bases 1 to 23513712)
+  AUTHORS   Smith,C.D., Shu,S., Mungall,C.J. and Karpen,G.H.
+  CONSRTM   Drosophila Heterochromatin Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-AUG-2006) Drosophila Heterochromatin Genome Project,
+            Ernest Orlando Lawrence Berkeley National Laboratory, 1 Cyclotron
+            Road, Mailstop 64-121, Berkeley, CA 94720, USA
+REFERENCE   25 (bases 1 to 23513712)
+  AUTHORS   Adams,M.D., Celniker,S.E., Gibbs,R.A., Rubin,G.M. and Venter,C.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-MAR-2000) Celera Genomics, 45 West Gude Drive,
+            Rockville, MD 20850, USA
+COMMENT     REVIEWED REFSEQ: This record has been curated by FlyBase. The
+            reference sequence is identical to AE014134.
+            
+            On or before Aug 4, 2014 this sequence version replaced
+            NW_001848855.1, NT_033779.4.
+            This is Release 6 of the Drosophila melanogaster genome, produced
+            jointly by the Berkeley Drosophila Genome Project, Celera Genomics,
+            and the Drosophila Heterochromatin Genome Project. The gene
+            annotation is based on Release 6.54 provided by FlyBase. Additional
+            information about this assembly and annotation can be found at
+            http://www.fruitfly.org and http://flybase.org.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider :: FlyBase
+            Annotation Status   :: Full annotation
+            Annotation Version  :: Release 6.54
+            URL                 :: http://flybase.org
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..23513712
+                     /organism="Drosophila melanogaster"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7227"
+                     /chromosome="2L"
+                     /genotype="y[1]; Gr22b[1] Gr22d[1] cn[1] CG33964[R4.2]
+                     bw[1] sp[1]; LysC[1] MstProx[1] GstD5[1] Rh6[1]"
+CONTIG      join(AE014134.6:1..23513712)
+//
+

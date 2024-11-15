@@ -1,0 +1,1008 @@
+LOCUS       PFAPNG4A                2272 bp    DNA     linear   INV 31-JAN-1995
+DEFINITION  Plasmodium vivax (Papua New Guinea 41-2) microneme protein-1
+            (erythrocyte-binding domain) gene, exon 2.
+ACCESSION   L23073
+VERSION     L23073.1
+KEYWORDS    Duffy receptor; erythrocyte-binding protein; microneme protein-1.
+SOURCE      Plasmodium vivax (malaria parasite P. vivax)
+  ORGANISM  Plasmodium vivax
+            Eukaryota; Sar; Alveolata; Apicomplexa; Aconoidasida; Haemosporida;
+            Plasmodiidae; Plasmodium; Plasmodium (Plasmodium).
+REFERENCE   1  (bases 1 to 2272)
+  AUTHORS   Cochrane,A.H., Gwadz,R.W. and Kamboj,K.K.
+  TITLE     Isolation of three distinct parasite populations expressing
+            different circumsporozoite proteins from the Philippine strain of
+            Plasmodium knowlesi
+  JOURNAL   J. Clin. Microbiol. 26 (2), 178-181 (1988)
+   PUBMED   2449454
+REFERENCE   2  (bases 1 to 2272)
+  AUTHORS   Adams,J.H., Hudson,D.E., Torii,M., Ward,G.E., Wellems,T.E.,
+            Aikawa,M. and Miller,L.H.
+  TITLE     The Duffy receptor family of Plasmodium knowlesi is located within
+            the micronemes of invasive malaria merozoites
+  JOURNAL   Cell 63 (1), 141-153 (1990)
+   PUBMED   2170017
+REFERENCE   3  (bases 1 to 2272)
+  AUTHORS   Fang,X.D., Kaslow,D.C., Adams,J.H. and Miller,L.H.
+  TITLE     Cloning of the Plasmodium vivax Duffy receptor
+  JOURNAL   Mol. Biochem. Parasitol. 44 (1), 125-132 (1991)
+   PUBMED   1849231
+REFERENCE   4  (bases 1 to 2272)
+  AUTHORS   Adams,J.H., Sim,B.K., Dolan,S.A., Fang,X., Kaslow,D.C. and
+            Miller,L.H.
+  TITLE     A family of erythrocyte binding proteins of malaria parasites
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 89 (15), 7085-7089 (1992)
+   PUBMED   1496004
+REFERENCE   5  (bases 1 to 2272)
+  AUTHORS   Tsuboi,T., Al-Yaman,F., Prickett,M.D., Alpers,M.P. and Adams,J.H.
+  TITLE     Polymorphisms of the Plasmodium vivax microneme protein-1
+  JOURNAL   Unpublished
+REFERENCE   6  (bases 1 to 2272)
+  AUTHORS   Tsuboi,T., Kappe,S.H., al-Yaman,F., Prickett,M.D., Alpers,M. and
+            Adams,J.H.
+  TITLE     Natural variation within the principal adhesion domain of the
+            Plasmodium vivax duffy binding protein
+  JOURNAL   Infect. Immun. 62 (12), 5581-5586 (1994)
+   PUBMED   7960140
+COMMENT     Original source text: Plasmodium vivax (individual_isolate Papua
+            New Guinea 41-2) DNA.
+FEATURES             Location/Qualifiers
+     source          1..2272
+                     /organism="Plasmodium vivax"
+                     /mol_type="genomic DNA"
+                     /isolate="Papua New Guinea 41-2"
+                     /db_xref="taxon:5855"
+     CDS             <1..>2272
+                     /function="erythrocyte binding domain"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /codon_start=1
+                     /product="microneme protein-1"
+                     /protein_id="AAA61770.1"
+                     /translation="RYQLCMKELTNFVNNTDTNFHRDITFRKLYLKWKLIYDAAVEFD
+                     LLLKLNNYRYNKVFCKDIRRSLGDFGDIIMGTDMEGIGYSEVVENNLRSFGTGEKAQQ
+                     HRKQWWNESKAQIWTAMMYSVKKRLKGNFIWICKINVAVNIEPQIYRRIREWGRDYVS
+                     ELPTEVQKLKEKCDGKINYTDKKVCKVPPCQNACKSYDQWITRKKNQWDVLSNKFKSV
+                     KNAEKVQTAGIVTPYDILKQELDEFNEVAFENEINKRDGAYIELCVCSVEEAKKNTQE
+                     VVTNVDNAAKSQATNSNPISQPVDSSKAEKVPGDSAHGNVNSGQDSSTTGKAVTGDGQ
+                     NGNQTPAESDVQRSDIAESVSAKNVDPQKSVSKRSDDTASVTGIAEAGKENLGASNSR
+                     PSESTVEANSPGDDTVNSASIPVVRGENPLVTPYNGLGHSKDNSDGTAEFAESTKSAE
+                     SMANPDSNSKGETGKGQDNDMAKATKDSSNSSDGTSSATGDTTDAVDREINKGVPEDR
+                     DKTVGSKDGGGEDNSANKDAATVVGEDRIRENSAGGGTNDRSKNDTEKNGASTPDSKQ
+                     SEDATALSKTESLESTESGDRTTNDTTNSLENKNGGKEKDLQKHDFKSNDTPNEEPNS
+                     DQTTDAEGHDRDSIKNDKAERRKHMNKDTFTKNTNSHHLNSNNNLSNGKLDIKEYKYR
+                     DVKATRKNIILMSSVHKCNNNISLEYCNSVEDKISSNTCSREKSKNLCCSISDFCLNY
+                     FDVNSYEYHSCMKKEFE"
+     misc_feature    1297..1372
+                     /note="polymorphic region"
+ORIGIN      
+        1 agatatcaat tatgtatgaa ggaacttacg aattttgtaa ataatacaga cacaaatttt
+       61 catagggata taacatttcg aaaattatat ttgaaatgga aacttattta tgatgctgca
+      121 gtagagttcg atttattact taagttgaat aactacagat ataacaaagt cttttgcaag
+      181 gatataagac ggagtttggg agattttgga gatataatta tgggaacgga tatggaaggc
+      241 atcggatatt ccgaagtagt ggaaaataat ttgcgcagct ttggaactgg tgaaaaggcc
+      301 caacagcatc gtaaacagtg gtggaatgaa tctaaagcac aaatttggac agcaatgatg
+      361 tactcagtta aaaaaagatt aaaggggaat tttatatgga tttgtaaaat aaatgttgcg
+      421 gtaaatatag aaccgcagat atatagacgg attcgagaat ggggaaggga ttacgtgtca
+      481 gaattgccca cagaagtgca aaaactgaaa gaaaaatgtg atggaaaaat caattatact
+      541 gataaaaagg tatgtaaggt accaccatgt caaaatgcgt gtaaatcata tgatcaatgg
+      601 ataaccagaa aaaaaaatca atgggatgtt ctgtcaaata aattcaaaag tgtaaaaaac
+      661 gcagaaaagg ttcagacggc aggtatcgta actccttatg atatactaaa acaggagtta
+      721 gatgaattta acgaggtggc ttttgagaat gaaattaaca aacgtgatgg tgcatatatt
+      781 gagttatgcg tttgttccgt tgaagaggct aaaaaaaata ctcaggaagt tgtgacaaat
+      841 gtggacaatg ctgctaaatc tcaggccacc aattcaaatc cgataagtca gcctgtagat
+      901 agtagtaaag cggagaaggt tccaggagat tctgcgcatg gaaatgttaa cagtggccaa
+      961 gatagttcta ccacaggtaa agctgttacg ggggatggtc aaaatggaaa tcagacacct
+     1021 gcggaaagcg atgtacagcg aagtgatatt gccgaaagtg taagtgctaa aaatgttgat
+     1081 ccgcagaaat ctgtaagtaa aagaagtgac gacactgcaa gcgttacagg tattgccgaa
+     1141 gctggaaagg aaaacttagg cgcatcaaat agtcgacctt ctgagtccac cgttgaagca
+     1201 aatagcccag gtgatgatac tgtgaacagt gcatctatac ctgtagtgag aggtgaaaac
+     1261 ccattggtaa ccccctataa tggtttgggg cattcgaaag acaatagtga tgggactgcg
+     1321 gaatttgcag aatctacgaa atctgcggaa tcaatggcga atcctgattc aaatagtaaa
+     1381 ggtgagacgg gaaaggggca agataatgat atggcgaagg ctactaaaga tagtagtaat
+     1441 agttcagatg gtaccagctc tgctacgggt gatactactg atgcagttga tagggaaatt
+     1501 aataaaggtg ttcctgagga tagggataaa actgtaggaa gtaaagatgg agggggggaa
+     1561 gataactctg caaataagga tgcagcgact gtagttggtg aggatagaat tcgtgagaac
+     1621 agcgctggtg gtggcactaa tgatagatca aaaaatgaca cggaaaagaa cggggcctct
+     1681 acccctgaca gtaaacaaag tgaggatgca actgcgctaa gtaaaaccga aagtttagaa
+     1741 tcaacagaaa gtggagatag aactactaat gatacaacta acagtttaga aaataaaaat
+     1801 ggaggaaaag aaaaggattt acaaaagcat gattttaaaa gtaatgatac gccgaatgaa
+     1861 gaaccaaatt ctgatcaaac tacagatgca gaaggacatg acagggatag catcaaaaat
+     1921 gataaagcag aaaggagaaa gcatatgaat aaagatactt ttacgaaaaa tacaaatagt
+     1981 caccatttaa atagtaataa taatttgagt aatggaaaat tagatataaa agaatacaaa
+     2041 tacagagatg tcaaagcaac aaggaaaaat attatattaa tgtcttcagt acacaagtgc
+     2101 aacaataata tttctttaga gtactgtaac tctgtagagg acaaaatatc atcgaatact
+     2161 tgttctagag agaaaagtaa aaatttatgt tgctcaatat cggatttttg tttgaactat
+     2221 tttgacgtga attcttatga gtatcatagc tgcatgaaaa aggaatttga ag
+//
+
+LOCUS       PFAPNG8A                2251 bp    DNA     linear   INV 31-JAN-1995
+DEFINITION  Plasmodium vivax (Papua New Guinea 8-1) microneme protein-1
+            (erythrocyte-binding domain) gene, exon 2.
+ACCESSION   L23075
+VERSION     L23075.1
+KEYWORDS    Duffy receptor; erythrocyte-binding protein; microneme protein-1.
+SOURCE      Plasmodium vivax (malaria parasite P. vivax)
+  ORGANISM  Plasmodium vivax
+            Eukaryota; Sar; Alveolata; Apicomplexa; Aconoidasida; Haemosporida;
+            Plasmodiidae; Plasmodium; Plasmodium (Plasmodium).
+REFERENCE   1  (bases 1 to 2251)
+  AUTHORS   Cochrane,A.H., Gwadz,R.W. and Kamboj,K.K.
+  TITLE     Isolation of three distinct parasite populations expressing
+            different circumsporozoite proteins from the Philippine strain of
+            Plasmodium knowlesi
+  JOURNAL   J. Clin. Microbiol. 26 (2), 178-181 (1988)
+   PUBMED   2449454
+REFERENCE   2  (bases 1 to 2251)
+  AUTHORS   Adams,J.H., Hudson,D.E., Torii,M., Ward,G.E., Wellems,T.E.,
+            Aikawa,M. and Miller,L.H.
+  TITLE     The Duffy receptor family of Plasmodium knowlesi is located within
+            the micronemes of invasive malaria merozoites
+  JOURNAL   Cell 63 (1), 141-153 (1990)
+   PUBMED   2170017
+REFERENCE   3  (bases 1 to 2251)
+  AUTHORS   Fang,X.D., Kaslow,D.C., Adams,J.H. and Miller,L.H.
+  TITLE     Cloning of the Plasmodium vivax Duffy receptor
+  JOURNAL   Mol. Biochem. Parasitol. 44 (1), 125-132 (1991)
+   PUBMED   1849231
+REFERENCE   4  (bases 1 to 2251)
+  AUTHORS   Adams,J.H., Sim,B.K., Dolan,S.A., Fang,X., Kaslow,D.C. and
+            Miller,L.H.
+  TITLE     A family of erythrocyte binding proteins of malaria parasites
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 89 (15), 7085-7089 (1992)
+   PUBMED   1496004
+REFERENCE   5  (bases 1 to 2251)
+  AUTHORS   Tsuboi,T., Al-Yaman,F., Prickett,M.D., Alpers,M.P. and Adams,J.H.
+  TITLE     Polymorphisms of the Plasmodium vivax microneme protein-1
+  JOURNAL   Unpublished
+REFERENCE   6  (bases 1 to 2251)
+  AUTHORS   Tsuboi,T., Kappe,S.H., al-Yaman,F., Prickett,M.D., Alpers,M. and
+            Adams,J.H.
+  TITLE     Natural variation within the principal adhesion domain of the
+            Plasmodium vivax duffy binding protein
+  JOURNAL   Infect. Immun. 62 (12), 5581-5586 (1994)
+   PUBMED   7960140
+COMMENT     Original source text: Plasmodium vivax (individual_isolate Papua
+            New Guinea 8-1) DNA.
+FEATURES             Location/Qualifiers
+     source          1..2251
+                     /organism="Plasmodium vivax"
+                     /mol_type="genomic DNA"
+                     /isolate="Papua New Guinea 8-1"
+                     /db_xref="taxon:5855"
+     CDS             <1..>2251
+                     /function="erythrocyte binding domain"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="exon 2"
+                     /codon_start=1
+                     /product="microneme protein-1"
+                     /protein_id="AAA61772.1"
+                     /translation="RYQLCMKELTNLVNNTDTNFHSDITFRKLYLKRKLIYDAAVEGD
+                     LLLKLNNYRYNKDFCKDIRWSLGDFGDIIMGTDMEGIGYSKVVENNLRSFGTGEQAQQ
+                     RRKQWWNESKAQIWAAMMYSVKKRLKGKFIWICKINVAVNIEPQIYRRIREWGRDYVS
+                     ELPTEVQKLKEKCDGKINYTDKKVCKVPPCQNACKSYDQWITRKKNQWDVLSNKFKSV
+                     KNAEKVQTAGIVTPYDILKQELDEFNEVAFENEINKRDGAYIELCVCSVEEAKKNTQE
+                     VVTNVDNAAKSQATNSNPISQPVDSSKAEKVPGDSTHGNVNSGQDSSTTGKAVTGDGQ
+                     NGNQTPAESDVQRSDIAESVSAKNVDPQKSVSKRSDDTASATGIAEAGKENLGASNSR
+                     PSESTVEANSPGDDTVNSASIPVVSGENPLVTPYNGLGHSKDNSDSNGPAESMANPDS
+                     NSKGETGKGQDNDMAKATKDSSNSSDGTSSATGDTTDAVDREINKGVPEDRDTTVGSK
+                     GGGGEDNSANKDAATVVGEDRIRENSAGGSTNDRSKNDTEKNGASTPDSKQSEDATAL
+                     SKTESLESTESGDRTTNDTTNSLENKNGGKEKDLQKHDFKSNDTPNEEPNSGQTTDAE
+                     GHDRDSIKNDKAERRKHMNKDTFTKNTNSHHLNSNNNLSNGKLDIKEYKYRDVKATRK
+                     NIILMSSVRKCNNNISLEYCNSVEDKISSNTCSREKSKNLCCSISDFCLNYFDVNSYE
+                     YHSCMKKEFE"
+     misc_feature    1297..1351
+                     /note="polymorphic region"
+ORIGIN      
+        1 agatatcaat tatgtatgaa ggaacttacg aatttggtaa ataatacaga cacaaatttt
+       61 catagtgata taacatttcg aaaattgtat ttgaaaagga aacttattta tgatgctgca
+      121 gtagagggcg atttattact taagttgaat aactacagat ataacaaaga cttttgcaag
+      181 gatataagat ggagtttggg agattttgga gatataatta tgggaacgga tatggaaggc
+      241 atcggatatt ccaaagtagt ggaaaataat ttgcgcagct ttggaactgg tgaacaggcc
+      301 caacagcgtc gtaagcagtg gtggaatgaa tctaaagcac aaatttgggc agcaatgatg
+      361 tactcagtta aaaaaagatt aaaggggaaa tttatatgga tttgtaaaat aaatgttgcg
+      421 gtaaatatag aaccgcagat atatagacgg attcgagaat ggggaaggga ttacgtgtca
+      481 gaattgccca cagaagtgca aaaactgaaa gaaaaatgtg atggaaaaat caattatact
+      541 gataaaaaag tatgtaaggt accaccatgt caaaatgcgt gtaaatcata tgatcaatgg
+      601 ataaccagaa aaaaaaatca atgggatgtt ctgtcaaata aattcaaaag tgtaaaaaac
+      661 gcagaaaagg ttcagacggc aggtatcgta actccttatg atatactaaa acaggagtta
+      721 gatgaattta acgaggtggc ttttgagaat gaaattaaca aacgtgatgg tgcatatatt
+      781 gagttatgcg tttgttccgt tgaagaggct aaaaaaaata ctcaggaagt tgtgacaaat
+      841 gtggacaatg ctgctaaatc tcaggccacc aattcaaatc cgataagtca gcccgtagat
+      901 agtagtaaag cggagaaggt tccaggagat tctacgcatg gaaatgttaa cagtggccaa
+      961 gatagttcta ccacaggtaa agctgttacg ggggatggtc aaaatggaaa tcagacacct
+     1021 gcagaaagcg atgtacagcg aagtgatatt gccgaaagtg taagtgctaa aaatgttgat
+     1081 ccgcagaaat ctgtaagtaa aagaagtgac gacactgcaa gcgctacagg tattgccgaa
+     1141 gctggaaagg aaaacttagg cgcatcaaat agtcgacctt ctgagtccac cgttgaagca
+     1201 aatagcccag gtgatgatac tgtgaacagt gcatctatac ctgtagtgag tggtgaaaac
+     1261 ccattggtaa ccccctataa tggtttgggg cattcgaaag acaatagtga tagcaatgga
+     1321 cctgcggaat caatggcgaa tcctgattca aatagtaaag gtgagacggg aaaggggcaa
+     1381 gataatgata tggcgaaggc tactaaagat agtagtaata gttcagatgg taccagctct
+     1441 gctacgggtg atactactga tgcagttgat agggaaatta ataaaggtgt tcctgaggat
+     1501 agggatacaa ctgtaggaag taaaggtgga gggggggaag ataactctgc aaataaggat
+     1561 gcagcgactg tagttggtga ggatagaatt cgtgagaaca gcgctggtgg tagcactaat
+     1621 gatagatcaa aaaatgacac ggaaaagaac ggggcctcta cccctgacag taaacaaagt
+     1681 gaggatgcaa ctgcgctaag taaaaccgaa agtttagaat caacagaaag tggagataga
+     1741 actactaatg atacaactaa cagtttagaa aataaaaatg gaggaaaaga aaaggattta
+     1801 caaaagcatg attttaaaag taatgatacg ccgaatgaag aaccaaattc tggtcaaact
+     1861 acagatgcag aaggacatga cagggatagc atcaaaaatg ataaagcaga aaggagaaag
+     1921 catatgaata aggatacttt tacgaaaaat acaaatagtc accatttaaa tagtaataat
+     1981 aatttgagta atggaaaatt agatataaaa gaatacaaat acagagatgt caaagcaaca
+     2041 aggaaaaata ttatattaat gtcttcagta cgcaagtgca acaataatat ttctttagag
+     2101 tactgtaact ctgtagagga caaaatatca tcgaatactt gttctagaga gaaaagtaaa
+     2161 aatttatgtt gctcaatatc ggatttttgt ttgaactatt ttgacgtgaa ttcttatgag
+     2221 tatcatagct gcatgaaaaa ggaatttgaa g
+//
+
+LOCUS       PFAPNG7A                2251 bp    DNA     linear   INV 31-JAN-1995
+DEFINITION  Plasmodium vivax (Papua New Guinea 7-1) microneme protein-1
+            (erythrocyte-binding domain) gene, exon 2.
+ACCESSION   L23074
+VERSION     L23074.1
+KEYWORDS    Duffy receptor; erythrocyte-binding protein; microneme protein-1.
+SOURCE      Plasmodium vivax (malaria parasite P. vivax)
+  ORGANISM  Plasmodium vivax
+            Eukaryota; Sar; Alveolata; Apicomplexa; Aconoidasida; Haemosporida;
+            Plasmodiidae; Plasmodium; Plasmodium (Plasmodium).
+REFERENCE   1  (bases 1 to 2251)
+  AUTHORS   Cochrane,A.H., Gwadz,R.W. and Kamboj,K.K.
+  TITLE     Isolation of three distinct parasite populations expressing
+            different circumsporozoite proteins from the Philippine strain of
+            Plasmodium knowlesi
+  JOURNAL   J. Clin. Microbiol. 26 (2), 178-181 (1988)
+   PUBMED   2449454
+REFERENCE   2  (bases 1 to 2251)
+  AUTHORS   Adams,J.H., Hudson,D.E., Torii,M., Ward,G.E., Wellems,T.E.,
+            Aikawa,M. and Miller,L.H.
+  TITLE     The Duffy receptor family of Plasmodium knowlesi is located within
+            the micronemes of invasive malaria merozoites
+  JOURNAL   Cell 63 (1), 141-153 (1990)
+   PUBMED   2170017
+REFERENCE   3  (bases 1 to 2251)
+  AUTHORS   Fang,X.D., Kaslow,D.C., Adams,J.H. and Miller,L.H.
+  TITLE     Cloning of the Plasmodium vivax Duffy receptor
+  JOURNAL   Mol. Biochem. Parasitol. 44 (1), 125-132 (1991)
+   PUBMED   1849231
+REFERENCE   4  (bases 1 to 2251)
+  AUTHORS   Adams,J.H., Sim,B.K., Dolan,S.A., Fang,X., Kaslow,D.C. and
+            Miller,L.H.
+  TITLE     A family of erythrocyte binding proteins of malaria parasites
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 89 (15), 7085-7089 (1992)
+   PUBMED   1496004
+REFERENCE   5  (bases 1 to 2251)
+  AUTHORS   Tsuboi,T., Al-Yaman,F., Prickett,M.D., Alpers,M.P. and Adams,J.H.
+  TITLE     Polymorphisms of the Plasmodium vivax microneme protein-1
+  JOURNAL   Unpublished
+REFERENCE   6  (bases 1 to 2251)
+  AUTHORS   Tsuboi,T., Kappe,S.H., al-Yaman,F., Prickett,M.D., Alpers,M. and
+            Adams,J.H.
+  TITLE     Natural variation within the principal adhesion domain of the
+            Plasmodium vivax duffy binding protein
+  JOURNAL   Infect. Immun. 62 (12), 5581-5586 (1994)
+   PUBMED   7960140
+COMMENT     Original source text: Plasmodium vivax (individual_isolate Papua
+            New Guinea 7-1) DNA.
+FEATURES             Location/Qualifiers
+     source          1..2251
+                     /organism="Plasmodium vivax"
+                     /mol_type="genomic DNA"
+                     /isolate="Papua New Guinea 7-1"
+                     /db_xref="taxon:5855"
+     CDS             <1..>2251
+                     /function="erythrocyte binding domain"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="exon 2"
+                     /codon_start=1
+                     /product="microneme protein-1"
+                     /protein_id="AAA61771.1"
+                     /translation="RYQLCMKELTNLVNNTDTNFHSDITFRKLYLKRKLIYDAAVEGD
+                     LLLKLNNYRYNKDFCKDIRWSLGDFGDIIMGTDMEGIGYSKVVENNLRSFGTGEQAQQ
+                     RRKQRWNESKAQIWTAMMYSVKKRLKGKFIWICKINVAVNIEPQIYRRIREWGRDYVS
+                     ELPTEVKKLKEKCDGKINYTDKKVCKVRPCQNACKSYDQWITRKKNQWDVLSNKFKSV
+                     KNAEKVQTAGIVTPYDILKQELDEFNEVAFENEINKRDGAYIELCVCSVEEAKKNTQE
+                     VVTNVDNAAKSQATNSNPISQPVDSSKAEKVPGDSTHGNVNSGQDSSTTGKAVTGDGQ
+                     NGNQTPAESDVQRSDIAESVSAKNVDPQKSVSERSDDTASVTGIAEAGKENLGASNSR
+                     PSESTVEANSPGDDTENSASIPVVSGENPLVTPYNGLGHSKDNSDSNGPAESMAYPDS
+                     NSKGETGKGQDNDMAKATKDSSNSSDGTSSATGDTTDAVNREINKGVPEDRDKTVGSK
+                     DGGGEDNSANKDAATVVGGDRIRENSAGGSTNDRSKNDTEKNGASTPDSKQSEDATAL
+                     SKTESLESTESGDRTTNDTTNSLENKNGGKEKDLQKHDFKSNDTPNEEPNSDQTTDAE
+                     GHDRDSIKNDKAERRKHMNKDTFTKNTNSHHLNSNNNLSNGKLDIKEYEYRDVKATRK
+                     NIILMSSVRKCNNNISLEYCNSVEDKISSNTCSIEKSKNLCCSISDFCLNYFDVYSYE
+                     YLSCMKKEFE"
+     misc_feature    1297..1351
+                     /note="polymorphic region"
+ORIGIN      
+        1 agatatcaat tatgtatgaa ggaacttacg aatttggtaa ataatacaga cacaaatttt
+       61 catagtgata taacatttcg aaaattatat ttgaaaagga aacttattta tgatgctgca
+      121 gtagagggcg atttattact taagttgaat aactacagat ataacaaaga cttttgcaag
+      181 gatataagat ggagtttggg agattttgga gatataatta tgggaacgga tatggaaggc
+      241 atcggatatt ccaaagtagt ggaaaataat ttgcgcagct ttggaactgg tgaacaggcc
+      301 caacagcgtc gtaaacagag gtggaatgaa tctaaagcac aaatttggac agcaatgatg
+      361 tactcagtta aaaaaagatt aaaggggaaa tttatatgga tttgtaaaat aaatgttgcg
+      421 gtaaatatag aaccgcagat atatagacgg attcgagaat ggggaaggga ttacgtgtca
+      481 gaattgccca cagaagtgaa aaaactgaaa gaaaaatgtg atggaaaaat caattatact
+      541 gataaaaaag tatgtaaggt acgaccatgt caaaatgcgt gtaaatcata tgatcaatgg
+      601 ataaccagaa aaaaaaatca atgggatgtt ctgtcaaata aattcaaaag tgtaaaaaac
+      661 gcagaaaagg ttcagacggc aggtatcgta actccttatg atatactaaa acaggagtta
+      721 gatgaattta acgaggtggc ttttgagaat gaaattaaca aacgtgatgg tgcatatatt
+      781 gagttatgcg tttgttccgt tgaagaggct aaaaaaaata ctcaggaagt tgtgacaaat
+      841 gtggacaatg ctgctaaatc tcaggccacc aattcaaatc cgataagtca gcctgtagat
+      901 agtagtaaag cggagaaggt tccaggagat tctacgcatg gaaatgttaa cagtggccaa
+      961 gatagttcta ccacaggtaa agctgttacg ggggatggtc aaaatggaaa tcagacacct
+     1021 gcagaaagcg atgtacagcg aagtgatatt gccgaaagtg taagtgctaa aaatgttgat
+     1081 ccgcagaaat ctgtaagtga aagaagtgac gacactgcaa gcgttacagg tattgccgaa
+     1141 gctggaaagg aaaacttagg cgcatcaaat agtcgacctt ctgagtccac cgttgaagca
+     1201 aatagcccag gtgatgatac tgagaacagt gcatctatac ctgtagtgag tggtgaaaac
+     1261 ccattggtaa ccccctataa tggtttgggg cattcgaaag acaatagtga tagcaatgga
+     1321 cctgcggaat caatggcgta tcctgattca aatagtaaag gtgagacggg aaaggggcaa
+     1381 gataatgata tggcgaaggc tactaaagat agtagtaata gttcagatgg taccagctct
+     1441 gctacgggtg atactactga tgcagttaat agggaaatta ataaaggtgt tcctgaggat
+     1501 agggataaaa ctgtaggaag taaagatgga gggggggaag ataactctgc aaataaggat
+     1561 gcagcgactg tagttggtgg ggatagaatt cgtgagaaca gcgctggtgg tagcactaat
+     1621 gatagatcaa aaaatgacac ggaaaagaac ggggcctcta cccctgacag taaacaaagt
+     1681 gaggatgcaa ctgcgctaag taaaaccgaa agtttagaat caacagaaag tggagataga
+     1741 actactaacg atacaactaa cagtttagaa aataaaaatg gaggaaaaga aaaggattta
+     1801 caaaagcatg attttaaaag taatgatacg ccgaatgaag aaccaaattc tgatcaaact
+     1861 acagatgcag agggacatga cagggatagc atcaaaaatg ataaagcaga aaggagaaag
+     1921 catatgaata aagatacttt tacgaaaaat acaaatagtc accatttaaa tagtaataat
+     1981 aatttgagta atggaaaatt agatataaaa gaatacgaat acagagatgt caaagcaaca
+     2041 aggaaaaata ttatattaat gtcttcagta cgcaagtgca acaataatat ttctttagag
+     2101 tactgtaact ctgtagagga caaaatatca tcgaatactt gttctataga gaaaagtaaa
+     2161 aatttatgtt gttcaatatc ggatttttgt ttgaactatt ttgacgtgta ttcttatgag
+     2221 tatcttagct gcatgaaaaa ggaatttgaa g
+//
+
+LOCUS       PFAPNG3A                2272 bp    DNA     linear   INV 31-JAN-1995
+DEFINITION  Plasmodium vivax (Papua New Guinea 32-1) microneme protein-1
+            (erythrocyte-binding domain) gene, exon 2.
+ACCESSION   L23072
+VERSION     L23072.1
+KEYWORDS    Duffy receptor; erythrocyte-binding protein; microneme protein-1.
+SOURCE      Plasmodium vivax (malaria parasite P. vivax)
+  ORGANISM  Plasmodium vivax
+            Eukaryota; Sar; Alveolata; Apicomplexa; Aconoidasida; Haemosporida;
+            Plasmodiidae; Plasmodium; Plasmodium (Plasmodium).
+REFERENCE   1  (bases 1 to 2272)
+  AUTHORS   Cochrane,A.H., Gwadz,R.W. and Kamboj,K.K.
+  TITLE     Isolation of three distinct parasite populations expressing
+            different circumsporozoite proteins from the Philippine strain of
+            Plasmodium knowlesi
+  JOURNAL   J. Clin. Microbiol. 26 (2), 178-181 (1988)
+   PUBMED   2449454
+REFERENCE   2  (bases 1 to 2272)
+  AUTHORS   Adams,J.H., Hudson,D.E., Torii,M., Ward,G.E., Wellems,T.E.,
+            Aikawa,M. and Miller,L.H.
+  TITLE     The Duffy receptor family of Plasmodium knowlesi is located within
+            the micronemes of invasive malaria merozoites
+  JOURNAL   Cell 63 (1), 141-153 (1990)
+   PUBMED   2170017
+REFERENCE   3  (bases 1 to 2272)
+  AUTHORS   Fang,X.D., Kaslow,D.C., Adams,J.H. and Miller,L.H.
+  TITLE     Cloning of the Plasmodium vivax Duffy receptor
+  JOURNAL   Mol. Biochem. Parasitol. 44 (1), 125-132 (1991)
+   PUBMED   1849231
+REFERENCE   4  (bases 1 to 2272)
+  AUTHORS   Adams,J.H., Sim,B.K., Dolan,S.A., Fang,X., Kaslow,D.C. and
+            Miller,L.H.
+  TITLE     A family of erythrocyte binding proteins of malaria parasites
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 89 (15), 7085-7089 (1992)
+   PUBMED   1496004
+REFERENCE   5  (bases 1 to 2272)
+  AUTHORS   Tsuboi,T., Al-Yaman,F., Prickett,M.D., Alpers,M.P. and Adams,J.H.
+  TITLE     Polymorphisms of the Plasmodium vivax microneme protein-1
+  JOURNAL   Unpublished
+REFERENCE   6  (bases 1 to 2251)
+  AUTHORS   Tsuboi,T., Kappe,S.H., al-Yaman,F., Prickett,M.D., Alpers,M. and
+            Adams,J.H.
+  TITLE     Natural variation within the principal adhesion domain of the
+            Plasmodium vivax duffy binding protein
+  JOURNAL   Infect. Immun. 62 (12), 5581-5586 (1994)
+   PUBMED   7960140
+COMMENT     Original source text: Plasmodium vivax (individual_isolate Papua
+            New Guinea 32-1) DNA.
+FEATURES             Location/Qualifiers
+     source          1..2272
+                     /organism="Plasmodium vivax"
+                     /mol_type="genomic DNA"
+                     /isolate="Papua New Guinea 32-1"
+                     /db_xref="taxon:5855"
+     CDS             <1..>2272
+                     /function="erythrocyte binding domain"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="exon 2"
+                     /codon_start=1
+                     /product="microneme protein-1"
+                     /protein_id="AAA61769.1"
+                     /translation="RYQLCMKELTNLVNNTDTNFHSDITFRKLYLKRKLIYDAAVEGD
+                     LLLKLNNYRYNKDFCKDIRWSLGDFGDIIMGTDMEGIGYSKVVENNLRSFGTGEKAQQ
+                     HRKQWWNESKAQIWSAMMYSVKKRLKGNFIWICKINVAVNIEPQIYRWIREWGRDYVK
+                     ELPTEVQKLKEKCDGKINYTDKKVCKVPPCQNACKSYDQWITRKKNQWDVLSNKFISV
+                     KNAEKVQTAGIVTPYDILKQELDEFNEVAFENEINKRDGAYIELCVCSVEEAKKNTQE
+                     VVTNVDNAAKSQATNSNPISQPVDSSKAEKVPGDSTHGNVNSGQDSSTTGKAVTGDGQ
+                     NGNQTPEESDVQRSDIAESVSAKNVDPQKSVSKRSDDTASATGIAEAGKENLGASNSR
+                     PSESTVEANSPGDDTVNSASIPVVSGENPLVTPYNGLRHSKDNSDGPAEFAESTKSAE
+                     SMANPDSNSKGETGKGQDNDMAKATKDSSNSSDGTSSATGDTTDAVDREINKGVPEDR
+                     DKTVGSKDGGGEDNSANKDAATVVGEDRIRENSAGGSTNDRSKNDTEKNGASTPDSKQ
+                     SEDATALSKTESLESTESGDRTTNDTTNSLENKNGGKEKDLQKHDFKSNDTPNEEPNS
+                     DQTTDVEGHDRDSIKNDKAERRKHMNKDTFTKNTNSHHLNSNNNLSNGKLDIKEYKYR
+                     DVKATRKNIILMSSVRKCNNNISLEYCNSVEDKISSNTCSREKSKNLCCSISDFCLNY
+                     FDVYSYEYHSCMKKEFE"
+     misc_feature    1297..1372
+                     /note="polymorphic region"
+ORIGIN      
+        1 agatatcaat tatgtatgaa ggaacttacg aatttggtaa ataatacaga cacaaatttt
+       61 catagtgata taacatttcg aaaattatat ttgaaaagga aacttattta tgatgctgca
+      121 gtagagggcg atttattact taagttgaat aactacagat ataacaaaga cttttgcaag
+      181 gatataagat ggagtttggg agattttgga gatataatta tgggaacgga tatggaaggc
+      241 atcggatatt ccaaagtagt ggaaaataat ttgcgcagct ttggaactgg tgaaaaggcc
+      301 caacagcatc gtaaacagtg gtggaatgaa tctaaagcac aaatttggtc agcaatgatg
+      361 tactcagtta aaaaaagatt aaaggggaat tttatatgga tttgtaaaat aaatgttgcg
+      421 gtaaatatag aaccgcagat atatagatgg attcgagaat ggggaaggga ttacgtgaaa
+      481 gaattgccca cagaagtgca aaaactgaaa gaaaaatgtg atggaaaaat caattatact
+      541 gataaaaaag tatgtaaggt accaccatgt caaaatgcgt gtaaatcata tgatcaatgg
+      601 ataaccagaa aaaaaaatca atgggatgtt ctgtcaaata aattcataag tgtaaaaaac
+      661 gcagaaaagg ttcagacggc aggtatcgta actccttatg atatactaaa acaggagtta
+      721 gatgaattta acgaggtggc ttttgagaat gaaattaaca aacgtgatgg tgcatatatt
+      781 gagttatgcg tttgttccgt tgaagaggct aaaaaaaata ctcaggaagt tgtgacaaat
+      841 gtggacaatg ctgctaaatc tcaggccacc aattcaaatc cgataagtca gcctgtagat
+      901 agtagtaaag cggagaaggt tccaggagat tctacgcatg gaaatgttaa cagtggccaa
+      961 gatagttcta ccacaggtaa agctgttacg ggggatggtc aaaatggaaa tcagacacct
+     1021 gaagaaagcg atgtacagcg aagtgatatt gccgaaagtg taagtgctaa aaatgttgat
+     1081 ccgcagaaat ctgtaagtaa aagaagtgac gacactgcaa gcgctacagg tattgccgaa
+     1141 gctggaaagg aaaacttagg cgcatcaaat agtcgacctt ctgagtccac cgttgaagca
+     1201 aatagcccag gtgatgatac tgtgaacagt gcatctatac ctgtagtgag tggtgaaaac
+     1261 ccattggtaa ccccctataa tggtttgagg cattcgaaag acaatagtga tggacctgcg
+     1321 gagtttgcgg aatctacgaa atctgcggaa tcaatggcga atcctgattc aaatagtaaa
+     1381 ggtgagacgg gaaaggggca agataatgat atggcgaagg ctactaaaga tagtagtaat
+     1441 agttcagatg gtaccagctc tgctacgggt gatactactg atgcagttga tagggaaatt
+     1501 aataaaggtg ttcctgagga tagggataaa actgtaggaa gtaaagatgg agggggggaa
+     1561 gataactctg caaataagga tgcagcgact gtagttggtg aggatagaat tcgtgagaac
+     1621 agcgctggtg gtagcactaa tgatagatca aaaaatgaca cggaaaagaa cggggcctct
+     1681 acccctgaca gtaaacaaag tgaggatgca actgcgctaa gtaaaaccga aagtttagaa
+     1741 tcaacagaaa gtggagatag aactactaat gatacaacta acagtttaga aaataaaaat
+     1801 ggaggaaaag aaaaggattt acaaaagcat gattttaaaa gtaatgatac gccgaatgaa
+     1861 gaaccaaatt ctgatcaaac tacagatgta gaaggacatg acagggatag catcaaaaat
+     1921 gataaagcag aaaggagaaa gcatatgaat aaagatactt ttacgaaaaa tacaaatagt
+     1981 caccatttaa atagtaataa taatttgagt aatggaaaat tagatataaa agaatacaaa
+     2041 tacagagatg tcaaagcaac aaggaaaaat attatattaa tgtcttcagt acgcaagtgc
+     2101 aacaataata tttctttaga gtactgtaac tctgtagagg acaaaatatc atcgaatact
+     2161 tgttctagag agaaaagtaa aaatttatgt tgctcaatat cggatttttg tttgaactat
+     2221 tttgacgtgt attcttatga gtatcatagc tgcatgaaaa aggaatttga ag
+//
+
+LOCUS       PFAPNG2AA               2251 bp    DNA     linear   INV 31-JAN-1995
+DEFINITION  Plasmodium vivax (Papua New Guinea 29-1) microneme protein-1
+            (erythrocyte-binding domain) gene, exon 2.
+ACCESSION   L23071
+VERSION     L23071.1
+KEYWORDS    Duffy receptor; erythrocyte-binding protein; microneme protein-1.
+SOURCE      Plasmodium vivax (malaria parasite P. vivax)
+  ORGANISM  Plasmodium vivax
+            Eukaryota; Sar; Alveolata; Apicomplexa; Aconoidasida; Haemosporida;
+            Plasmodiidae; Plasmodium; Plasmodium (Plasmodium).
+REFERENCE   1  (bases 1 to 2251)
+  AUTHORS   Cochrane,A.H., Gwadz,R.W. and Kamboj,K.K.
+  TITLE     Isolation of three distinct parasite populations expressing
+            different circumsporozoite proteins from the Philippine strain of
+            Plasmodium knowlesi
+  JOURNAL   J. Clin. Microbiol. 26 (2), 178-181 (1988)
+   PUBMED   2449454
+REFERENCE   2  (bases 1 to 2251)
+  AUTHORS   Adams,J.H., Hudson,D.E., Torii,M., Ward,G.E., Wellems,T.E.,
+            Aikawa,M. and Miller,L.H.
+  TITLE     The Duffy receptor family of Plasmodium knowlesi is located within
+            the micronemes of invasive malaria merozoites
+  JOURNAL   Cell 63 (1), 141-153 (1990)
+   PUBMED   2170017
+REFERENCE   3  (bases 1 to 2251)
+  AUTHORS   Fang,X.D., Kaslow,D.C., Adams,J.H. and Miller,L.H.
+  TITLE     Cloning of the Plasmodium vivax Duffy receptor
+  JOURNAL   Mol. Biochem. Parasitol. 44 (1), 125-132 (1991)
+   PUBMED   1849231
+REFERENCE   4  (bases 1 to 2251)
+  AUTHORS   Adams,J.H., Sim,B.K., Dolan,S.A., Fang,X., Kaslow,D.C. and
+            Miller,L.H.
+  TITLE     A family of erythrocyte binding proteins of malaria parasites
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 89 (15), 7085-7089 (1992)
+   PUBMED   1496004
+REFERENCE   5  (bases 1 to 2251)
+  AUTHORS   Tsuboi,T., Al-Yaman,F., Prickett,M.D., Alpers,M.P. and Adams,J.H.
+  TITLE     Polymorphisms of the Plasmodium vivax microneme protein-1
+  JOURNAL   Unpublished
+REFERENCE   6  (bases 1 to 2251)
+  AUTHORS   Tsuboi,T., Kappe,S.H., al-Yaman,F., Prickett,M.D., Alpers,M. and
+            Adams,J.H.
+  TITLE     Natural variation within the principal adhesion domain of the
+            Plasmodium vivax duffy binding protein
+  JOURNAL   Infect. Immun. 62 (12), 5581-5586 (1994)
+   PUBMED   7960140
+COMMENT     Original source text: Plasmodium vivax (individual_isolate Papua
+            New Guinea 29-1) DNA.
+FEATURES             Location/Qualifiers
+     source          1..2251
+                     /organism="Plasmodium vivax"
+                     /mol_type="genomic DNA"
+                     /isolate="Papua New Guinea 29-1"
+                     /db_xref="taxon:5855"
+     CDS             <1..>2251
+                     /function="erythrocyte binding domain"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="exon 2"
+                     /codon_start=1
+                     /product="microneme protein-1"
+                     /protein_id="AAA61768.1"
+                     /translation="RYQLCMKELTNLVNNTDTNFHRDITFRKLYLKRKLIYDAAVEGD
+                     LLLKLNNYRYNKDFCKDIRWSLGDFGDIIMGTDMEGIGYSKVVENNLRCFGTDEKAQQ
+                     RRKQWWNESKAQIWTAMMYSVKKRLKGKFIWICKINVAVNIEPQIYRRIREWGRDYVS
+                     ELPTEVQNLKEKCDGKINYTDKKVCKVPPCQNACKSYDQWITRKKNQWDVLSNKFKSV
+                     KNAGKVQTAGIVTPYDILKQELDEFNEVAFENEINKRDGAYIELCVCSVEEAKKNTQE
+                     VVTNVDNAAKSQATNSNPISQPVDSSKAEKVPGDSTHGNVNSGQDSSTTGKAVTGDGK
+                     NGNQTPAESDVQRSDIAESVSAKNVDPQKSVSKRSDDTASVTGIAEAGKENLGASNSR
+                     PSESTVEANSPGDDTVNSASIPVVSGENPLVTPYNGLRHSKDNSDSDGPAESMANPDS
+                     NSKGETGKGQDNDMAKATKDSSNSSDGTSSATGDTTDAVDREINKGVPEDRDKTVGSK
+                     DGGGEDNSANKDAATVVGEDRIRENSAGGSTNDRSRNDTEKNGASTPDSKQSEDATAL
+                     SKTESLESTESGDRTTNDTTISLENKNGGKEKDLQKHDFKSNDTPNEEPNSDQTTDVE
+                     GHDRDSIKNDKAERRKHMNKDTFTKNTNSHHLNSNNNLSNGKLDIKEYKYRDVKATRK
+                     NIILMSSVRKCNNNISLEYCNSVEDKISSNTCSREKSKNLCCSISDFCLNYFDVYSYE
+                     YHSCMKKEFE"
+     misc_feature    1297..1351
+                     /note="polymorphic region"
+ORIGIN      
+        1 agatatcaat tatgtatgaa ggaacttacg aatttggtaa ataatacaga cacaaatttt
+       61 catagggata taacatttcg aaaattatat ttgaaaagga aacttattta tgatgctgca
+      121 gtagagggcg atttattact taagttgaat aactacagat ataacaaaga cttttgcaag
+      181 gatataagat ggagtttggg agattttgga gatataatta tgggaacgga tatggaaggc
+      241 atcggatatt ccaaagtagt ggaaaataat ttgcgctgct ttggaactga tgaaaaggcc
+      301 caacagcgtc gtaaacagtg gtggaatgaa tctaaagcac aaatttggac agcaatgatg
+      361 tactcagtta aaaaaagatt aaaggggaaa tttatatgga tttgtaaaat aaatgttgcg
+      421 gtaaatatag aaccgcagat atatagacgg attcgagaat ggggaaggga ttacgtgtca
+      481 gaattgccca cagaagtgca aaacctgaaa gaaaaatgtg atggcaaaat caattatact
+      541 gataaaaaag tatgtaaggt accaccatgt caaaatgcgt gtaaatcata tgatcaatgg
+      601 ataaccagaa aaaaaaatca atgggatgtt ctgtcaaata aattcaaaag tgtaaaaaac
+      661 gcaggaaagg ttcagacggc aggtatcgta actccttatg atatactaaa acaggagtta
+      721 gatgaattta acgaggtggc ttttgagaat gaaattaaca aacgtgatgg tgcatatatt
+      781 gagttatgcg tttgttccgt tgaagaggct aaaaaaaata ctcaggaagt tgtgacaaat
+      841 gtggacaatg ctgctaaatc tcaggccacc aattcaaatc cgataagtca gcctgtagat
+      901 agtagtaaag cggagaaggt tccaggagat tctacgcatg gaaatgttaa cagtggccaa
+      961 gatagttcta ccacaggtaa agctgttacg ggggatggta aaaatggaaa tcagacacct
+     1021 gcagaaagcg atgtacagcg aagtgatatt gccgaaagtg taagtgctaa aaatgttgat
+     1081 ccgcagaaat ctgtaagtaa aagaagtgac gacactgcaa gcgttacagg tattgccgaa
+     1141 gctggaaagg aaaacttagg cgcatcaaat agtcgacctt ctgagtccac cgttgaagca
+     1201 aatagcccag gtgatgatac tgtgaacagt gcatctatac ctgtagtgag tggtgaaaac
+     1261 ccattggtaa ccccctataa tggtttgagg cattcgaaag acaatagtga tagcgatgga
+     1321 cctgcggaat caatggcgaa tcctgattca aatagtaaag gtgagacggg aaaggggcaa
+     1381 gataatgata tggcgaaggc tactaaagat agtagtaata gttcagatgg taccagctct
+     1441 gctacgggtg atactactga tgcagttgat agggaaatta ataaaggtgt tcctgaggat
+     1501 agggataaga ctgtaggaag taaagatgga gggggggaag ataactctgc aaataaggat
+     1561 gcagcgactg tagttggtga ggatagaatt cgtgagaaca gcgctggtgg tagcactaat
+     1621 gatagatcaa gaaatgacac ggaaaagaac ggggcctcta cccctgacag taaacaaagt
+     1681 gaggatgcaa ctgcgctaag taaaaccgaa agtttagaat caacagaaag tggagataga
+     1741 actactaatg atacaactat cagtttagaa aataaaaatg gaggaaaaga aaaggattta
+     1801 caaaagcatg attttaaaag taatgatacg ccgaatgaag aaccgaattc tgatcaaact
+     1861 acagatgtag aaggacatga cagggatagc atcaaaaatg ataaagcaga aaggagaaag
+     1921 catatgaata aagatacttt tacgaaaaat acaaatagtc accatttaaa tagtaataat
+     1981 aatttgagta atggaaaatt agatataaaa gaatacaaat acagagatgt caaagcaaca
+     2041 aggaaaaata ttatattaat gtcttcagta cgcaagtgca acaataatat ttctttagag
+     2101 tactgtaact ctgtagagga caaaatatca tcgaatactt gttctagaga gaaaagtaaa
+     2161 aatttatgtt gctcaatatc ggatttttgc ttgaactatt ttgacgtgta ttcttatgag
+     2221 tatcatagct gcatgaaaaa ggaatttgaa g
+//
+
+LOCUS       PFAPNG1AB               2251 bp    DNA     linear   INV 31-JAN-1995
+DEFINITION  Plasmodium vivax (Papua New Guinea 18-5) microneme protein-1
+            (erythrocyte-binding domain) gene, exon 2.
+ACCESSION   L23070
+VERSION     L23070.1
+KEYWORDS    Duffy receptor; erythrocyte-binding protein; microneme protein-1.
+SOURCE      Plasmodium vivax (malaria parasite P. vivax)
+  ORGANISM  Plasmodium vivax
+            Eukaryota; Sar; Alveolata; Apicomplexa; Aconoidasida; Haemosporida;
+            Plasmodiidae; Plasmodium; Plasmodium (Plasmodium).
+REFERENCE   1  (bases 1 to 2251)
+  AUTHORS   Cochrane,A.H., Gwadz,R.W. and Kamboj,K.K.
+  TITLE     Isolation of three distinct parasite populations expressing
+            different circumsporozoite proteins from the Philippine strain of
+            Plasmodium knowlesi
+  JOURNAL   J. Clin. Microbiol. 26 (2), 178-181 (1988)
+   PUBMED   2449454
+REFERENCE   2  (bases 1 to 2251)
+  AUTHORS   Adams,J.H., Hudson,D.E., Torii,M., Ward,G.E., Wellems,T.E.,
+            Aikawa,M. and Miller,L.H.
+  TITLE     The Duffy receptor family of Plasmodium knowlesi is located within
+            the micronemes of invasive malaria merozoites
+  JOURNAL   Cell 63 (1), 141-153 (1990)
+   PUBMED   2170017
+REFERENCE   3  (bases 1 to 2251)
+  AUTHORS   Fang,X.D., Kaslow,D.C., Adams,J.H. and Miller,L.H.
+  TITLE     Cloning of the Plasmodium vivax Duffy receptor
+  JOURNAL   Mol. Biochem. Parasitol. 44 (1), 125-132 (1991)
+   PUBMED   1849231
+REFERENCE   4  (bases 1 to 2251)
+  AUTHORS   Adams,J.H., Sim,B.K., Dolan,S.A., Fang,X., Kaslow,D.C. and
+            Miller,L.H.
+  TITLE     A family of erythrocyte binding proteins of malaria parasites
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 89 (15), 7085-7089 (1992)
+   PUBMED   1496004
+REFERENCE   5  (bases 1 to 2251)
+  AUTHORS   Tsuboi,T., Al-Yaman,F., Prickett,M.D., Alpers,M.P. and Adams,J.H.
+  TITLE     Polymorphisms of the Plasmodium vivax microneme protein-1
+  JOURNAL   Unpublished
+REFERENCE   6  (bases 1 to 2251)
+  AUTHORS   Tsuboi,T., Kappe,S.H., al-Yaman,F., Prickett,M.D., Alpers,M. and
+            Adams,J.H.
+  TITLE     Natural variation within the principal adhesion domain of the
+            Plasmodium vivax duffy binding protein
+  JOURNAL   Infect. Immun. 62 (12), 5581-5586 (1994)
+   PUBMED   7960140
+COMMENT     Original source text: Plasmodium vivax (individual_isolate Papua
+            New Guinea 18-5) DNA.
+FEATURES             Location/Qualifiers
+     source          1..2251
+                     /organism="Plasmodium vivax"
+                     /mol_type="genomic DNA"
+                     /isolate="Papua New Guinea 18-5"
+                     /db_xref="taxon:5855"
+     CDS             <1..>2251
+                     /function="erythrocyte binding domain"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="exon 2"
+                     /codon_start=1
+                     /product="microneme protein-1"
+                     /protein_id="AAA61767.1"
+                     /translation="RYQLCMKELTNLVNNTDTNFHSDITFRKLYLKRKLIYDAAVEGD
+                     LLFKLNNYRYNKDFCKDIRWSLGDFGDIIMGTDMEGIGYSKVVEDNLRSFGTGKNAQQ
+                     HRKQWWNESKAQIWTAMMYSVKKRLKGKFIWICKINVAVNIEPQIYRRIREWGRDYVS
+                     ELPTEVQKLKEKCDGKINYTDKKVCKVPPCQNACKSYDQWITRKKNQWDVLSNKFKSV
+                     RNAEKVQTAGIVTPYDILKQELDEFNEVAFENEINKRDGAYIELCVCSVEEAKKNTQE
+                     VVTNVDNAAKSQATNSNPISQPVDSSKAEKVPGDSTHGNVNSGQDSSTTGKAVTGDGQ
+                     NGNQTPAESDVQRSDIAESVSAKNVDPQKSVSERSDDTASVTGIAEAGKENLGASNSR
+                     PSESTVEANSPGDDTVNSASIPVVSGENPLVTPYNGLRHSKDNSDSDGTAESMANPDS
+                     NSKGETGKGQDNDMAKATKDSSNSSDGTSSATGDTTDAVDREINKGVPEDRDKTVGSK
+                     DGGGKDNSANKDAATVVGEDRIRENSAGGSTNDRSKNDTEKNGASTPDSKQSEDATAL
+                     SKTESLESTESGDRTTNDTTNSLENKNGGKEKDLQKHDFKSNDTPNEEPNSDQTTDAE
+                     GHDRDSIKNDKAERRKHMDKDTFTKNTNSHHLNSNNNLSNGKLDIKEYKYRDVKATRK
+                     NIILMSSVHKCNNNISLEYCNSVEDKISSNTCSREKSKNLCCSISDFCLNYFDVNSYE
+                     YHSCMKKEFE"
+     misc_feature    1297..1351
+                     /note="polymorphic region"
+ORIGIN      
+        1 agatatcaat tatgtatgaa ggaacttacg aatttggtaa ataatacaga cacaaatttt
+       61 catagtgata taacatttcg aaaattatat ttgaaaagga aacttattta tgatgctgca
+      121 gtagagggcg atttattatt taagttgaat aactacagat ataacaaaga cttttgcaag
+      181 gatataagat ggagtttggg agattttgga gatataatta tgggaacgga tatggaaggc
+      241 atcggatatt ccaaagtagt ggaagataat ttgcgcagct ttggaactgg taaaaatgcc
+      301 caacagcatc gtaaacagtg gtggaatgaa tctaaagcgc aaatttggac agcaatgatg
+      361 tactcagtta aaaaaagatt aaaggggaaa tttatatgga tttgtaaaat aaatgttgcg
+      421 gtaaatatag aaccgcagat atatagacgg attcgagaat ggggaaggga ttacgtgtca
+      481 gaattgccca cagaagtgca aaaactgaaa gaaaaatgtg atggaaaaat caattatact
+      541 gataaaaaag tatgtaaggt accaccatgt caaaatgcgt gtaaatcata tgatcaatgg
+      601 ataaccagaa aaaaaaatca atgggatgtt ctgtcaaata aattcaaaag tgtaagaaac
+      661 gcagaaaagg ttcagacggc aggtatcgta actccttatg atatactaaa acaggagtta
+      721 gatgaattta acgaggtggc ttttgagaat gaaattaaca aacgtgatgg tgcatatatt
+      781 gagttatgcg tttgttccgt tgaagaggct aaaaaaaata ctcaggaagt tgtgacaaat
+      841 gtggacaacg ctgctaaatc tcaggccacc aattcaaatc cgataagtca gcctgtagat
+      901 agtagtaaag cggagaaggt tccaggagat tctacgcatg gaaatgttaa cagtggccaa
+      961 gatagttcta ccacaggtaa agctgttacg ggggatggtc aaaatggaaa tcagacacct
+     1021 gcagaaagcg atgtacagcg aagtgatatt gccgaaagtg taagtgctaa aaatgttgat
+     1081 ccgcagaaat ctgtaagtga aagaagtgac gacactgcaa gcgttacagg tattgccgaa
+     1141 gctggaaagg aaaacttagg cgcatcaaat agtcgacctt ctgagtccac cgttgaagca
+     1201 aatagcccag gtgatgatac tgtgaacagt gcatctatac ctgtagtgag tggtgaaaac
+     1261 ccattggtaa ccccctataa tggtttgagg cattcgaaag acaatagtga tagcgatggg
+     1321 actgcggaat caatggcgaa tcctgattca aatagtaaag gtgagacggg aaaggggcaa
+     1381 gataatgata tggcgaaggc tactaaagat agtagtaata gttcagatgg taccagctct
+     1441 gctacgggtg atactactga tgcagttgat agggaaatta ataaaggtgt tcctgaggat
+     1501 agggataaaa ctgtaggaag taaagatgga ggggggaaag ataactctgc aaataaggat
+     1561 gcagcgactg tagttggtga ggatagaatc cgtgagaaca gcgctggtgg tagcactaat
+     1621 gatagatcaa aaaatgacac ggaaaagaac ggggcctcta cccctgacag taaacaaagt
+     1681 gaggatgcaa ctgcgctaag taaaaccgaa agtttagaat caacagaaag tggagataga
+     1741 actactaatg atacaactaa cagtttagaa aataaaaatg gaggaaaaga aaaggattta
+     1801 caaaagcatg attttaaaag taatgatacg ccgaatgaag aaccaaattc tgatcaaact
+     1861 acagatgcag aaggacatga cagggatagc atcaaaaatg ataaagcaga aaggagaaag
+     1921 catatggata aagatacttt tacgaaaaat acaaatagtc accatttaaa tagtaataat
+     1981 aatttgagta atggaaaatt agatataaaa gaatacaaat acagagatgt caaagcaaca
+     2041 aggaaaaata ttatattaat gtcttcagta cacaagtgca acaataatat ttctttagag
+     2101 tactgtaact ctgtagagga caaaatatca tcgaatactt gttctagaga gaaaagtaaa
+     2161 aatttatgtt gctcaatatc ggatttttgt ttgaactatt ttgacgtgaa ttcttatgag
+     2221 tatcatagct gcatgaaaaa ggaatttgaa g
+//
+
+LOCUS       PFAPNG1AA               2272 bp    DNA     linear   INV 31-JAN-1995
+DEFINITION  Plasmodium vivax (Papua New Guinea 15-1) microneme protein-1
+            (erythrocyte-binding domain) gene, exon 2.
+ACCESSION   L23069
+VERSION     L23069.1
+KEYWORDS    Duffy receptor; erythrocyte-binding protein; microneme protein-1.
+SOURCE      Plasmodium vivax (malaria parasite P. vivax)
+  ORGANISM  Plasmodium vivax
+            Eukaryota; Sar; Alveolata; Apicomplexa; Aconoidasida; Haemosporida;
+            Plasmodiidae; Plasmodium; Plasmodium (Plasmodium).
+REFERENCE   1  (bases 1 to 2272)
+  AUTHORS   Cochrane,A.H., Gwadz,R.W. and Kamboj,K.K.
+  TITLE     Isolation of three distinct parasite populations expressing
+            different circumsporozoite proteins from the Philippine strain of
+            Plasmodium knowlesi
+  JOURNAL   J. Clin. Microbiol. 26 (2), 178-181 (1988)
+   PUBMED   2449454
+REFERENCE   2  (bases 1 to 2272)
+  AUTHORS   Adams,J.H., Hudson,D.E., Torii,M., Ward,G.E., Wellems,T.E.,
+            Aikawa,M. and Miller,L.H.
+  TITLE     The Duffy receptor family of Plasmodium knowlesi is located within
+            the micronemes of invasive malaria merozoites
+  JOURNAL   Cell 63 (1), 141-153 (1990)
+   PUBMED   2170017
+REFERENCE   3  (bases 1 to 2272)
+  AUTHORS   Fang,X.D., Kaslow,D.C., Adams,J.H. and Miller,L.H.
+  TITLE     Cloning of the Plasmodium vivax Duffy receptor
+  JOURNAL   Mol. Biochem. Parasitol. 44 (1), 125-132 (1991)
+   PUBMED   1849231
+REFERENCE   4  (bases 1 to 2272)
+  AUTHORS   Adams,J.H., Sim,B.K., Dolan,S.A., Fang,X., Kaslow,D.C. and
+            Miller,L.H.
+  TITLE     A family of erythrocyte binding proteins of malaria parasites
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 89 (15), 7085-7089 (1992)
+   PUBMED   1496004
+REFERENCE   5  (bases 1 to 2272)
+  AUTHORS   Tsuboi,T., Al-Yaman,F., Prickett,M.D., Alpers,M.P. and Adams,J.H.
+  TITLE     Polymorphisms of the Plasmodium vivax microneme protein-1
+  JOURNAL   Unpublished
+REFERENCE   6  (bases 1 to 2272)
+  AUTHORS   Tsuboi,T., Kappe,S.H., al-Yaman,F., Prickett,M.D., Alpers,M. and
+            Adams,J.H.
+  TITLE     Natural variation within the principal adhesion domain of the
+            Plasmodium vivax duffy binding protein
+  JOURNAL   Infect. Immun. 62 (12), 5581-5586 (1994)
+   PUBMED   7960140
+COMMENT     Original source text: Plasmodium vivax (individual_isolate Papua
+            New Guinea 15-1) DNA.
+FEATURES             Location/Qualifiers
+     source          1..2272
+                     /organism="Plasmodium vivax"
+                     /mol_type="genomic DNA"
+                     /isolate="Papua New Guinea 15-1"
+                     /db_xref="taxon:5855"
+     CDS             <1..>2272
+                     /function="erythrocyte binding domain"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="exon 2"
+                     /codon_start=1
+                     /product="microneme protein-1"
+                     /protein_id="AAA61766.1"
+                     /translation="RYQLCMKELTNLVNNTDTNFHSDITFRKLYLKRKLIYDAAVEGD
+                     LLLKLNNYRYNKDFSKDIRWSLGDFGDIIMGTDMEGIGYSKVVENNLRSFGTGEKAQQ
+                     HRKQWWNESKAQIWAAMMYSVKKRLKGNFIWICKINVAVNIEPQIYRRIREWGRDYVK
+                     ELPTEVQKLKEKCDGKINYTDKKVCKVPPCQNACKSYDQWITRKKIQWDVLSNKFKSV
+                     KNAEKVQTAGIVTPYDILKQELDEFNEVAFENEINKRDGAYIELCVCSVEEAKKNTQE
+                     VVTNVDNAAKSQATNSNPISQPVDSSKAEKVPGDSTHGNVNSGQDSSTTGKAVTGDGQ
+                     NGNQTPAKSDVQRSDIAESVSAKNVDPQKSVSKRSDDTASVTGIAEAGKENLGASNSR
+                     PSESTVEANSPGDDTVNSASIPVVSGENPLVTPYNGLRHSKDNSDGPAEFAESTKSAE
+                     SMANPDSNSKGETGKGQDNDMAKATKDSSNSSDGTSSATGDTTDAVDREINKGVPEDR
+                     DKTVGSKDGGGEDNSANKDAATVVGEDSIRENSAGGSTNDRSKNDTEKNGASTPDSKQ
+                     SEDATALSKTESLESTESGDRTTNDTTNSLENKNGGKEKDLQKHDFKSNDTQNEEPNS
+                     DQTTDVEGHDRDSIKNDKAERRKHMNKDTFTKNTNSHHLNSNNNLSNGKLDIKEYKYR
+                     DVKATRKNIILMSSVRKCNNNISLEYCNSVEDKISSNTCSREKSKNLCCSISDFCLNY
+                     FDVYSYEYHSCMKKEFE"
+     misc_feature    1297..1372
+                     /note="polymorphic region"
+ORIGIN      
+        1 agatatcaat tatgtatgaa ggaacttacg aatttggtaa ataatacaga cacaaatttt
+       61 catagtgata taacatttcg aaaattatat ttgaaaagga aacttattta tgatgctgca
+      121 gtagagggcg atttattact taagttgaat aactacagat ataacaaaga ctttagcaag
+      181 gatataagat ggagtttggg agattttgga gatataatta tgggaacgga tatggaaggc
+      241 atcggatatt ccaaagtagt ggaaaataat ttgcgcagct ttggaactgg tgaaaaggcc
+      301 caacagcatc gtaaacagtg gtggaatgaa tctaaagcac aaatttgggc agcaatgatg
+      361 tactcagtta aaaaaagatt aaaggggaat tttatatgga tttgtaaaat aaatgttgcg
+      421 gtaaatatag aaccgcagat atatagaagg attcgagaat ggggaaggga ttacgtgaaa
+      481 gaattgccca cagaagtgca aaaactgaaa gaaaaatgtg atggaaaaat caattatact
+      541 gataaaaaag tatgtaaggt accaccatgt caaaatgcgt gtaaatcata tgatcaatgg
+      601 ataaccagaa aaaaaattca atgggatgtt ctgtcaaata aattcaaaag tgtaaaaaac
+      661 gcagaaaagg ttcagacggc aggtatcgta actccttatg atatactaaa acaggagtta
+      721 gatgaattta acgaggtggc ttttgagaat gaaattaaca aacgtgatgg tgcatatatt
+      781 gagttatgcg tttgttccgt tgaagaggct aaaaaaaata ctcaggaagt tgtgacaaat
+      841 gtggacaatg ctgctaaatc tcaggccacc aattcaaatc cgataagtca gcctgtagat
+      901 agtagtaaag cggagaaggt tccaggagat tctacgcatg gaaatgttaa cagtggccaa
+      961 gatagttcta ccacaggtaa agctgttacg ggggatggtc aaaatggaaa tcagacacct
+     1021 gcaaaaagcg atgtacagcg aagtgatatt gccgaaagtg taagtgctaa aaatgttgat
+     1081 ccgcagaaat ctgtaagtaa aagaagtgac gacactgcaa gcgttacagg tattgccgaa
+     1141 gctggaaagg aaaacttagg cgcatcaaat agtcgacctt ctgagtccac cgttgaagca
+     1201 aatagcccag gtgatgatac tgtgaacagt gcatctatac ctgtagtgag tggtgaaaac
+     1261 ccattggtaa ccccctataa tggtttgagg cattcgaaag acaatagtga tggacctgcg
+     1321 gaatttgcag aatctacgaa atctgcggaa tcaatggcga atcctgattc aaatagtaaa
+     1381 ggtgagacgg gaaaggggca agataatgat atggcgaagg ctactaaaga tagtagtaat
+     1441 agttcagatg gtaccagctc tgctacgggt gatactactg atgcagttga tagggaaatt
+     1501 aataaaggtg ttcctgagga tagggataaa actgtaggaa gtaaagatgg agggggggaa
+     1561 gataactctg caaataagga tgcagcgact gtagttggtg aggatagtat tcgtgagaac
+     1621 agcgctggtg gtagcactaa cgatagatca aaaaatgaca cggaaaagaa cggggcctct
+     1681 acccctgaca gtaaacaaag tgaggatgca actgcgctaa gtaaaaccga aagtttagaa
+     1741 tcaacagaaa gtggagatag aactactaat gatacaacta acagtttaga aaataaaaat
+     1801 ggaggaaaag aaaaggattt acaaaagcat gattttaaaa gtaatgatac gcagaatgaa
+     1861 gaaccaaatt ctgatcaaac tacagatgta gaaggacatg acagggatag catcaaaaat
+     1921 gataaagcag aaaggagaaa gcatatgaat aaagatactt ttacgaaaaa tacaaatagt
+     1981 caccatttaa atagtaataa taatttgagt aatggaaaat tagatataaa agaatacaaa
+     2041 tacagagatg tcaaagcaac aaggaaaaat attatattaa tgtcttcagt acgcaagtgc
+     2101 aacaataata tttctttaga gtactgtaac tctgtagagg acaaaatatc atcgaatact
+     2161 tgttctagag agaaaagtaa aaatttatgt tgctcaatat cggatttttg tttgaactat
+     2221 tttgacgtgt attcttatga gtatcatagc tgcatgaaaa aggaatttga ag
+//
+
+LOCUS       DQ376101                 493 bp    DNA     linear   INV 26-JUL-2016
+DEFINITION  Plasmodium vivax isolate Chesson merozoite surface protein 1 (MSP1)
+            gene, partial cds.
+ACCESSION   DQ376101
+VERSION     DQ376101.1
+KEYWORDS    .
+SOURCE      Plasmodium vivax (malaria parasite P. vivax)
+  ORGANISM  Plasmodium vivax
+            Eukaryota; Sar; Alveolata; Apicomplexa; Aconoidasida; Haemosporida;
+            Plasmodiidae; Plasmodium; Plasmodium (Plasmodium).
+REFERENCE   1  (bases 1 to 493)
+  AUTHORS   O'Sullivan,M.V.N. and Eisen,D.P.
+  TITLE     The primaquine tolerant phenotype of Plasmodium vivax isolates from
+            the South West Pacific region is shared between genotypically
+            diverse organisms
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 493)
+  AUTHORS   O'Sullivan,M.V.N. and Eisen,D.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-JAN-2006) Microbiology, PaLMS, Royal North Shore
+            Hospital, Pacific Highway, St. Leonards, NSW 2065, Australia
+FEATURES             Location/Qualifiers
+     source          1..493
+                     /organism="Plasmodium vivax"
+                     /mol_type="genomic DNA"
+                     /strain="Chesson"
+                     /db_xref="taxon:5855"
+                     /geo_loc_name="Papua New Guinea"
+                     /note="primaquine tolerant"
+     gene            <1..>493
+                     /gene="MSP1"
+     mRNA            <1..>493
+                     /gene="MSP1"
+                     /product="merozoite surface protein 1"
+     CDS             <1..>493
+                     /gene="MSP1"
+                     /codon_start=2
+                     /product="merozoite surface protein 1"
+                     /protein_id="ABD32147.1"
+                     /translation="TEVTTNAVTSEVQQQQQQQQQQQQQQQQQQQQSQVVPAPAGDAQ
+                     QVISTQPTSQSAAPGVSATPAPTPAAAAAPAPAMSKLEYLEKLLDFLKSAYACHKHIF
+                     VTNSTMKKELLDQYKLNADEQNKIKENKCDELDLLFNVQNNLPAMYSIYDSMSSELQN
+                     LYIE"
+ORIGIN      
+        1 gacagaggtc acaaccaatg cggtaacatc tgaagtacaa caacaacaac aacaacaaca
+       61 acaacagcaa caacagcaac aacagcaaca acaacaatca caagtagtac cagcacctgc
+      121 aggagatgcc caacaagtaa tctcaacaca accgactagt caatccgcag caccaggcgt
+      181 atcagccaca ccagcaccaa cacctgctgc cgcagccgcc ccagcaccag ccatgtccaa
+      241 actggaatac ctcgaaaagc tccttgattt tttaaaatcc gcttacgcat gtcacaagca
+      301 catttttgta accaactcca ccatgaaaaa ggagctactc gatcagtaca aacttaacgc
+      361 tgatgagcaa aacaaaatta aggaaaataa atgcgatgaa ttggacctcc tattcaatgt
+      421 ccagaacaac ttgccagcca tgtactccat atatgactcc atgagcagcg agctgcagaa
+      481 tctttacatt gag
+//
+
+LOCUS       DQ376094                 360 bp    DNA     linear   INV 26-JUL-2016
+DEFINITION  Plasmodium vivax isolate Chesson apical membrane antigen 1 gene,
+            partial cds.
+ACCESSION   DQ376094
+VERSION     DQ376094.1
+KEYWORDS    .
+SOURCE      Plasmodium vivax (malaria parasite P. vivax)
+  ORGANISM  Plasmodium vivax
+            Eukaryota; Sar; Alveolata; Apicomplexa; Aconoidasida; Haemosporida;
+            Plasmodiidae; Plasmodium; Plasmodium (Plasmodium).
+REFERENCE   1  (bases 1 to 360)
+  AUTHORS   O'Sullivan,M.V.N. and Eisen,D.P.
+  TITLE     The primaquine tolerant phenotype of Plasmodium vivax isolates from
+            the South West Pacific region is shared between genotypically
+            diverse organisms
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 360)
+  AUTHORS   O'Sullivan,M.V.N. and Eisen,D.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-JAN-2006) Microbiology, PaLMS, Royal North Shore
+            Hospital, Pacific Highway, St. Leonards, NSW 2065, Australia
+FEATURES             Location/Qualifiers
+     source          1..360
+                     /organism="Plasmodium vivax"
+                     /mol_type="genomic DNA"
+                     /strain="Chesson"
+                     /db_xref="taxon:5855"
+                     /geo_loc_name="Papua New Guinea"
+                     /note="primaquine tolerant"
+     mRNA            <1..>360
+                     /product="apical membrane antigen 1"
+     CDS             <1..>360
+                     /codon_start=1
+                     /product="apical membrane antigen 1"
+                     /protein_id="ABD32140.1"
+                     /translation="HISPMTLANLKERYKDNVEMMKLNDIALCRTHAASFVMAGDQNS
+                     SYRHPAVYDEKEKTCHMLYLSAQENMGPRYCSPDAQNRDAVFCFKPDKNESFENLVYL
+                     SKNVRNDWDKKCPRKNLG"
+ORIGIN      
+        1 catatctccc ccatgacatt agcgaacctt aaggaaaggt ataaagacaa tgtagagatg
+       61 atgaagttaa acgatatagc tttgtgcaga acccacgcag ctagctttgt catggcaggg
+      121 gatcaaaatt cgtcctacag acacccagct gtatacgacg aaaaggaaaa aacatgccac
+      181 atgttgtatt tatcagcgca ggaaaatatg ggtccgaggt actgcagccc agatgcacaa
+      241 aatagagatg ccgtgttctg cttcaagcca gataaaaatg aaagctttga aaacctggtg
+      301 tatttgagca aaaatgtgcg taatgattgg gataaaaaat gcccccgtaa aaatttagga
+//
+
+LOCUS       PVU31928                 381 bp    DNA     linear   INV 24-SEP-1996
+DEFINITION  Plasmodium vivax strain PNG 46 merozoite surface protein-1 (MSP-1)
+            gene, partial cds.
+ACCESSION   U31928
+VERSION     U31928.1
+KEYWORDS    .
+SOURCE      Plasmodium vivax (malaria parasite P. vivax)
+  ORGANISM  Plasmodium vivax
+            Eukaryota; Sar; Alveolata; Apicomplexa; Aconoidasida; Haemosporida;
+            Plasmodiidae; Plasmodium; Plasmodium (Plasmodium).
+REFERENCE   1  (sites)
+  AUTHORS   del Portillo,H.A., Longacre,S., Khouri,E. and David,P.H.
+  TITLE     Primary structure of the merozoite surface antigen 1 of Plasmodium
+            vivax reveals sequences conserved between different Plasmodium
+            species
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 88 (9), 4030-4034 (1991)
+   PUBMED   2023952
+REFERENCE   2  (sites)
+  AUTHORS   Porto,M., Ferreira,M.U., Camargo,L.M., Premawansa,S. and del
+            Portillo,H.A.
+  TITLE     Second form in a segment of the merozoite surface protein 1 gene of
+            Plasmodium vivax among isolates from Rondonia (Brazil)
+  JOURNAL   Mol. Biochem. Parasitol. 54 (1), 121-124 (1992)
+   PUBMED   1518527
+REFERENCE   3  (sites)
+  AUTHORS   Premawansa,S., Snewin,V.A., Khouri,E., Mendis,K.N. and David,P.H.
+  TITLE     Plasmodium vivax:recombination between potential allelic types of
+            the merozoite surface protein MSP1 in parasites isolated from
+            patients
+  JOURNAL   Exp. Parasitol. 76 (2), 192-199 (1993)
+   PUBMED   8454028
+REFERENCE   4  (bases 1 to 381)
+  AUTHORS   Kolakovich,K.A., Ssengoba,A., Wojcik,K., Tsuboi,T., al-Yaman,F.,
+            Alpers,M. and Adams,J.H.
+  TITLE     Plasmodium vivax: favored gene frequencies of the merozoite surface
+            protein-1 and the multiplicity of infection in a malaria endemic
+            region
+  JOURNAL   Exp. Parasitol. 83 (1), 11-19 (1996)
+   PUBMED   8654539
+REFERENCE   5  (bases 1 to 381)
+  AUTHORS   Kolakovich,K.A., Ssengoba,A.S.N., Wojcik,K.R. and Adams,J.H.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-JUL-1995) John H. Adams, Dept. Biological Sciences,
+            University of Notre Dame, 220 Galvin, Notre Dame, IN 46556-5645,
+            USA
+FEATURES             Location/Qualifiers
+     source          1..381
+                     /organism="Plasmodium vivax"
+                     /mol_type="genomic DNA"
+                     /strain="PNG 46"
+                     /db_xref="taxon:5855"
+                     /dev_stage="blood-stage parasites"
+                     /note="derived from PCR amplified DNA"
+     gene            1..381
+                     /gene="MSP-1"
+     CDS             <1..>381
+                     /gene="MSP-1"
+                     /note="allele: PNG 46; polymorphic region 5"
+                     /codon_start=1
+                     /product="merozoite surface protein-1"
+                     /protein_id="AAB08734.1"
+                     /translation="TEKNKPTVAAADIVAKGQSLRGASETGTTGNTVNPTAVVQQPQH
+                     QVANAVTVQPGTTGHQAQGGEAETQTNSVQAAQVQQTPAGAGGQVASTQTISQAPAPT
+                     QASPEPAPAAPPSTPAAVAPAPTMS"
+ORIGIN      
+        1 actgagaaga acaagccgac cgtggcagcg gcagatatag tggcaaaggg acaatcgctt
+       61 agaggagcaa gtgaaacagg gacaactggc aatacagtca atccaacagc tgtagtacaa
+      121 caaccacaac atcaagtagc aaatgcagta acggtacagc ctggaacaac aggacatcaa
+      181 gcacaaggtg gagaagcaga aacacaaaca aattcagtac aagcagcaca agttcaacaa
+      241 acacctgcag gagcgggcgg acaggtagcc tcaacacaaa cgattagcca agccccagca
+      301 ccaactcaag cctccccaga accagcacca gccgccccac catcgacacc tgccgcagtt
+      361 gctccagcac caaccatgtc c
+//
+

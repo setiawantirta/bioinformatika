@@ -1,0 +1,118 @@
+LOCUS       PFAPNG4A                2272 bp    DNA     linear   INV 31-JAN-1995
+DEFINITION  Plasmodium vivax (Papua New Guinea 41-2) microneme protein-1
+            (erythrocyte-binding domain) gene, exon 2.
+ACCESSION   L23073
+VERSION     L23073.1
+KEYWORDS    Duffy receptor; erythrocyte-binding protein; microneme protein-1.
+SOURCE      Plasmodium vivax (malaria parasite P. vivax)
+  ORGANISM  Plasmodium vivax
+            Eukaryota; Sar; Alveolata; Apicomplexa; Aconoidasida; Haemosporida;
+            Plasmodiidae; Plasmodium; Plasmodium (Plasmodium).
+REFERENCE   1  (bases 1 to 2272)
+  AUTHORS   Cochrane,A.H., Gwadz,R.W. and Kamboj,K.K.
+  TITLE     Isolation of three distinct parasite populations expressing
+            different circumsporozoite proteins from the Philippine strain of
+            Plasmodium knowlesi
+  JOURNAL   J. Clin. Microbiol. 26 (2), 178-181 (1988)
+   PUBMED   2449454
+REFERENCE   2  (bases 1 to 2272)
+  AUTHORS   Adams,J.H., Hudson,D.E., Torii,M., Ward,G.E., Wellems,T.E.,
+            Aikawa,M. and Miller,L.H.
+  TITLE     The Duffy receptor family of Plasmodium knowlesi is located within
+            the micronemes of invasive malaria merozoites
+  JOURNAL   Cell 63 (1), 141-153 (1990)
+   PUBMED   2170017
+REFERENCE   3  (bases 1 to 2272)
+  AUTHORS   Fang,X.D., Kaslow,D.C., Adams,J.H. and Miller,L.H.
+  TITLE     Cloning of the Plasmodium vivax Duffy receptor
+  JOURNAL   Mol. Biochem. Parasitol. 44 (1), 125-132 (1991)
+   PUBMED   1849231
+REFERENCE   4  (bases 1 to 2272)
+  AUTHORS   Adams,J.H., Sim,B.K., Dolan,S.A., Fang,X., Kaslow,D.C. and
+            Miller,L.H.
+  TITLE     A family of erythrocyte binding proteins of malaria parasites
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 89 (15), 7085-7089 (1992)
+   PUBMED   1496004
+REFERENCE   5  (bases 1 to 2272)
+  AUTHORS   Tsuboi,T., Al-Yaman,F., Prickett,M.D., Alpers,M.P. and Adams,J.H.
+  TITLE     Polymorphisms of the Plasmodium vivax microneme protein-1
+  JOURNAL   Unpublished
+REFERENCE   6  (bases 1 to 2272)
+  AUTHORS   Tsuboi,T., Kappe,S.H., al-Yaman,F., Prickett,M.D., Alpers,M. and
+            Adams,J.H.
+  TITLE     Natural variation within the principal adhesion domain of the
+            Plasmodium vivax duffy binding protein
+  JOURNAL   Infect. Immun. 62 (12), 5581-5586 (1994)
+   PUBMED   7960140
+COMMENT     Original source text: Plasmodium vivax (individual_isolate Papua
+            New Guinea 41-2) DNA.
+FEATURES             Location/Qualifiers
+     source          1..2272
+                     /organism="Plasmodium vivax"
+                     /mol_type="genomic DNA"
+                     /isolate="Papua New Guinea 41-2"
+                     /db_xref="taxon:5855"
+     CDS             <1..>2272
+                     /function="erythrocyte binding domain"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /codon_start=1
+                     /product="microneme protein-1"
+                     /protein_id="AAA61770.1"
+                     /translation="RYQLCMKELTNFVNNTDTNFHRDITFRKLYLKWKLIYDAAVEFD
+                     LLLKLNNYRYNKVFCKDIRRSLGDFGDIIMGTDMEGIGYSEVVENNLRSFGTGEKAQQ
+                     HRKQWWNESKAQIWTAMMYSVKKRLKGNFIWICKINVAVNIEPQIYRRIREWGRDYVS
+                     ELPTEVQKLKEKCDGKINYTDKKVCKVPPCQNACKSYDQWITRKKNQWDVLSNKFKSV
+                     KNAEKVQTAGIVTPYDILKQELDEFNEVAFENEINKRDGAYIELCVCSVEEAKKNTQE
+                     VVTNVDNAAKSQATNSNPISQPVDSSKAEKVPGDSAHGNVNSGQDSSTTGKAVTGDGQ
+                     NGNQTPAESDVQRSDIAESVSAKNVDPQKSVSKRSDDTASVTGIAEAGKENLGASNSR
+                     PSESTVEANSPGDDTVNSASIPVVRGENPLVTPYNGLGHSKDNSDGTAEFAESTKSAE
+                     SMANPDSNSKGETGKGQDNDMAKATKDSSNSSDGTSSATGDTTDAVDREINKGVPEDR
+                     DKTVGSKDGGGEDNSANKDAATVVGEDRIRENSAGGGTNDRSKNDTEKNGASTPDSKQ
+                     SEDATALSKTESLESTESGDRTTNDTTNSLENKNGGKEKDLQKHDFKSNDTPNEEPNS
+                     DQTTDAEGHDRDSIKNDKAERRKHMNKDTFTKNTNSHHLNSNNNLSNGKLDIKEYKYR
+                     DVKATRKNIILMSSVHKCNNNISLEYCNSVEDKISSNTCSREKSKNLCCSISDFCLNY
+                     FDVNSYEYHSCMKKEFE"
+     misc_feature    1297..1372
+                     /note="polymorphic region"
+ORIGIN      
+        1 agatatcaat tatgtatgaa ggaacttacg aattttgtaa ataatacaga cacaaatttt
+       61 catagggata taacatttcg aaaattatat ttgaaatgga aacttattta tgatgctgca
+      121 gtagagttcg atttattact taagttgaat aactacagat ataacaaagt cttttgcaag
+      181 gatataagac ggagtttggg agattttgga gatataatta tgggaacgga tatggaaggc
+      241 atcggatatt ccgaagtagt ggaaaataat ttgcgcagct ttggaactgg tgaaaaggcc
+      301 caacagcatc gtaaacagtg gtggaatgaa tctaaagcac aaatttggac agcaatgatg
+      361 tactcagtta aaaaaagatt aaaggggaat tttatatgga tttgtaaaat aaatgttgcg
+      421 gtaaatatag aaccgcagat atatagacgg attcgagaat ggggaaggga ttacgtgtca
+      481 gaattgccca cagaagtgca aaaactgaaa gaaaaatgtg atggaaaaat caattatact
+      541 gataaaaagg tatgtaaggt accaccatgt caaaatgcgt gtaaatcata tgatcaatgg
+      601 ataaccagaa aaaaaaatca atgggatgtt ctgtcaaata aattcaaaag tgtaaaaaac
+      661 gcagaaaagg ttcagacggc aggtatcgta actccttatg atatactaaa acaggagtta
+      721 gatgaattta acgaggtggc ttttgagaat gaaattaaca aacgtgatgg tgcatatatt
+      781 gagttatgcg tttgttccgt tgaagaggct aaaaaaaata ctcaggaagt tgtgacaaat
+      841 gtggacaatg ctgctaaatc tcaggccacc aattcaaatc cgataagtca gcctgtagat
+      901 agtagtaaag cggagaaggt tccaggagat tctgcgcatg gaaatgttaa cagtggccaa
+      961 gatagttcta ccacaggtaa agctgttacg ggggatggtc aaaatggaaa tcagacacct
+     1021 gcggaaagcg atgtacagcg aagtgatatt gccgaaagtg taagtgctaa aaatgttgat
+     1081 ccgcagaaat ctgtaagtaa aagaagtgac gacactgcaa gcgttacagg tattgccgaa
+     1141 gctggaaagg aaaacttagg cgcatcaaat agtcgacctt ctgagtccac cgttgaagca
+     1201 aatagcccag gtgatgatac tgtgaacagt gcatctatac ctgtagtgag aggtgaaaac
+     1261 ccattggtaa ccccctataa tggtttgggg cattcgaaag acaatagtga tgggactgcg
+     1321 gaatttgcag aatctacgaa atctgcggaa tcaatggcga atcctgattc aaatagtaaa
+     1381 ggtgagacgg gaaaggggca agataatgat atggcgaagg ctactaaaga tagtagtaat
+     1441 agttcagatg gtaccagctc tgctacgggt gatactactg atgcagttga tagggaaatt
+     1501 aataaaggtg ttcctgagga tagggataaa actgtaggaa gtaaagatgg agggggggaa
+     1561 gataactctg caaataagga tgcagcgact gtagttggtg aggatagaat tcgtgagaac
+     1621 agcgctggtg gtggcactaa tgatagatca aaaaatgaca cggaaaagaa cggggcctct
+     1681 acccctgaca gtaaacaaag tgaggatgca actgcgctaa gtaaaaccga aagtttagaa
+     1741 tcaacagaaa gtggagatag aactactaat gatacaacta acagtttaga aaataaaaat
+     1801 ggaggaaaag aaaaggattt acaaaagcat gattttaaaa gtaatgatac gccgaatgaa
+     1861 gaaccaaatt ctgatcaaac tacagatgca gaaggacatg acagggatag catcaaaaat
+     1921 gataaagcag aaaggagaaa gcatatgaat aaagatactt ttacgaaaaa tacaaatagt
+     1981 caccatttaa atagtaataa taatttgagt aatggaaaat tagatataaa agaatacaaa
+     2041 tacagagatg tcaaagcaac aaggaaaaat attatattaa tgtcttcagt acacaagtgc
+     2101 aacaataata tttctttaga gtactgtaac tctgtagagg acaaaatatc atcgaatact
+     2161 tgttctagag agaaaagtaa aaatttatgt tgctcaatat cggatttttg tttgaactat
+     2221 tttgacgtga attcttatga gtatcatagc tgcatgaaaa aggaatttga ag
+//
+
